@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AsteroidFilterClusterConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Seed>434495452</Seed>
+  <Scale>1</Scale>
+  <Threshold>100</Threshold>
+</AsteroidFilterClusterConfig>

@@ -156,6 +156,11 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Asteroid Filter: Clusters">
+      <Name>3220848664.sbm</Name>
+      <PublishedFileId>3220848664</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Spectator Turbo">
       <Name>3169862712.sbm</Name>
       <PublishedFileId>3169862712</PublishedFileId>
@@ -218,5 +223,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-05-21T02:42:43.2797921-05:00</LastSaveTime>
+  <LastSaveTime>2024-05-21T03:42:26.636393-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

@@ -3,5 +3,7 @@
   <ActiveFilters>
     <AsteroidFilterInfo Name="RemoveNearGasGiant" Priority="10" />
   </ActiveFilters>
-  <InactiveFilters />
+  <InactiveFilters>
+    <AsteroidFilterInfo Name="RemoveToMakeClusters" Priority="100" />
+  </InactiveFilters>
 </AsteroidFilterAPIConfig>
