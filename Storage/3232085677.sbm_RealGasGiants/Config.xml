@@ -21,7 +21,7 @@
         <RingShadowMult>0.1</RingShadowMult>
         <RingInnerScale>1.2</RingInnerScale>
         <RingOuterScale>2.5</RingOuterScale>
-        <RingLayerSpacingScale>0.1</RingLayerSpacingScale>
+        <RingLayerSpacingScale>0.001</RingLayerSpacingScale>
         <RingRotationPeriodSeconds>7200</RingRotationPeriodSeconds>
         <ConstrainNearbyAsteroidsToRing>true</ConstrainNearbyAsteroidsToRing>
       </RingInfo>
