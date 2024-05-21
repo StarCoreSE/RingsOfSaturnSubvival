@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>2298400000</ElapsedGameTime>
+  <ElapsedGameTime>3332320000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="69.3167786207939" y="-127.09113747886748" z="-73.74948881617388" />
-    <Forward x="0.381198436" y="-0.767991543" z="-0.5146618" />
-    <Up x="0.9138644" y="0.2288537" z="0.335377336" />
+    <Position x="148355508.08682144" y="241447.98273153981" z="130428.53214623409" />
+    <Forward x="-0.1484286" y="-0.5728253" z="-0.8061266" />
+    <Up x="-0.409176558" y="0.7776801" z="-0.477271616" />
     <Orientation>
-      <X>-0.170806751</X>
-      <Y>-0.462054282</Y>
-      <Z>-0.596990943</Z>
-      <W>0.6331925</W>
+      <X>-0.281289548</X>
+      <Y>0.133464992</Y>
+      <Z>0.178986475</Z>
+      <W>0.933288336</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="29.1929283" y="1" />
+  <SpectatorSpeed x="12783.4043" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
-  <CameraController>ThirdPersonSpectator</CameraController>
-  <CameraEntity>0</CameraEntity>
+  <CameraController>Entity</CameraController>
+  <CameraEntity>124168712738897777</CameraEntity>
   <ControlledObject>124168712738897777</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-05-21T02:14:44.8403232-05:00</LastSaveTime>
+  <LastSaveTime>2024-05-21T02:23:47.3222985-05:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -226,7 +226,6 @@
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>false</EnableSelectivePhysicsUpdates>
@@ -272,7 +271,7 @@
         </item>
         <item>
           <Key>RealGasGiantSettings_Config_xml</Key>
-          <Value xsi:type="xsd:string">CAES/QEKMVJlYWxHYXNHaWFudC0yMDUwMzEwOTU3ZDE5MDAwLTMyMzgxNDI0ODAzNjI2ODM5NDcSBlNhdHVybh0AbGtHIg8NAABJQxUAABBDHQAAZEIqCERlZmF1bHQyMg8NAABAQBUAAAAAHQAASEM6TggBEghEZWZhdWx0MRoPDQAAgD8VAAAgQR0AAAA/Ig8NAAB/QxUAAFJDHQAAjEItzczMPTXNzMw9PZqZmT9FAAAgQE0AAIA/VQAA4UVYAUIGCAEQARgBSiYIARIDSWNlHQAAekQiB1NpbGljb24tAAB6RDABOgNJY2VFAADIQlUAAAAAXQAAAABlAADhRWgB</Value>
+          <Value xsi:type="xsd:string">CAESngIKLFJlYWxHYXNHaWFudC0xMjM0NWQxMDAwLS00OTExMTYxMDg1NDM2NjM0ODI1EixSZWFsR2FzR2lhbnQtMTIzNDVkMTAwMC0tNDkxMTE2MTA4NTQzNjYzNDgyNR0AADRDIg8NAAB/QxUAAFJDHQAAPkMqCERlZmF1bHQxMg8NAABAQBUAAAAAHQAASEM6TggBEghEZWZhdWx0MRoPDQAAAAAVAAAgQR0AAIA/Ig8NAAB/QxUAAFJDHQAAPkMtAACAPzUAAIA/PQAAgD9FAAAgQE0AAIA/VQAA4UVYAUIGCAEQARgBSiYIARIDSWNlHQAAekQiB1NpbGljb24tAAB6RDABOgNJY2VFAADIQlUAAABAXQAA4EBlAADhRWgB</Value>
         </item>
       </dictionary>
     </variables>
@@ -398,7 +397,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -409,11 +407,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-21T02:14:33.5889891-05:00</LastLoginTime>
+      <LastLoginTime>2024-05-21T02:21:55.754859-05:00</LastLoginTime>
       <SavedCharacters>
         <long>124168712738897777</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-05-21T02:14:44.8403232-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-05-21T02:23:47.3222985-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -424,7 +422,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-21T02:14:35.3342723-05:00</LastLoginTime>
+      <LastLoginTime>2024-05-21T02:21:57.6198593-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -519,7 +517,7 @@
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="124168712738897777">
-              <IsFirstPerson>false</IsFirstPerson>
+              <IsFirstPerson>true</IsFirstPerson>
               <Distance>2.5999999046325684</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
@@ -689,8 +687,6 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -818,7 +814,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.15809238" y="0.6955658" z="-0.70085305" />
+      <SunDirectionNormalized x="0.07398738" y="0.6799946" z="-0.7294746" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -889,7 +885,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>10467</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>118150</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -941,9 +937,9 @@
       <MarkedAreas>
         <EmptyArea>
           <Position>
-            <X>474.06892283009165</X>
-            <Y>-3456.2023093174766</Y>
-            <Z>-907.61750056386836</Z>
+            <X>148001024.5</X>
+            <Y>1024.5</Y>
+            <Z>1024.5</Z>
           </Position>
           <Radius>525</Radius>
         </EmptyArea>
@@ -968,8 +964,4 @@
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
-<!-- Saved '2024-05-21T02:19:27.6194670-05:00' with SEToolbox version '1.204.15.1' -->

@@ -3,10 +3,10 @@
   <GasGiantBlocksSun>true</GasGiantBlocksSun>
   <GasGiantInfoList>
     <GasGiantConfigInfo PlanetName="RealGasGiant-12345d1000--4911161085436634825">
-      <PlanetCustomName>RealGasGiant-12345d1000--4911161085436634825</PlanetCustomName>
-      <Radius>180</Radius>
-      <PlanetColor X="255" Y="210" Z="190" />
-      <PlanetSkin>Default1</PlanetSkin>
+      <PlanetCustomName>Saturn</PlanetCustomName>
+      <Radius>60268</Radius>
+      <PlanetColor X="201" Y="144" Z="57" />
+      <PlanetSkin>Default2</PlanetSkin>
       <AtmoInfo>
         <AirDensity>3</AirDensity>
         <OxygenDensity>0</OxygenDensity>
@@ -15,13 +15,12 @@
       <RingInfo>
         <HasRing>true</HasRing>
         <RingSkin>Default1</RingSkin>
-        <RingNormal X="0" Y="10" Z="1" />
-        <RingColor X="255" Y="210" Z="190" />
-        <RingLightMult>1</RingLightMult>
-        <RingShadowMult>1</RingShadowMult>
-        <RingInnerScale>1</RingInnerScale>
+        <RingNormal X="1" Y="10" Z="0.5" />
+        <RingColor X="255" Y="210" Z="70" />
+        <RingLightMult>0.1</RingLightMult>
+        <RingShadowMult>0.1</RingShadowMult>
+        <RingInnerScale>1.2</RingInnerScale>
         <RingOuterScale>2.5</RingOuterScale>
-        <RingLayerSpacingScale>1</RingLayerSpacingScale>
         <RingRotationPeriodSeconds>7200</RingRotationPeriodSeconds>
         <ConstrainNearbyAsteroidsToRing>true</ConstrainNearbyAsteroidsToRing>
       </RingInfo>
@@ -40,8 +39,8 @@
         <CollectResourceRingSubtypeId>Ice</CollectResourceRingSubtypeId>
         <CollectResourceRingAmount>100</CollectResourceRingAmount>
       </ResourceInfo>
-      <GravityStrength>2</GravityStrength>
-      <GravityFalloff>7</GravityFalloff>
+      <GravityStrength>0</GravityStrength>
+      <GravityFalloff>0</GravityFalloff>
       <DayLengthSeconds>7200</DayLengthSeconds>
       <SpinCounterClockwise>true</SpinCounterClockwise>
     </GasGiantConfigInfo>
