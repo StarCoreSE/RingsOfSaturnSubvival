@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1363520000</ElapsedGameTime>
+  <ElapsedGameTime>2298400000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="-0.32934382554148806" y="-0.074394008015407867" z="1.5750704078872861" />
-    <Forward x="0.145073712" y="0.6612421" z="-0.7360112" />
-    <Up x="0.668944657" y="0.482549965" z="0.565383554" />
+    <Position x="69.3167786207939" y="-127.09113747886748" z="-73.74948881617388" />
+    <Forward x="0.3811984" y="-0.767991543" z="-0.5146617" />
+    <Up x="0.9138643" y="0.228853747" z="0.335377336" />
     <Orientation>
-      <X>0.35723117</X>
-      <Y>0.06618376</Y>
-      <Z>-0.3620924</Z>
-      <W>0.8584257</W>
+      <X>-0.170806766</X>
+      <Y>-0.462054282</Y>
+      <Z>-0.596990943</Z>
+      <W>0.6331925</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="0.1" y="1" />
+  <SpectatorSpeed x="29.1929283" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
-  <CameraController>Entity</CameraController>
-  <CameraEntity>124168712738897777</CameraEntity>
+  <CameraController>ThirdPersonSpectator</CameraController>
+  <CameraEntity>0</CameraEntity>
   <ControlledObject>124168712738897777</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-05-21T02:06:44.3785491-05:00</LastSaveTime>
+  <LastSaveTime>2024-05-21T02:14:44.8403232-05:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -264,7 +264,16 @@
   </Settings>
   <ScriptManagerData>
     <variables>
-      <dictionary />
+      <dictionary>
+        <item>
+          <Key>AsteroidFilterAPI_Config_xml</Key>
+          <Value xsi:type="xsd:string">ChYKElJlbW92ZU5lYXJHYXNHaWFudBAK</Value>
+        </item>
+        <item>
+          <Key>RealGasGiantSettings_Config_xml</Key>
+          <Value xsi:type="xsd:string">CAES/QEKMVJlYWxHYXNHaWFudC0yMDUwMzEwOTU3ZDE5MDAwLTMyMzgxNDI0ODAzNjI2ODM5NDcSBlNhdHVybh0AbGtHIg8NAABJQxUAABBDHQAAZEIqCERlZmF1bHQyMg8NAABAQBUAAAAAHQAASEM6TggBEghEZWZhdWx0MRoPDQAAgD8VAAAgQR0AAAA/Ig8NAAB/QxUAAFJDHQAAjEItzczMPTXNzMw9PZqZmT9FAAAgQE0AAIA/VQAA4UVYAUIGCAEQARgBSiYIARIDSWNlHQAAekQiB1NpbGljb24tAAB6RDABOgNJY2VFAADIQlUAAAAAXQAAAABlAADhRWgB</Value>
+        </item>
+      </dictionary>
     </variables>
   </ScriptManagerData>
   <AppVersion>1204017</AppVersion>
@@ -388,7 +397,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -399,11 +407,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-21T02:06:40.3402454-05:00</LastLoginTime>
+      <LastLoginTime>2024-05-21T02:14:33.5889891-05:00</LastLoginTime>
       <SavedCharacters>
         <long>124168712738897777</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-05-21T02:06:44.3925504-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-05-21T02:14:44.8403232-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -414,7 +422,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-21T02:06:40.5472427-05:00</LastLoginTime>
+      <LastLoginTime>2024-05-21T02:14:35.3342723-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -507,7 +515,13 @@
             </Slots>
             <SlotsGamepad />
           </Toolbar>
-          <EntityCameraData />
+          <EntityCameraData>
+            <CameraControllerSettings EntityId="124168712738897777">
+              <IsFirstPerson>false</IsFirstPerson>
+              <Distance>2.5999999046325684</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+          </EntityCameraData>
           <BuildColorSlots>
             <Vector3>
               <X>0</X>
@@ -673,8 +687,6 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -802,8 +814,14 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.233052328" y="0.704776466" z="-0.670057237" />
-      <WeatherPlanetData />
+      <SunDirectionNormalized x="0.15809238" y="0.6955658" z="-0.70085305" />
+      <WeatherPlanetData>
+        <MyObjectBuilder_WeatherPlanetData>
+          <PlanetId>-4911161085436634825</PlanetId>
+          <NextWeather>0</NextWeather>
+          <Weathers />
+        </MyObjectBuilder_WeatherPlanetData>
+      </WeatherPlanetData>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContainerDropSystem">
@@ -867,7 +885,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>33130</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>10467</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -916,7 +934,16 @@
       <SavedEncounters />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_WorldGenerator">
-      <MarkedAreas />
+      <MarkedAreas>
+        <EmptyArea>
+          <Position>
+            <X>474.06892283009165</X>
+            <Y>-3456.2023093174766</Y>
+            <Z>-907.61750056386836</Z>
+          </Position>
+          <Radius>525</Radius>
+        </EmptyArea>
+      </MarkedAreas>
       <DeletedAreas />
       <ExistingObjectsSeeds />
     </MyObjectBuilder_SessionComponent>
@@ -930,13 +957,11 @@
   <SessionComponentDisabled />
   <InGameTime>2081-01-01T07:00:00</InGameTime>
   <CustomSkybox />
+  <RequiresDX>11</RequiresDX>
   <VicinityModelsCache />
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
