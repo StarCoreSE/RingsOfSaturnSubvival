@@ -5,10 +5,10 @@
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
     <Position x="69.3167786207939" y="-127.09113747886748" z="-73.74948881617388" />
-    <Forward x="0.381198436" y="-0.767991543" z="-0.5146618" />
-    <Up x="0.9138644" y="0.2288537" z="0.335377336" />
+    <Forward x="0.3811984" y="-0.767991543" z="-0.5146617" />
+    <Up x="0.9138643" y="0.228853747" z="0.335377336" />
     <Orientation>
-      <X>-0.170806751</X>
+      <X>-0.170806766</X>
       <Y>-0.462054282</Y>
       <Z>-0.596990943</Z>
       <W>0.6331925</W>
@@ -226,7 +226,6 @@
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>false</EnableSelectivePhysicsUpdates>
@@ -398,7 +397,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -689,8 +687,6 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -968,8 +964,4 @@
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
-<!-- Saved '2024-05-21T02:19:27.6194670-05:00' with SEToolbox version '1.204.15.1' -->

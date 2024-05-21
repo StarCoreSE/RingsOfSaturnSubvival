@@ -215,6 +215,7 @@
       </Inventory>
       <Battery>
         <CurrentCapacity>1E-05</CurrentCapacity>
+        <RegenEffects />
       </Battery>
       <LightEnabled>false</LightEnabled>
       <UsingLadder xsi:nil="true" />
@@ -258,7 +259,7 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
       <PositionAndOrientation>
-        <Position x="148000000" y="0" z="0" />
+        <Position x="-550.43107716990835" y="-4480.7023093174766" z="-1932.1175005638684" />
         <Forward x="-0" y="-0" z="-1" />
         <Up x="0" y="1" z="0" />
         <Orientation>
@@ -358,4 +359,3 @@
     </MyObjectBuilder_EntityBase>
   </SectorObjects>
 </MyObjectBuilder_Sector>
-<!-- Saved '2024-05-21T02:19:27.6474684-05:00' with SEToolbox version '1.204.15.1' -->
