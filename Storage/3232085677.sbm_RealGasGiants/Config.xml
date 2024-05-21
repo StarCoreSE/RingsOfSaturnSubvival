@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<RealGasGiantsSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GasGiantBlocksSun>true</GasGiantBlocksSun>
+  <GasGiantInfoList>
+    <GasGiantConfigInfo PlanetName="RealGasGiant-806763097d1000--6121251035111545931">
+      <PlanetCustomName>RealGasGiant-806763097d1000--6121251035111545931</PlanetCustomName>
+      <Radius>60268</Radius>
+      <PlanetColor X="201" Y="144" Z="57" />
+      <PlanetSkin>Default2</PlanetSkin>
+      <AtmoInfo>
+        <AirDensity>3</AirDensity>
+        <OxygenDensity>0</OxygenDensity>
+        <WindSpeed>200</WindSpeed>
+      </AtmoInfo>
+      <RingInfo>
+        <HasRing>true</HasRing>
+        <RingSkin>Default1</RingSkin>
+        <RingNormal X="1" Y="10" Z="0.5" />
+        <RingColor X="100" Y="100" Z="50" />
+        <RingLightMult>0.1</RingLightMult>
+        <RingShadowMult>0.1</RingShadowMult>
+        <RingInnerScale>1.2</RingInnerScale>
+        <RingOuterScale>2.5</RingOuterScale>
+        <RingLayerSpacingScale>0.001</RingLayerSpacingScale>
+        <RingRotationPeriodSeconds>7200</RingRotationPeriodSeconds>
+        <ConstrainNearbyAsteroidsToRing>true</ConstrainNearbyAsteroidsToRing>
+      </RingInfo>
+      <InteriorInfo>
+        <AsteroidRemoval>true</AsteroidRemoval>
+        <PressureDamagePlayers>true</PressureDamagePlayers>
+        <PressureDamageGrids>true</PressureDamageGrids>
+      </InteriorInfo>
+      <ResourceInfo>
+        <CollectPlanetResources>true</CollectPlanetResources>
+        <CollectResourceUpperSubtypeId>Ice</CollectResourceUpperSubtypeId>
+        <CollectResourceUpperAmount>1000</CollectResourceUpperAmount>
+        <CollectResourceLowerSubtypeId>Silicon</CollectResourceLowerSubtypeId>
+        <CollectResourceLowerAmount>1000</CollectResourceLowerAmount>
+        <CollectRingResources>true</CollectRingResources>
+        <CollectResourceRingSubtypeId>Ice</CollectResourceRingSubtypeId>
+        <CollectResourceRingAmount>100</CollectResourceRingAmount>
+      </ResourceInfo>
+      <GravityStrength>0</GravityStrength>
+      <GravityFalloff>7</GravityFalloff>
+      <DayLengthSeconds>7200</DayLengthSeconds>
+      <SpinCounterClockwise>true</SpinCounterClockwise>
+    </GasGiantConfigInfo>
+  </GasGiantInfoList>
+</RealGasGiantsSettingsConfig>
