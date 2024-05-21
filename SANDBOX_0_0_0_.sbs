@@ -26,14 +26,14 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>75213884102445245</Name>
       <PositionAndOrientation>
-        <Position x="37786996.924920343" y="9195776.32505463" z="36526264.389341787" />
-        <Forward x="0.80581075" y="0.021333199" z="-0.591788769" />
-        <Up x="-0.113305494" y="0.986441433" z="-0.118722826" />
+        <Position x="-218008256.02282774" y="35207535.274200678" z="234894824.6338253" />
+        <Forward x="0.8019126" y="0.0206407383" z="-0.597084641" />
+        <Up x="-0.113854535" y="0.9863673" z="-0.118814059" />
         <Orientation>
-          <X>-0.0273953024</X>
-          <Y>-0.450949132</Y>
-          <Z>0.07764514</Z>
-          <W>0.8887438</W>
+          <X>-0.0275700539</X>
+          <Y>-0.4479928</Y>
+          <Z>0.077822</Z>
+          <W>0.8902169</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -125,7 +125,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -1600,7 +1600,7 @@
             <SlotsGamepad />
           </Toolbar>
           <Delay>1300</Delay>
-          <CurrentTime>470</CurrentTime>
+          <CurrentTime>802</CurrentTime>
           <IsCountingDown>true</IsCountingDown>
           <Silent>true</Silent>
         </MyObjectBuilder_CubeBlock>
@@ -5631,14 +5631,14 @@
                       <PersistentFlags>CastShadows InScene</PersistentFlags>
                       <Name>124168712738897777</Name>
                       <PositionAndOrientation>
-                        <Position x="37786977.697885312" y="9195798.4467925336" z="36526277.026581272" />
-                        <Forward x="0.80581075" y="0.021333199" z="-0.591788769" />
-                        <Up x="-0.113305494" y="0.986441433" z="-0.118722826" />
+                        <Position x="-218008275.16135755" y="35207557.41119618" z="234894837.37823936" />
+                        <Forward x="0.8019126" y="0.0206407383" z="-0.597084641" />
+                        <Up x="-0.113854535" y="0.9863673" z="-0.118814059" />
                         <Orientation>
-                          <X>-0.0273953024</X>
-                          <Y>-0.450949132</Y>
-                          <Z>0.07764514</Z>
-                          <W>0.8887438</W>
+                          <X>-0.0275700539</X>
+                          <Y>-0.4479928</Y>
+                          <Z>0.077822</Z>
+                          <W>0.8902169</W>
                         </Orientation>
                       </PositionAndOrientation>
                       <LocalPositionAndOrientation>
@@ -6012,14 +6012,14 @@
             <PersistentFlags>CastShadows InScene</PersistentFlags>
             <Name>124168712738897777</Name>
             <PositionAndOrientation>
-              <Position x="37786977.697885312" y="9195798.4467925336" z="36526277.026581272" />
-              <Forward x="0.80581075" y="0.021333199" z="-0.591788769" />
-              <Up x="-0.113305494" y="0.986441433" z="-0.118722826" />
+              <Position x="-218008275.16135755" y="35207557.41119618" z="234894837.37823936" />
+              <Forward x="0.8019126" y="0.0206407383" z="-0.597084641" />
+              <Up x="-0.113854535" y="0.9863673" z="-0.118814059" />
               <Orientation>
-                <X>-0.0273953024</X>
-                <Y>-0.450949132</Y>
-                <Z>0.07764514</Z>
-                <W>0.8887438</W>
+                <X>-0.0275700539</X>
+                <Y>-0.4479928</Y>
+                <Z>0.077822</Z>
+                <W>0.8902169</W>
               </Orientation>
             </PositionAndOrientation>
             <LocalPositionAndOrientation xsi:nil="true" />
@@ -9362,7 +9362,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -27167,7 +27167,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -28124,7 +28124,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -32263,7 +32263,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -32353,8 +32353,8 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <BoneOffset x="127" y="95" z="125" />
         </BoneInfo>
       </Skeleton>
-      <LinearVelocity x="35.2981567" y="-10.1654663" z="-5.037657" />
-      <AngularVelocity x="-0.000169396211" y="0.000739782234" z="-0.000121741294" />
+      <LinearVelocity x="35.29773" y="-10.1653214" z="-5.037567" />
+      <AngularVelocity x="0.00157750864" y="-0.00198323769" z="0.0020501" />
       <XMirroxPlane x="0" y="7" z="22" />
       <DampenersEnabled>false</DampenersEnabled>
       <ConveyorLines>
