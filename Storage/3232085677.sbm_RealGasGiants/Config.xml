@@ -16,7 +16,7 @@
         <HasRing>true</HasRing>
         <RingSkin>Default1</RingSkin>
         <RingNormal X="1" Y="10" Z="0.5" />
-        <RingColor X="150" Y="150" Z="150" />
+        <RingColor X="100" Y="100" Z="100" />
         <RingLightMult>0.1</RingLightMult>
         <RingShadowMult>0.1</RingShadowMult>
         <RingInnerScale>1.2</RingInnerScale>
@@ -40,8 +40,8 @@
         <CollectResourceRingSubtypeId>Ice</CollectResourceRingSubtypeId>
         <CollectResourceRingAmount>100</CollectResourceRingAmount>
       </ResourceInfo>
-      <GravityStrength>0</GravityStrength>
-      <GravityFalloff>0</GravityFalloff>
+      <GravityStrength>2</GravityStrength>
+      <GravityFalloff>14</GravityFalloff>
       <DayLengthSeconds>7200</DayLengthSeconds>
       <SpinCounterClockwise>true</SpinCounterClockwise>
     </GasGiantConfigInfo>
