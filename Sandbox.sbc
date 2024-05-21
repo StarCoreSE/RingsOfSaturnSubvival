@@ -5,11 +5,11 @@
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
     <Position x="79591047.410849437" y="64873299.508170053" z="77642639.983685032" />
-    <Forward x="-0.07413488" y="-0.9046373" z="-0.419684857" />
-    <Up x="0.8490357" y="0.163498551" z="-0.5024009" />
+    <Forward x="-0.0741348863" y="-0.9046372" z="-0.419684917" />
+    <Up x="0.8490357" y="0.16349858" z="-0.5024009" />
     <Orientation>
       <X>-0.484748632</X>
-      <Y>-0.234896377</Y>
+      <Y>-0.234896362</Y>
       <Z>-0.428099841</Z>
       <W>0.72565347</W>
     </Orientation>
@@ -348,6 +348,16 @@
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Rich HUD Master">
+      <Name>1965654081.sbm</Name>
+      <PublishedFileId>1965654081</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Configurable Parameters">
+      <Name>2422592854.sbm</Name>
+      <PublishedFileId>2422592854</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Asteroid Filter: Clusters">
       <Name>3220848664.sbm</Name>
       <PublishedFileId>3220848664</PublishedFileId>
@@ -414,6 +424,7 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -709,6 +720,8 @@
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -1098,4 +1111,7 @@
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
