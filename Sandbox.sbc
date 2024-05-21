@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>22917600000</ElapsedGameTime>
+  <ElapsedGameTime>30970880000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="79591047.410849437" y="64873299.508170053" z="77642639.983685032" />
-    <Forward x="-0.0741348863" y="-0.9046372" z="-0.419684917" />
+    <Position x="79591047.410849482" y="64873299.5081701" z="77642639.983685032" />
+    <Forward x="-0.0741349161" y="-0.9046373" z="-0.419684947" />
     <Up x="0.8490357" y="0.16349858" z="-0.5024009" />
     <Orientation>
       <X>-0.484748632</X>
@@ -21,7 +21,7 @@
   <ControlledObject>82153410223274505</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-05-21T04:37:21.1079811-05:00</LastSaveTime>
+  <LastSaveTime>2024-05-21T05:21:41.4634292-05:00</LastSaveTime>
   <SpectatorDistance>200</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -285,6 +285,758 @@
           <Key>AsteroidFilterCluster_Config_xml</Key>
           <Value xsi:type="xsd:string">CNy/l88BFQAAgD8dAAAAAA==</Value>
         </item>
+        <item>
+          <Key>ConfigurableParametersStorage</Key>
+          <Value xsi:type="xsd:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ConfigurableParametersStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;BlocksParametersStorage&gt;
+    &lt;HeavyArmorResistance&gt;-1&lt;/HeavyArmorResistance&gt;
+    &lt;LightArmorResistance&gt;-1&lt;/LightArmorResistance&gt;
+    &lt;ArmorResistanceApplyToAllShapes&gt;false&lt;/ArmorResistanceApplyToAllShapes&gt;
+    &lt;HeavyArmorDeformationRatio&gt;-1&lt;/HeavyArmorDeformationRatio&gt;
+    &lt;LightArmorDeformationRatio&gt;-1&lt;/LightArmorDeformationRatio&gt;
+    &lt;HeavyArmorShowEdges&gt;true&lt;/HeavyArmorShowEdges&gt;
+    &lt;LightArmorShowEdges&gt;true&lt;/LightArmorShowEdges&gt;
+    &lt;OreDetectorMaxRangeSmallShip&gt;50&lt;/OreDetectorMaxRangeSmallShip&gt;
+    &lt;OreDetectorMaxRangeLargeShip&gt;150&lt;/OreDetectorMaxRangeLargeShip&gt;
+    &lt;UseClearCameraOverlay&gt;false&lt;/UseClearCameraOverlay&gt;
+    &lt;BatteryInitialStoredPowerRatio&gt;-0.1&lt;/BatteryInitialStoredPowerRatio&gt;
+    &lt;SmallSpotlight_LightReflectorRadiusMax&gt;120&lt;/SmallSpotlight_LightReflectorRadiusMax&gt;
+    &lt;LargeSpotlight_LightReflectorRadiusMax&gt;160&lt;/LargeSpotlight_LightReflectorRadiusMax&gt;
+    &lt;SmallSpotlight_LightIntensityMax&gt;5&lt;/SmallSpotlight_LightIntensityMax&gt;
+    &lt;LargeSpotlight_LightIntensityMax&gt;5&lt;/LargeSpotlight_LightIntensityMax&gt;
+    &lt;SmallSpotlight_RequiredPowerInput&gt;0.0002&lt;/SmallSpotlight_RequiredPowerInput&gt;
+    &lt;LargeSpotlight_RequiredPowerInput&gt;0.001&lt;/LargeSpotlight_RequiredPowerInput&gt;
+    &lt;SmallO2H2Generator_PowerConsumption&gt;0.1&lt;/SmallO2H2Generator_PowerConsumption&gt;
+    &lt;LargeO2H2Generator_PowerConsumption&gt;0.5&lt;/LargeO2H2Generator_PowerConsumption&gt;
+    &lt;SmallO2H2Generator_IceConsumptionPerSecond&gt;5&lt;/SmallO2H2Generator_IceConsumptionPerSecond&gt;
+    &lt;LargeO2H2Generator_IceConsumptionPerSecond&gt;25&lt;/LargeO2H2Generator_IceConsumptionPerSecond&gt;
+    &lt;LaserAntenna_PowerInputIdle&gt;0.0001&lt;/LaserAntenna_PowerInputIdle&gt;
+    &lt;LaserAntenna_PowerInputTurning&gt;0.001&lt;/LaserAntenna_PowerInputTurning&gt;
+    &lt;LaserAntenna_PowerInputLasing&gt;10&lt;/LaserAntenna_PowerInputLasing&gt;
+    &lt;LaserAntenna_Large_MaxRange&gt;-1&lt;/LaserAntenna_Large_MaxRange&gt;
+    &lt;LaserAntenna_Small_MaxRange&gt;-1&lt;/LaserAntenna_Small_MaxRange&gt;
+  &lt;/BlocksParametersStorage&gt;
+  &lt;SearchlightParametersStorage&gt;
+    &lt;SmallSearchlight_MaxRangeMeters&gt;800&lt;/SmallSearchlight_MaxRangeMeters&gt;
+    &lt;LargeSearchlight_MaxRangeMeters&gt;800&lt;/LargeSearchlight_MaxRangeMeters&gt;
+    &lt;SmallSearchlight_LightReflectorRadiusMax&gt;120&lt;/SmallSearchlight_LightReflectorRadiusMax&gt;
+    &lt;LargeSearchlight_LightReflectorRadiusMax&gt;160&lt;/LargeSearchlight_LightReflectorRadiusMax&gt;
+    &lt;SmallSearchlight_LightIntensityMax&gt;5&lt;/SmallSearchlight_LightIntensityMax&gt;
+    &lt;LargeSearchlight_LightIntensityMax&gt;5&lt;/LargeSearchlight_LightIntensityMax&gt;
+    &lt;Searchlight_UseClearCameraOverlay&gt;false&lt;/Searchlight_UseClearCameraOverlay&gt;
+  &lt;/SearchlightParametersStorage&gt;
+  &lt;WeaponsParametersStorage&gt;
+    &lt;WeaponParameters&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeGatlingTurret/(null)&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;800&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.005235988&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeGatlingTurret/SmallGatlingTurret&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;600&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.005235988&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeMissileTurret/(null)&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;800&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.008726646&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeMissileTurret/SmallMissileTurret&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;600&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.008726646&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_InteriorTurret/LargeInteriorTurret&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;600&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.001745329&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeMissileTurret/LargeCalibreTurret&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;800&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.005235988&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeMissileTurret/LargeBlockMediumCalibreTurret&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;800&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.006108652&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeMissileTurret/SmallBlockMediumCalibreTurret&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;600&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.008726646&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+      &lt;WeaponParameter&gt;
+        &lt;ObjectBuilderName&gt;MyObjectBuilder_LargeGatlingTurret/AutoCannonTurret&lt;/ObjectBuilderName&gt;
+        &lt;AITargetingRange&gt;600&lt;/AITargetingRange&gt;
+        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
+        &lt;DeviateShotAngle&gt;0.004363323&lt;/DeviateShotAngle&gt;
+      &lt;/WeaponParameter&gt;
+    &lt;/WeaponParameters&gt;
+    &lt;WeaponAmmoParameters&gt;
+      &lt;WeaponAmmoParameter&gt;
+        &lt;SubtypeId&gt;LargeCaliber&lt;/SubtypeId&gt;
+        &lt;Damage&gt;90&lt;/Damage&gt;
+        &lt;DefaultDamage&gt;90&lt;/DefaultDamage&gt;
+        &lt;DamageType&gt;ProjectileMassDamage&lt;/DamageType&gt;
+        &lt;MaxTrajectory&gt;800&lt;/MaxTrajectory&gt;
+      &lt;/WeaponAmmoParameter&gt;
+      &lt;WeaponAmmoParameter&gt;
+        &lt;SubtypeId&gt;Missile&lt;/SubtypeId&gt;
+        &lt;Damage&gt;500&lt;/Damage&gt;
+        &lt;DefaultDamage&gt;500&lt;/DefaultDamage&gt;
+        &lt;DamageType&gt;MissileExplosionDamage&lt;/DamageType&gt;
+        &lt;MaxTrajectory&gt;800&lt;/MaxTrajectory&gt;
+      &lt;/WeaponAmmoParameter&gt;
+      &lt;WeaponAmmoParameter&gt;
+        &lt;SubtypeId&gt;SmallCaliber&lt;/SubtypeId&gt;
+        &lt;Damage&gt;150&lt;/Damage&gt;
+        &lt;DefaultDamage&gt;150&lt;/DefaultDamage&gt;
+        &lt;DamageType&gt;ProjectileMassDamage&lt;/DamageType&gt;
+        &lt;MaxTrajectory&gt;800&lt;/MaxTrajectory&gt;
+      &lt;/WeaponAmmoParameter&gt;
+      &lt;WeaponAmmoParameter&gt;
+        &lt;SubtypeId&gt;LargeCalibreShell&lt;/SubtypeId&gt;
+        &lt;Damage&gt;17000&lt;/Damage&gt;
+        &lt;DefaultDamage&gt;17000&lt;/DefaultDamage&gt;
+        &lt;DamageType&gt;MissileHealthPool&lt;/DamageType&gt;
+        &lt;MaxTrajectory&gt;2000&lt;/MaxTrajectory&gt;
+      &lt;/WeaponAmmoParameter&gt;
+      &lt;WeaponAmmoParameter&gt;
+        &lt;SubtypeId&gt;MediumCalibreShell&lt;/SubtypeId&gt;
+        &lt;Damage&gt;4000&lt;/Damage&gt;
+        &lt;DefaultDamage&gt;4000&lt;/DefaultDamage&gt;
+        &lt;DamageType&gt;MissileHealthPool&lt;/DamageType&gt;
+        &lt;MaxTrajectory&gt;1400&lt;/MaxTrajectory&gt;
+      &lt;/WeaponAmmoParameter&gt;
+      &lt;WeaponAmmoParameter&gt;
+        &lt;SubtypeId&gt;AutocannonShell&lt;/SubtypeId&gt;
+        &lt;Damage&gt;500&lt;/Damage&gt;
+        &lt;DefaultDamage&gt;500&lt;/DefaultDamage&gt;
+        &lt;DamageType&gt;ProjectileMassDamage&lt;/DamageType&gt;
+        &lt;MaxTrajectory&gt;800&lt;/MaxTrajectory&gt;
+      &lt;/WeaponAmmoParameter&gt;
+    &lt;/WeaponAmmoParameters&gt;
+  &lt;/WeaponsParametersStorage&gt;
+  &lt;PlanetsParametersStorage&gt;
+    &lt;PlanetsParameters&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Pertam&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;0.8&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;1&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;EarthLike&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;0.9&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;1&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Alien&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;0.1&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;1&lt;/Breathable&gt;
+        &lt;Density&gt;1.2&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Mars&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;0&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;0&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Moon&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;1&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;0&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;0&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Europa&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;1&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;0&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Titan&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;1&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;0&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Triton&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;0.9&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;1&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;ExtremeFreeze&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;Enceladus&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;0.25&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;1&lt;/Breathable&gt;
+        &lt;Density&gt;0.5&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+      &lt;PlanetParameter&gt;
+        &lt;SubtypeId&gt;RealGasGiant&lt;/SubtypeId&gt;
+        &lt;OxygenDensity&gt;0&lt;/OxygenDensity&gt;
+        &lt;Breathable&gt;0&lt;/Breathable&gt;
+        &lt;Density&gt;1&lt;/Density&gt;
+        &lt;DefaultSurfaceTemperature&gt;Cozy&lt;/DefaultSurfaceTemperature&gt;
+        &lt;MaxWindSpeed&gt;80&lt;/MaxWindSpeed&gt;
+      &lt;/PlanetParameter&gt;
+    &lt;/PlanetsParameters&gt;
+  &lt;/PlanetsParametersStorage&gt;
+  &lt;EnvironmentParametersStorage&gt;
+    &lt;SmallShipMaxSpeed&gt;400&lt;/SmallShipMaxSpeed&gt;
+    &lt;LargeShipMaxSpeed&gt;400&lt;/LargeShipMaxSpeed&gt;
+    &lt;MissileInitialSpeed&gt;100&lt;/MissileInitialSpeed&gt;
+    &lt;MissileDesiredSpeed&gt;200&lt;/MissileDesiredSpeed&gt;
+  &lt;/EnvironmentParametersStorage&gt;
+  &lt;JetpackParametersStorage&gt;
+    &lt;CurrentPreset&gt;Default&lt;/CurrentPreset&gt;
+    &lt;IgnoreInCreativeMode&gt;false&lt;/IgnoreInCreativeMode&gt;
+    &lt;ForceMagnitude&gt;3200&lt;/ForceMagnitude&gt;
+    &lt;SlowdownFactor&gt;5&lt;/SlowdownFactor&gt;
+    &lt;MinPowerConsumption&gt;1E-09&lt;/MinPowerConsumption&gt;
+    &lt;MaxPowerConsumption&gt;0.0001&lt;/MaxPowerConsumption&gt;
+    &lt;ConsumptionFactorPerG&gt;250&lt;/ConsumptionFactorPerG&gt;
+    &lt;EffectivenessAtMinInfluence&gt;0.67&lt;/EffectivenessAtMinInfluence&gt;
+    &lt;EffectivenessAtMaxInfluence&gt;1&lt;/EffectivenessAtMaxInfluence&gt;
+  &lt;/JetpackParametersStorage&gt;
+  &lt;CharacterResourceParametersStorage&gt;
+    &lt;OxygenMaxCapacity&gt;60&lt;/OxygenMaxCapacity&gt;
+    &lt;OxygenBottleCapacity&gt;100&lt;/OxygenBottleCapacity&gt;
+    &lt;OxygenConsumptionMultiplier&gt;1&lt;/OxygenConsumptionMultiplier&gt;
+    &lt;HydrogenMaxCapacity&gt;125&lt;/HydrogenMaxCapacity&gt;
+    &lt;HydrogenBottleCapacity&gt;1000&lt;/HydrogenBottleCapacity&gt;
+    &lt;SuitConsumptionInTemperatureExtreme&gt;2.5&lt;/SuitConsumptionInTemperatureExtreme&gt;
+  &lt;/CharacterResourceParametersStorage&gt;
+  &lt;VoxelMaterialParametersStorage&gt;
+    &lt;voxelMaterialParameters&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Iron&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;5&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;5&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Nickel&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;3&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Cobalt&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;2&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Magnesium&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;2&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Silicon&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;3&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Silver&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;1&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;2&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Gold&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;1&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;1&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Platinum&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;1&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;1&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Uraninite&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;0.3&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;1&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+      &lt;VoxelMaterialParameter&gt;
+        &lt;PartialSubTypeId&gt;Ice&lt;/PartialSubTypeId&gt;
+        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;MinedOreRatio&gt;5&lt;/MinedOreRatio&gt;
+        &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;5&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
+      &lt;/VoxelMaterialParameter&gt;
+    &lt;/voxelMaterialParameters&gt;
+  &lt;/VoxelMaterialParametersStorage&gt;
+  &lt;EconomyParametersStorage&gt;
+    &lt;PriceParameters&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Stone&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;10&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Iron&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;100&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Nickel&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;100&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Cobalt&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;300&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Magnesium&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;200&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Silicon&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;100&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Silver&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;200&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Gold&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;200&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Platinum&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;400&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Uranium&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;500&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+      &lt;PriceParameter&gt;
+        &lt;SubTypeId&gt;Ice&lt;/SubTypeId&gt;
+        &lt;MinimalPricePerUnit&gt;50&lt;/MinimalPricePerUnit&gt;
+      &lt;/PriceParameter&gt;
+    &lt;/PriceParameters&gt;
+    &lt;EconomyTickInSeconds&gt;1200&lt;/EconomyTickInSeconds&gt;
+    &lt;StoreOfferAmountMultiplier&gt;1&lt;/StoreOfferAmountMultiplier&gt;
+    &lt;StoreOrderAmountMultiplier&gt;1&lt;/StoreOrderAmountMultiplier&gt;
+    &lt;ContractAcquisitionAmountMultiplier&gt;1&lt;/ContractAcquisitionAmountMultiplier&gt;
+    &lt;RepMult_Pos_Owner&gt;1&lt;/RepMult_Pos_Owner&gt;
+    &lt;RepMult_Pos_Friend&gt;0.25&lt;/RepMult_Pos_Friend&gt;
+    &lt;RepMult_Pos_Neutral&gt;0&lt;/RepMult_Pos_Neutral&gt;
+    &lt;RepMult_Pos_Enemy&gt;-1.25&lt;/RepMult_Pos_Enemy&gt;
+    &lt;RepMult_Neg_Owner&gt;1&lt;/RepMult_Neg_Owner&gt;
+    &lt;RepMult_Neg_Friend&gt;0.5&lt;/RepMult_Neg_Friend&gt;
+    &lt;RepMult_Neg_Neutral&gt;0&lt;/RepMult_Neg_Neutral&gt;
+    &lt;RepMult_Neg_Enemy&gt;-0.25&lt;/RepMult_Neg_Enemy&gt;
+  &lt;/EconomyParametersStorage&gt;
+  &lt;WeatherParametersStorage&gt;
+    &lt;LightningGridHit&gt;true&lt;/LightningGridHit&gt;
+    &lt;LightningCharacterHit&gt;true&lt;/LightningCharacterHit&gt;
+    &lt;LightningDamage&gt;80&lt;/LightningDamage&gt;
+  &lt;/WeatherParametersStorage&gt;
+  &lt;AudioParametersStorage&gt;
+    &lt;AudioParameters&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayWeldMetal&lt;/AudioId&gt;
+        &lt;Volume&gt;0.8&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayWeldIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.7&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayGrindMetal&lt;/AudioId&gt;
+        &lt;Volume&gt;0.8&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayGrindIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.7&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillMetal&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillRock&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillGrass&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillSoil&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillSand&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillSnow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolPlayDrillIce&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolLrgWeldMetal&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolLrgWeldIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.8&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolLrgGrindMetal&lt;/AudioId&gt;
+        &lt;Volume&gt;0.94&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolLrgGrindIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.85&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolShipDrillMetal&lt;/AudioId&gt;
+        &lt;Volume&gt;0.6&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolShipDrillIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.43&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolShipDrillRock&lt;/AudioId&gt;
+        &lt;Volume&gt;0.75&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolShipDrillSoil&lt;/AudioId&gt;
+        &lt;Volume&gt;0.75&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolShipDrillSoilDist1&lt;/AudioId&gt;
+        &lt;Volume&gt;0.75&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcToolShipDrillSoilDist2&lt;/AudioId&gt;
+        &lt;Volume&gt;0.8&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockRafinery&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockRafineryProcess&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockAssembler&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockAssemblerProcess&lt;/AudioId&gt;
+        &lt;Volume&gt;0.8&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;BlockOxyGenIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.3&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockOxyGenProcess&lt;/AudioId&gt;
+        &lt;Volume&gt;0.3&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockHydrogenEngine&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockWindTurbine&lt;/AudioId&gt;
+        &lt;Volume&gt;1.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallWheelsRun&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallWheelsGround&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeWheelsRun&lt;/AudioId&gt;
+        &lt;Volume&gt;0.85&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeWheelsGround&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallThrusterAtmosphericIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallThrusterAtmosphericSlow&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallThrusterAtmosphericMedium&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallThrusterAtmosphericFast&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeThrusterAtmosphericIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeThrusterAtmosphericSlow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeThrusterAtmosphericMedium&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeThrusterAtmosphericFast&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipThrusterHydrogenPush&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallThrusterHydrogen&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipSmallThrusterHydrogenIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.2&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeThrusterHydrogen&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLargeThrusterHydrogenIdle&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudPlaceBlock&lt;/AudioId&gt;
+        &lt;Volume&gt;0.2&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudDeleteBlock&lt;/AudioId&gt;
+        &lt;Volume&gt;0.2&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcPrgConstrPh01Start&lt;/AudioId&gt;
+        &lt;Volume&gt;0.6&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcPrgConstrPh02Proc&lt;/AudioId&gt;
+        &lt;Volume&gt;0.6&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcPrgConstrPh03Fin&lt;/AudioId&gt;
+        &lt;Volume&gt;0.6&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcPrgDeconstrPh01Start&lt;/AudioId&gt;
+        &lt;Volume&gt;0.68&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcPrgDeconstrPh02Proc&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcPrgDeconstrPh03Fin&lt;/AudioId&gt;
+        &lt;Volume&gt;0.51&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcShipSmCockpitIn&lt;/AudioId&gt;
+        &lt;Volume&gt;0.2&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcShipSmCockpitOut&lt;/AudioId&gt;
+        &lt;Volume&gt;0.2&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLrgCockpitIn&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ShipLrgCockpitOut&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockDoorHangar&lt;/AudioId&gt;
+        &lt;Volume&gt;0.4&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockDoorSmallOpen&lt;/AudioId&gt;
+        &lt;Volume&gt;0.75&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockDoorSmallClose&lt;/AudioId&gt;
+        &lt;Volume&gt;0.75&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockDoorSlidingOpen&lt;/AudioId&gt;
+        &lt;Volume&gt;0.7&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockDoorSlidingClose&lt;/AudioId&gt;
+        &lt;Volume&gt;1&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;BlockCryoIn&lt;/AudioId&gt;
+        &lt;Volume&gt;0.31&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockCryoOut&lt;/AudioId&gt;
+        &lt;Volume&gt;0.9&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockMedical&lt;/AudioId&gt;
+        &lt;Volume&gt;0.2&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcBlockMedicalProgress&lt;/AudioId&gt;
+        &lt;Volume&gt;0.5&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocEnergyLow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocSuitEnergyLow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocStationFuelLow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocShipFuelLow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocFuelLow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocHealthLow&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocEnergyCrit&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocSuitEnergyCrit&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocStationFuelCrit&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocShipFuelCrit&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocFuelCrit&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocHealthCritical&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocEnergyNo&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocSuitEnergyNo&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocStationFuelNo&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocShipFuelNo&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocInventoryFull&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+      &lt;AudioParameter&gt;
+        &lt;AudioId&gt;ArcHudVocMeteorInbound&lt;/AudioId&gt;
+        &lt;Volume&gt;0.35&lt;/Volume&gt;
+      &lt;/AudioParameter&gt;
+    &lt;/AudioParameters&gt;
+  &lt;/AudioParametersStorage&gt;
+  &lt;MESParametersStorage&gt;
+    &lt;MES_Creatures_WeaponReplacement_BasicHandHeldLauncherItem&gt;false&lt;/MES_Creatures_WeaponReplacement_BasicHandHeldLauncherItem&gt;
+    &lt;MES_Creatures_WeaponReplacement_AdvancedHandHeldLauncherItem&gt;false&lt;/MES_Creatures_WeaponReplacement_AdvancedHandHeldLauncherItem&gt;
+    &lt;MES_Creatures_WeaponReplacement_UltimateAutomaticRifleItem&gt;false&lt;/MES_Creatures_WeaponReplacement_UltimateAutomaticRifleItem&gt;
+    &lt;MES_Creatures_WeaponReplacement_ElitePistolItem&gt;false&lt;/MES_Creatures_WeaponReplacement_ElitePistolItem&gt;
+    &lt;MES_Creatures_WeaponReplacement_AngleGrinder4Item&gt;false&lt;/MES_Creatures_WeaponReplacement_AngleGrinder4Item&gt;
+    &lt;MES_Creatures_MinimumSpawnDistance&gt;-1&lt;/MES_Creatures_MinimumSpawnDistance&gt;
+    &lt;MES_Creatures_MaximumSpawnDistance&gt;-1&lt;/MES_Creatures_MaximumSpawnDistance&gt;
+    &lt;MES_Grids_RemoveIgnoreGlobalBlockReplacer&gt;false&lt;/MES_Grids_RemoveIgnoreGlobalBlockReplacer&gt;
+    &lt;MES_Grids_UseProprietaryO2H2Generators&gt;false&lt;/MES_Grids_UseProprietaryO2H2Generators&gt;
+  &lt;/MESParametersStorage&gt;
+&lt;/ConfigurableParametersStorage&gt;</Value>
+        </item>
       </dictionary>
     </variables>
   </ScriptManagerData>
@@ -424,7 +1176,6 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -435,11 +1186,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-21T04:36:10.8651418-05:00</LastLoginTime>
+      <LastLoginTime>2024-05-21T05:07:34.5411253-05:00</LastLoginTime>
       <SavedCharacters>
         <long>124168712738897777</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-05-21T04:37:21.1079811-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-05-21T05:21:41.4634292-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -450,7 +1201,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-21T04:36:13.8321607-05:00</LastLoginTime>
+      <LastLoginTime>2024-05-21T05:07:37.8333488-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -552,7 +1303,7 @@
             <CameraControllerSettings EntityId="82153410223274505">
               <IsFirstPerson>false</IsFirstPerson>
               <Distance>200</Distance>
-              <HeadAngle x="-2.56221581" y="102.440666" />
+              <HeadAngle x="11.3811111" y="-3.13024759" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -720,8 +1471,6 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -849,7 +1598,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.93801266" y="-0.295339137" z="-0.18140313" />
+      <SunDirectionNormalized x="-0.679617643" y="-0.642529" z="0.3539441" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -920,7 +1669,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>117983</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>116783</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -1066,52 +1815,49 @@
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySlopePlate.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavyCornerLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavyCornerRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
     <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

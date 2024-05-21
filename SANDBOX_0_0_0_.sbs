@@ -20,20 +20,124 @@
   </Environment>
   <VoxelHandVolumeChanged>0</VoxelHandVolumeChanged>
   <SectorObjects>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-4911161085436634825</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
+      <PositionAndOrientation>
+        <Position x="148000000" y="0" z="0" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyModStorageComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
+              <Storage>
+                <dictionary>
+                  <item>
+                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
+                    <Value>2,14,6.0268E+07</Value>
+                  </item>
+                </dictionary>
+              </Storage>
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>RealGasGiant-12345d1000</StorageName>
+      <Radius>500</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>875</AtmosphereRadius>
+      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
+      <MaximumHillRadius>525</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>20</X>
+          <Y>7.5</Y>
+          <Z>10</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>50</X>
+          <Y>50</Y>
+          <Z>50</Z>
+        </MieColorScattering>
+        <RayleighHeight>10</RayleighHeight>
+        <RayleighHeightSpace>10</RayleighHeightSpace>
+        <RayleighTransitionModifier>1</RayleighTransitionModifier>
+        <MieHeight>50</MieHeight>
+        <MieG>0.9998</MieG>
+        <Intensity>1</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>1</SeaLevelModifier>
+        <AtmosphereTopModifier>1</AtmosphereTopModifier>
+        <Scale>0.5</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>RealGasGiant</PlanetGenerator>
+      <Seed>12345</Seed>
+    </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
       <EntityId>89433485653734307</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>75213884102445245</Name>
       <PositionAndOrientation>
-        <Position x="49799470.12568377" y="7194998.7630280228" z="57128657.88062381" />
-        <Forward x="-0.417782664" y="0.0798010156" z="-0.9050356" />
-        <Up x="0.353571326" y="0.931889832" z="-0.08104675" />
+        <Position x="49761760.520252444" y="7260460.8370225923" z="57092226.616424382" />
+        <Forward x="-0.1249475" y="0.020970406" z="-0.99194175" />
+        <Up x="0.368166357" y="0.9293757" z="-0.0267274659" />
         <Orientation>
-          <X>-0.000324969558</X>
-          <Y>0.217903867</Y>
-          <Z>-0.184539855</Z>
-          <W>0.958364666</W>
+          <X>-0.00146843633</X>
+          <Y>0.06345854</Y>
+          <Z>-0.187909544</Z>
+          <W>0.980133057</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -125,7 +229,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -5631,14 +5735,14 @@
                       <PersistentFlags>CastShadows InScene</PersistentFlags>
                       <Name>124168712738897777</Name>
                       <PositionAndOrientation>
-                        <Position x="49799489.573463209" y="7195017.0503899707" z="57128675.376516208" />
-                        <Forward x="-0.417782664" y="0.0798010156" z="-0.9050356" />
-                        <Up x="0.353571326" y="0.931889832" z="-0.08104675" />
+                        <Position x="49761773.918629408" y="7260480.3547940738" z="57092248.024136372" />
+                        <Forward x="-0.1249475" y="0.020970406" z="-0.99194175" />
+                        <Up x="0.368166357" y="0.9293757" z="-0.0267274659" />
                         <Orientation>
-                          <X>-0.000324969558</X>
-                          <Y>0.217903867</Y>
-                          <Z>-0.184539855</Z>
-                          <W>0.958364666</W>
+                          <X>-0.00146843633</X>
+                          <Y>0.06345854</Y>
+                          <Z>-0.187909544</Z>
+                          <W>0.980133057</W>
                         </Orientation>
                       </PositionAndOrientation>
                       <LocalPositionAndOrientation>
@@ -6012,14 +6116,14 @@
             <PersistentFlags>CastShadows InScene</PersistentFlags>
             <Name>124168712738897777</Name>
             <PositionAndOrientation>
-              <Position x="49799489.573463209" y="7195017.0503899707" z="57128675.376516208" />
-              <Forward x="-0.417782664" y="0.0798010156" z="-0.9050356" />
-              <Up x="0.353571326" y="0.931889832" z="-0.08104675" />
+              <Position x="49761773.918629408" y="7260480.3547940738" z="57092248.024136372" />
+              <Forward x="-0.1249475" y="0.020970406" z="-0.99194175" />
+              <Up x="0.368166357" y="0.9293757" z="-0.0267274659" />
               <Orientation>
-                <X>-0.000324969558</X>
-                <Y>0.217903867</Y>
-                <Z>-0.184539855</Z>
-                <W>0.958364666</W>
+                <X>-0.00146843633</X>
+                <Y>0.06345854</Y>
+                <Z>-0.187909544</Z>
+                <W>0.980133057</W>
               </Orientation>
             </PositionAndOrientation>
             <LocalPositionAndOrientation xsi:nil="true" />
@@ -27167,7 +27271,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -28124,7 +28228,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -32353,8 +32457,8 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <BoneOffset x="127" y="95" z="125" />
         </BoneInfo>
       </Skeleton>
-      <LinearVelocity x="-44.9692078" y="78.04706" z="-43.4318542" />
-      <AngularVelocity x="0.00235416321" y="0.000668852357" z="-0.0009806404" />
+      <LinearVelocity x="-44.9678955" y="78.04526" z="-43.4305725" />
+      <AngularVelocity x="1.0436837E-09" y="1.0058141E-09" z="8.838858E-09" />
       <XMirroxPlane x="0" y="7" z="22" />
       <DampenersEnabled>false</DampenersEnabled>
       <ConveyorLines>
@@ -33049,110 +33153,6 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
       </OxygenRooms>
       <GridPresenceTier>Tier1</GridPresenceTier>
       <NPCGridClaimElapsed xsi:nil="true" />
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>-4911161085436634825</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
-      <PositionAndOrientation>
-        <Position x="148000000" y="0" z="0" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyModStorageComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
-              <Storage>
-                <dictionary>
-                  <item>
-                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
-                    <Value>2,14,6.0268E+07</Value>
-                  </item>
-                </dictionary>
-              </Storage>
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <StorageName>RealGasGiant-12345d1000</StorageName>
-      <Radius>500</Radius>
-      <HasAtmosphere>true</HasAtmosphere>
-      <AtmosphereRadius>875</AtmosphereRadius>
-      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
-      <MaximumHillRadius>525</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>20</X>
-          <Y>7.5</Y>
-          <Z>10</Z>
-        </RayleighScattering>
-        <MieScattering>50</MieScattering>
-        <MieColorScattering>
-          <X>50</X>
-          <Y>50</Y>
-          <Z>50</Z>
-        </MieColorScattering>
-        <RayleighHeight>10</RayleighHeight>
-        <RayleighHeightSpace>10</RayleighHeightSpace>
-        <RayleighTransitionModifier>1</RayleighTransitionModifier>
-        <MieHeight>50</MieHeight>
-        <MieG>0.9998</MieG>
-        <Intensity>1</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>1</SeaLevelModifier>
-        <AtmosphereTopModifier>1</AtmosphereTopModifier>
-        <Scale>0.5</Scale>
-        <SunColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>1</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>RealGasGiant</PlanetGenerator>
-      <Seed>12345</Seed>
     </MyObjectBuilder_EntityBase>
   </SectorObjects>
 </MyObjectBuilder_Sector>
