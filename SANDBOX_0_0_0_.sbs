@@ -20,124 +20,20 @@
   </Environment>
   <VoxelHandVolumeChanged>0</VoxelHandVolumeChanged>
   <SectorObjects>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>-4911161085436634825</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
-      <PositionAndOrientation>
-        <Position x="148000000" y="0" z="0" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyModStorageComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
-              <Storage>
-                <dictionary>
-                  <item>
-                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
-                    <Value>0,0,6.0268E+07</Value>
-                  </item>
-                </dictionary>
-              </Storage>
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <StorageName>RealGasGiant-12345d1000</StorageName>
-      <Radius>500</Radius>
-      <HasAtmosphere>true</HasAtmosphere>
-      <AtmosphereRadius>875</AtmosphereRadius>
-      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
-      <MaximumHillRadius>525</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>20</X>
-          <Y>7.5</Y>
-          <Z>10</Z>
-        </RayleighScattering>
-        <MieScattering>50</MieScattering>
-        <MieColorScattering>
-          <X>50</X>
-          <Y>50</Y>
-          <Z>50</Z>
-        </MieColorScattering>
-        <RayleighHeight>10</RayleighHeight>
-        <RayleighHeightSpace>10</RayleighHeightSpace>
-        <RayleighTransitionModifier>1</RayleighTransitionModifier>
-        <MieHeight>50</MieHeight>
-        <MieG>0.9998</MieG>
-        <Intensity>1</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>1</SeaLevelModifier>
-        <AtmosphereTopModifier>1</AtmosphereTopModifier>
-        <Scale>0.5</Scale>
-        <SunColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>1</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>RealGasGiant</PlanetGenerator>
-      <Seed>12345</Seed>
-    </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
       <EntityId>89433485653734307</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>75213884102445245</Name>
       <PositionAndOrientation>
-        <Position x="34553906.659756646" y="12764193.251215985" z="-25697240.553429514" />
-        <Forward x="0.8517913" y="-0.273633033" z="0.446740031" />
-        <Up x="0.188273579" y="0.95567" z="0.2263802" />
+        <Position x="10921556.067443233" y="23346302.562962011" z="-76500133.676112324" />
+        <Forward x="-0.1380263" y="0.278185546" z="0.9505587" />
+        <Up x="0.167814955" y="0.9524365" z="-0.254367471" />
         <Orientation>
-          <X>-0.0233930759</X>
-          <Y>-0.8501898</Y>
-          <Z>-0.147029862</Z>
-          <W>0.504987359</W>
+          <X>0.07418557</X>
+          <Y>0.984771967</Y>
+          <Z>-0.135197014</Z>
+          <W>0.08026508</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -229,7 +125,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -1704,7 +1600,7 @@
             <SlotsGamepad />
           </Toolbar>
           <Delay>1300</Delay>
-          <CurrentTime>1134</CurrentTime>
+          <CurrentTime>968</CurrentTime>
           <IsCountingDown>true</IsCountingDown>
           <Silent>true</Silent>
         </MyObjectBuilder_CubeBlock>
@@ -5152,7 +5048,7 @@
           <ColorBlue>0.396078438</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.5</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -5735,24 +5631,24 @@
                       <PersistentFlags>CastShadows InScene</PersistentFlags>
                       <Name>124168712738897777</Name>
                       <PositionAndOrientation>
-                        <Position x="34553890.508414589" y="12764220.63875721" z="-25697243.347693987" />
-                        <Forward x="0.8517936" y="-0.273631871" z="0.446736366" />
-                        <Up x="0.188273" y="0.9556702" z="0.226379871" />
+                        <Position x="10921560.508600926" y="23346318.044629958" z="-76500161.232314065" />
+                        <Forward x="-0.1380263" y="0.278185546" z="0.9505587" />
+                        <Up x="0.167814955" y="0.9524365" z="-0.254367471" />
                         <Orientation>
-                          <X>-0.0233925823</X>
-                          <Y>-0.8501888</Y>
-                          <Z>-0.147029623</Z>
-                          <W>0.5049892</W>
+                          <X>0.07418557</X>
+                          <Y>0.984771967</Y>
+                          <Z>-0.135197014</Z>
+                          <W>0.08026508</W>
                         </Orientation>
                       </PositionAndOrientation>
                       <LocalPositionAndOrientation>
-                        <Position x="-4.3038278818130493E-05" y="1.292303204536438E-05" z="1.5877187252044678E-05" />
-                        <Forward x="-4.41638349E-06" y="6.991634E-07" z="-1" />
-                        <Up x="-1.07060769E-08" y="1" z="6.964967E-07" />
+                        <Position x="0" y="1.862645149230957E-09" z="5.5879354476928711E-09" />
+                        <Forward x="-0" y="-1.38777878E-17" z="-1" />
+                        <Up x="0" y="1" z="0" />
                         <Orientation>
-                          <X>3.495817E-07</X>
-                          <Y>2.20819175E-06</Y>
-                          <Z>5.35380451E-09</Z>
+                          <X>-6.938894E-18</X>
+                          <Y>0</Y>
+                          <Z>0</Z>
                           <W>1</W>
                         </Orientation>
                       </LocalPositionAndOrientation>
@@ -6116,14 +6012,14 @@
             <PersistentFlags>CastShadows InScene</PersistentFlags>
             <Name>124168712738897777</Name>
             <PositionAndOrientation>
-              <Position x="34553890.508414589" y="12764220.63875721" z="-25697243.347693987" />
-              <Forward x="0.8517936" y="-0.273631871" z="0.446736366" />
-              <Up x="0.188273" y="0.9556702" z="0.226379871" />
+              <Position x="10921560.508600926" y="23346318.044629958" z="-76500161.232314065" />
+              <Forward x="-0.1380263" y="0.278185546" z="0.9505587" />
+              <Up x="0.167814955" y="0.9524365" z="-0.254367471" />
               <Orientation>
-                <X>-0.0233925823</X>
-                <Y>-0.8501888</Y>
-                <Z>-0.147029623</Z>
-                <W>0.5049892</W>
+                <X>0.07418557</X>
+                <Y>0.984771967</Y>
+                <Z>-0.135197014</Z>
+                <W>0.08026508</W>
               </Orientation>
             </PositionAndOrientation>
             <LocalPositionAndOrientation xsi:nil="true" />
@@ -6345,8 +6241,8 @@
           </Pilot>
           <PilotRelativeWorld>
             <Position x="-1.0631921291351318" y="-1.2524933815002441" z="1.9309815168380737" />
-            <Forward x="0.427989572" y="-0.000108922846" z="-0.9037836" />
-            <Up x="3.9428116E-05" y="1" z="-0.000101846133" />
+            <Forward x="0.4279896" y="-0.000108922854" z="-0.9037837" />
+            <Up x="3.942861E-05" y="1" z="-0.000101847181" />
             <Orientation>
               <X>-5.40076253E-05</X>
               <Y>-0.219335765</Y>
@@ -7617,7 +7513,7 @@
           <ColorBlue>0.396078438</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.5</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -9466,7 +9362,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -9925,7 +9821,7 @@
           <ColorBlue>0.168627456</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.5</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -10425,7 +10321,7 @@
           <ColorBlue>0.427450985</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.5</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -10451,7 +10347,7 @@
           <ColorBlue>0.427450985</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.5</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -10525,7 +10421,7 @@
           <ColorBlue>0.427450985</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.5</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -11359,7 +11255,7 @@
           <ColorBlue>0</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.03645921</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -26864,7 +26760,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <ColorBlue>0</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>0.815104842</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -26890,7 +26786,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <ColorBlue>0</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>0.815104842</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -26916,7 +26812,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <ColorBlue>0</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>0.815104842</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -27187,7 +27083,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <ColorBlue>0</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.03645921</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -27271,7 +27167,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -27492,7 +27388,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <ColorBlue>0.223529413</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.023438</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -27518,7 +27414,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <ColorBlue>0.223529413</ColorBlue>
           <Falloff>1</Falloff>
           <Intensity>1.023438</Intensity>
-          <BlinkIntervalSeconds>-0</BlinkIntervalSeconds>
+          <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
           <BlinkLenght>75</BlinkLenght>
           <BlinkOffset>0</BlinkOffset>
           <Offset>0.5</Offset>
@@ -28228,7 +28124,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -32367,7 +32263,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -32457,9 +32353,10 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <BoneOffset x="127" y="95" z="125" />
         </BoneInfo>
       </Skeleton>
-      <LinearVelocity x="7.19953537" y="8.068676" z="16.103096" />
-      <AngularVelocity x="-0.03662971" y="0.0196701121" z="-0.0171620119" />
+      <LinearVelocity x="-18.2902527" y="14.63282" z="97.21802" />
+      <AngularVelocity x="0.00102133933" y="0.0150779355" z="-0.00426494144" />
       <XMirroxPlane x="0" y="7" z="22" />
+      <DampenersEnabled>false</DampenersEnabled>
       <ConveyorLines>
         <MyObjectBuilder_ConveyorLine>
           <StartPosition x="0" y="4" z="14" />
@@ -33152,6 +33049,110 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
       </OxygenRooms>
       <GridPresenceTier>Tier1</GridPresenceTier>
       <NPCGridClaimElapsed xsi:nil="true" />
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-4911161085436634825</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
+      <PositionAndOrientation>
+        <Position x="148000000" y="0" z="0" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyModStorageComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
+              <Storage>
+                <dictionary>
+                  <item>
+                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
+                    <Value>0,0,6.0268E+07</Value>
+                  </item>
+                </dictionary>
+              </Storage>
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>RealGasGiant-12345d1000</StorageName>
+      <Radius>500</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>875</AtmosphereRadius>
+      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
+      <MaximumHillRadius>525</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>20</X>
+          <Y>7.5</Y>
+          <Z>10</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>50</X>
+          <Y>50</Y>
+          <Z>50</Z>
+        </MieColorScattering>
+        <RayleighHeight>10</RayleighHeight>
+        <RayleighHeightSpace>10</RayleighHeightSpace>
+        <RayleighTransitionModifier>1</RayleighTransitionModifier>
+        <MieHeight>50</MieHeight>
+        <MieG>0.9998</MieG>
+        <Intensity>1</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>1</SeaLevelModifier>
+        <AtmosphereTopModifier>1</AtmosphereTopModifier>
+        <Scale>0.5</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>RealGasGiant</PlanetGenerator>
+      <Seed>12345</Seed>
     </MyObjectBuilder_EntityBase>
   </SectorObjects>
 </MyObjectBuilder_Sector>
