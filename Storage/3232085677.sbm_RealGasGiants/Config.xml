@@ -8,7 +8,7 @@
       <PlanetCustomName>Saturn</PlanetCustomName>
       <Radius>60268</Radius>
       <PlanetColor X="201" Y="144" Z="57" />
-      <PlanetSkin>Default2</PlanetSkin>
+      <PlanetSkin>DefaultSaturn</PlanetSkin>
       <AtmoInfo>
         <AirDensity>3</AirDensity>
         <OxygenDensity>0</OxygenDensity>
@@ -16,7 +16,7 @@
       </AtmoInfo>
       <RingInfo>
         <HasRing>true</HasRing>
-        <RingSkin>Default1</RingSkin>
+        <RingSkin>Default2</RingSkin>
         <RingNormal X="1" Y="10" Z="0.5" />
         <RingColor X="50" Y="50" Z="50" />
         <RingLightMult>0.1</RingLightMult>

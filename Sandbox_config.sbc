@@ -44,7 +44,7 @@
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
-    <ViewDistance>15000</ViewDistance>
+    <ViewDistance>20000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
     <EnableOxygen>true</EnableOxygen>
@@ -156,6 +156,11 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Holographic Radar">
+      <Name>605086856.sbm</Name>
+      <PublishedFileId>605086856</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Rich HUD Master">
       <Name>1965654081.sbm</Name>
       <PublishedFileId>1965654081</PublishedFileId>
@@ -226,7 +231,13 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-05-25T23:19:59.8453308-05:00</LastSaveTime>
+  <LastSaveTime>2024-05-26T04:39:32.2874812-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

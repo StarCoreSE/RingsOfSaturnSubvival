@@ -2,6 +2,7 @@
 <AsteroidFilterAPIConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ActiveFilters>
     <AsteroidFilterInfo Name="RemoveNearGasGiant" Priority="10" />
+    <AsteroidFilterInfo Name="RemoveAll" Priority="0" />
   </ActiveFilters>
   <InactiveFilters />
 </AsteroidFilterAPIConfig>
