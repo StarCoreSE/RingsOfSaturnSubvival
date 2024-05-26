@@ -166,11 +166,6 @@
       <PublishedFileId>2422592854</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Asteroid Filter: Clusters">
-      <Name>3220848664.sbm</Name>
-      <PublishedFileId>3220848664</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Spectator Turbo">
       <Name>3169862712.sbm</Name>
       <PublishedFileId>3169862712</PublishedFileId>
@@ -211,7 +206,7 @@
       <PublishedFileId>2912827941</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SETacViewCoordinateOutput">
+    <ModItem FriendlyName="SETacView Demo">
       <Name>2975063364.sbm</Name>
       <PublishedFileId>2975063364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -233,5 +228,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-05-21T05:21:41.4634292-05:00</LastSaveTime>
+  <LastSaveTime>2024-05-25T23:19:59.8453308-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

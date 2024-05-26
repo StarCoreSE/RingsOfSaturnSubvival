@@ -8,7 +8,7 @@
   <SectorEvents>
     <Events />
   </SectorEvents>
-  <AppVersion>1204017</AppVersion>
+  <AppVersion>1204018</AppVersion>
   <Environment>
     <SunAzimuth>-0.5028429</SunAzimuth>
     <SunElevation>0.7892078</SunElevation>
@@ -20,124 +20,20 @@
   </Environment>
   <VoxelHandVolumeChanged>0</VoxelHandVolumeChanged>
   <SectorObjects>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>-4911161085436634825</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
-      <PositionAndOrientation>
-        <Position x="148000000" y="0" z="0" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyModStorageComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
-              <Storage>
-                <dictionary>
-                  <item>
-                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
-                    <Value>2,14,6.0268E+07</Value>
-                  </item>
-                </dictionary>
-              </Storage>
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <StorageName>RealGasGiant-12345d1000</StorageName>
-      <Radius>500</Radius>
-      <HasAtmosphere>true</HasAtmosphere>
-      <AtmosphereRadius>875</AtmosphereRadius>
-      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
-      <MaximumHillRadius>525</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>20</X>
-          <Y>7.5</Y>
-          <Z>10</Z>
-        </RayleighScattering>
-        <MieScattering>50</MieScattering>
-        <MieColorScattering>
-          <X>50</X>
-          <Y>50</Y>
-          <Z>50</Z>
-        </MieColorScattering>
-        <RayleighHeight>10</RayleighHeight>
-        <RayleighHeightSpace>10</RayleighHeightSpace>
-        <RayleighTransitionModifier>1</RayleighTransitionModifier>
-        <MieHeight>50</MieHeight>
-        <MieG>0.9998</MieG>
-        <Intensity>1</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>1</SeaLevelModifier>
-        <AtmosphereTopModifier>1</AtmosphereTopModifier>
-        <Scale>0.5</Scale>
-        <SunColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>1</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>RealGasGiant</PlanetGenerator>
-      <Seed>12345</Seed>
-    </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
       <EntityId>89433485653734307</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>75213884102445245</Name>
       <PositionAndOrientation>
-        <Position x="49761760.520252444" y="7260460.8370225923" z="57092226.616424382" />
-        <Forward x="-0.1249475" y="0.020970406" z="-0.99194175" />
-        <Up x="0.368166357" y="0.9293757" z="-0.0267274659" />
+        <Position x="49760349.042617232" y="7262871.4561117515" z="57091665.440566987" />
+        <Forward x="-0.110999323" y="0.050001" z="-0.9925619" />
+        <Up x="0.341553837" y="0.939817667" z="0.009147618" />
         <Orientation>
-          <X>-0.00146843633</X>
-          <Y>0.06345854</Y>
-          <Z>-0.187909544</Z>
-          <W>0.980133057</W>
+          <X>0.0150418952</X>
+          <Y>0.0591000058</Y>
+          <Z>-0.172814637</Z>
+          <W>0.9830646</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -229,7 +125,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -1704,7 +1600,7 @@
             <SlotsGamepad />
           </Toolbar>
           <Delay>1300</Delay>
-          <CurrentTime>636</CurrentTime>
+          <CurrentTime>138</CurrentTime>
           <IsCountingDown>true</IsCountingDown>
           <Silent>true</Silent>
         </MyObjectBuilder_CubeBlock>
@@ -5726,256 +5622,6 @@
           <ComponentContainer>
             <Components>
               <ComponentData>
-                <TypeId>MyHierarchyComponentBase</TypeId>
-                <Component xsi:type="MyObjectBuilder_HierarchyComponentBase">
-                  <Children>
-                    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
-                      <SubtypeName>Default_Astronaut</SubtypeName>
-                      <EntityId>124168712738897777</EntityId>
-                      <PersistentFlags>CastShadows InScene</PersistentFlags>
-                      <Name>124168712738897777</Name>
-                      <PositionAndOrientation>
-                        <Position x="49761773.918629408" y="7260480.3547940738" z="57092248.024136372" />
-                        <Forward x="-0.1249475" y="0.020970406" z="-0.99194175" />
-                        <Up x="0.368166357" y="0.9293757" z="-0.0267274659" />
-                        <Orientation>
-                          <X>-0.00146843633</X>
-                          <Y>0.06345854</Y>
-                          <Z>-0.187909544</Z>
-                          <W>0.980133057</W>
-                        </Orientation>
-                      </PositionAndOrientation>
-                      <LocalPositionAndOrientation>
-                        <Position x="0" y="-3.7252902984619141E-09" z="2.9802322387695313E-08" />
-                        <Forward x="-5.551115E-17" y="-0" z="-1" />
-                        <Up x="-6.938894E-18" y="1" z="3.85186E-34" />
-                        <Orientation>
-                          <X>9.62965E-35</X>
-                          <Y>2.77555756E-17</Y>
-                          <Z>3.469447E-18</Z>
-                          <W>1</W>
-                        </Orientation>
-                      </LocalPositionAndOrientation>
-                      <ComponentContainer>
-                        <Components>
-                          <ComponentData>
-                            <TypeId>MyEntityStatComponent</TypeId>
-                            <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
-                              <Stats>
-                                <MyObjectBuilder_EntityStat>
-                                  <SubtypeName>SpaceCharacterHealth</SubtypeName>
-                                  <Value>1</Value>
-                                  <MaxValue>1</MaxValue>
-                                  <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
-                                  <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
-                                </MyObjectBuilder_EntityStat>
-                              </Stats>
-                              <ScriptNames>
-                                <string>SpaceStatEffect</string>
-                              </ScriptNames>
-                            </Component>
-                          </ComponentData>
-                          <ComponentData>
-                            <TypeId>MyAssetModifierComponent</TypeId>
-                            <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
-                              <AssetModifiers>
-                                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="VeteranMarkII_Helmet" />
-                                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Suit" />
-                                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Gloves" />
-                                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Boots" />
-                              </AssetModifiers>
-                            </Component>
-                          </ComponentData>
-                          <ComponentData>
-                            <TypeId>MyInventoryBase</TypeId>
-                            <Component xsi:type="MyObjectBuilder_Inventory">
-                              <CanPutItems>true</CanPutItems>
-                              <Items>
-                                <MyObjectBuilder_InventoryItem>
-                                  <Amount>1</Amount>
-                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                                    <SubtypeName>AngleGrinderItem</SubtypeName>
-                                  </PhysicalContent>
-                                  <ItemId>0</ItemId>
-                                </MyObjectBuilder_InventoryItem>
-                                <MyObjectBuilder_InventoryItem>
-                                  <Amount>1</Amount>
-                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                                    <SubtypeName>HandDrillItem</SubtypeName>
-                                  </PhysicalContent>
-                                  <ItemId>1</ItemId>
-                                </MyObjectBuilder_InventoryItem>
-                                <MyObjectBuilder_InventoryItem>
-                                  <Amount>1</Amount>
-                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                                    <SubtypeName>WelderItem</SubtypeName>
-                                  </PhysicalContent>
-                                  <ItemId>2</ItemId>
-                                </MyObjectBuilder_InventoryItem>
-                                <MyObjectBuilder_InventoryItem>
-                                  <Amount>1</Amount>
-                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                                    <SubtypeName>AutomaticRifleItem</SubtypeName>
-                                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                                      <SubtypeName>RifleGun</SubtypeName>
-                                      <EntityId>0</EntityId>
-                                      <PersistentFlags>None</PersistentFlags>
-                                    </GunEntity>
-                                  </PhysicalContent>
-                                  <ItemId>3</ItemId>
-                                </MyObjectBuilder_InventoryItem>
-                                <MyObjectBuilder_InventoryItem>
-                                  <Amount>10</Amount>
-                                  <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                                    <SubtypeName>NATO_5p56x45mm</SubtypeName>
-                                    <ProjectilesCount>0</ProjectilesCount>
-                                  </PhysicalContent>
-                                  <ItemId>4</ItemId>
-                                </MyObjectBuilder_InventoryItem>
-                                <MyObjectBuilder_InventoryItem>
-                                  <Amount>1</Amount>
-                                  <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
-                                    <SubtypeName>HydrogenBottle</SubtypeName>
-                                    <GasLevel>1</GasLevel>
-                                  </PhysicalContent>
-                                  <ItemId>5</ItemId>
-                                </MyObjectBuilder_InventoryItem>
-                                <MyObjectBuilder_InventoryItem>
-                                  <Amount>1</Amount>
-                                  <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
-                                    <SubtypeName>OxygenBottle</SubtypeName>
-                                    <GasLevel>1</GasLevel>
-                                    <OxygenLevel>0</OxygenLevel>
-                                  </PhysicalContent>
-                                  <ItemId>6</ItemId>
-                                </MyObjectBuilder_InventoryItem>
-                              </Items>
-                              <nextItemId>7</nextItemId>
-                              <Volume>0.4</Volume>
-                              <Mass>9223372036854.775807</Mass>
-                              <MaxItemCount>2147483647</MaxItemCount>
-                              <Size xsi:nil="true" />
-                              <InventoryFlags />
-                              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-                            </Component>
-                          </ComponentData>
-                        </Components>
-                      </ComponentContainer>
-                      <CharacterModel>Default_Astronaut</CharacterModel>
-                      <Inventory>
-                        <CanPutItems>true</CanPutItems>
-                        <Items>
-                          <MyObjectBuilder_InventoryItem>
-                            <Amount>1</Amount>
-                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                              <SubtypeName>AngleGrinderItem</SubtypeName>
-                            </PhysicalContent>
-                            <ItemId>0</ItemId>
-                          </MyObjectBuilder_InventoryItem>
-                          <MyObjectBuilder_InventoryItem>
-                            <Amount>1</Amount>
-                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                              <SubtypeName>HandDrillItem</SubtypeName>
-                            </PhysicalContent>
-                            <ItemId>1</ItemId>
-                          </MyObjectBuilder_InventoryItem>
-                          <MyObjectBuilder_InventoryItem>
-                            <Amount>1</Amount>
-                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                              <SubtypeName>WelderItem</SubtypeName>
-                            </PhysicalContent>
-                            <ItemId>2</ItemId>
-                          </MyObjectBuilder_InventoryItem>
-                          <MyObjectBuilder_InventoryItem>
-                            <Amount>1</Amount>
-                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                              <SubtypeName>AutomaticRifleItem</SubtypeName>
-                              <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                                <SubtypeName>RifleGun</SubtypeName>
-                                <EntityId>0</EntityId>
-                                <PersistentFlags>None</PersistentFlags>
-                              </GunEntity>
-                            </PhysicalContent>
-                            <ItemId>3</ItemId>
-                          </MyObjectBuilder_InventoryItem>
-                          <MyObjectBuilder_InventoryItem>
-                            <Amount>10</Amount>
-                            <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                              <SubtypeName>NATO_5p56x45mm</SubtypeName>
-                              <ProjectilesCount>0</ProjectilesCount>
-                            </PhysicalContent>
-                            <ItemId>4</ItemId>
-                          </MyObjectBuilder_InventoryItem>
-                          <MyObjectBuilder_InventoryItem>
-                            <Amount>1</Amount>
-                            <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
-                              <SubtypeName>HydrogenBottle</SubtypeName>
-                              <GasLevel>1</GasLevel>
-                            </PhysicalContent>
-                            <ItemId>5</ItemId>
-                          </MyObjectBuilder_InventoryItem>
-                          <MyObjectBuilder_InventoryItem>
-                            <Amount>1</Amount>
-                            <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
-                              <SubtypeName>OxygenBottle</SubtypeName>
-                              <GasLevel>1</GasLevel>
-                              <OxygenLevel>0</OxygenLevel>
-                            </PhysicalContent>
-                            <ItemId>6</ItemId>
-                          </MyObjectBuilder_InventoryItem>
-                        </Items>
-                        <nextItemId>7</nextItemId>
-                        <Volume>0.4</Volume>
-                        <Mass>9223372036854.775807</Mass>
-                        <MaxItemCount>2147483647</MaxItemCount>
-                        <Size xsi:nil="true" />
-                        <InventoryFlags />
-                        <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-                      </Inventory>
-                      <Battery>
-                        <CurrentCapacity>1E-05</CurrentCapacity>
-                        <RegenEffects />
-                      </Battery>
-                      <LightEnabled>false</LightEnabled>
-                      <UsingLadder xsi:nil="true" />
-                      <HeadAngle x="0" y="0" />
-                      <LinearVelocity x="0" y="0" z="0" />
-                      <AutoenableJetpackDelay>-1</AutoenableJetpackDelay>
-                      <JetpackEnabled>true</JetpackEnabled>
-                      <ColorMaskHSV x="0.0222222228" y="0" z="7.450581E-09" />
-                      <LootingCounter>0</LootingCounter>
-                      <DisplayName>Invalid</DisplayName>
-                      <IsInFirstPersonView>true</IsInFirstPersonView>
-                      <EnableBroadcasting>true</EnableBroadcasting>
-                      <OxygenLevel>1</OxygenLevel>
-                      <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
-                      <StoredGases>
-                        <StoredGas>
-                          <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
-                          <FillLevel>1</FillLevel>
-                        </StoredGas>
-                        <StoredGas>
-                          <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-                          <FillLevel>1</FillLevel>
-                        </StoredGas>
-                      </StoredGases>
-                      <MovementState>Sitting</MovementState>
-                      <EnabledComponents>
-                        <string>RagdollComponent</string>
-                        <string>InventorySpawnComponent</string>
-                      </EnabledComponents>
-                      <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
-                      <OwningPlayerIdentityId>144115188075855895</OwningPlayerIdentityId>
-                      <IsPersistenceCharacter>false</IsPersistenceCharacter>
-                      <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
-                      <RelativeDampeningEntity>89433485653734307</RelativeDampeningEntity>
-                      <UsingLadderInfo xsi:nil="true" />
-                      <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
-                    </MyObjectBuilder_EntityBase>
-                  </Children>
-                </Component>
-              </ComponentData>
-              <ComponentData>
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <CanPutItems>true</CanPutItems>
@@ -6110,239 +5756,6 @@
             <Slots />
             <SlotsGamepad />
           </OnLockedToolbar>
-          <Pilot>
-            <SubtypeName>Default_Astronaut</SubtypeName>
-            <EntityId>124168712738897777</EntityId>
-            <PersistentFlags>CastShadows InScene</PersistentFlags>
-            <Name>124168712738897777</Name>
-            <PositionAndOrientation>
-              <Position x="49761773.918629408" y="7260480.3547940738" z="57092248.024136372" />
-              <Forward x="-0.1249475" y="0.020970406" z="-0.99194175" />
-              <Up x="0.368166357" y="0.9293757" z="-0.0267274659" />
-              <Orientation>
-                <X>-0.00146843633</X>
-                <Y>0.06345854</Y>
-                <Z>-0.187909544</Z>
-                <W>0.980133057</W>
-              </Orientation>
-            </PositionAndOrientation>
-            <LocalPositionAndOrientation xsi:nil="true" />
-            <ComponentContainer>
-              <Components>
-                <ComponentData>
-                  <TypeId>MyEntityStatComponent</TypeId>
-                  <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
-                    <Stats>
-                      <MyObjectBuilder_EntityStat>
-                        <SubtypeName>SpaceCharacterHealth</SubtypeName>
-                        <Value>1</Value>
-                        <MaxValue>1</MaxValue>
-                        <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
-                        <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
-                      </MyObjectBuilder_EntityStat>
-                    </Stats>
-                    <ScriptNames>
-                      <string>SpaceStatEffect</string>
-                    </ScriptNames>
-                  </Component>
-                </ComponentData>
-                <ComponentData>
-                  <TypeId>MyAssetModifierComponent</TypeId>
-                  <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
-                    <AssetModifiers>
-                      <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="VeteranMarkII_Helmet" />
-                      <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Suit" />
-                      <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Gloves" />
-                      <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Boots" />
-                    </AssetModifiers>
-                  </Component>
-                </ComponentData>
-                <ComponentData>
-                  <TypeId>MyInventoryBase</TypeId>
-                  <Component xsi:type="MyObjectBuilder_Inventory">
-                    <CanPutItems>true</CanPutItems>
-                    <Items>
-                      <MyObjectBuilder_InventoryItem>
-                        <Amount>1</Amount>
-                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                          <SubtypeName>AngleGrinderItem</SubtypeName>
-                        </PhysicalContent>
-                        <ItemId>0</ItemId>
-                      </MyObjectBuilder_InventoryItem>
-                      <MyObjectBuilder_InventoryItem>
-                        <Amount>1</Amount>
-                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                          <SubtypeName>HandDrillItem</SubtypeName>
-                        </PhysicalContent>
-                        <ItemId>1</ItemId>
-                      </MyObjectBuilder_InventoryItem>
-                      <MyObjectBuilder_InventoryItem>
-                        <Amount>1</Amount>
-                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                          <SubtypeName>WelderItem</SubtypeName>
-                        </PhysicalContent>
-                        <ItemId>2</ItemId>
-                      </MyObjectBuilder_InventoryItem>
-                      <MyObjectBuilder_InventoryItem>
-                        <Amount>1</Amount>
-                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                          <SubtypeName>AutomaticRifleItem</SubtypeName>
-                          <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                            <SubtypeName>RifleGun</SubtypeName>
-                            <EntityId>0</EntityId>
-                            <PersistentFlags>None</PersistentFlags>
-                          </GunEntity>
-                        </PhysicalContent>
-                        <ItemId>3</ItemId>
-                      </MyObjectBuilder_InventoryItem>
-                      <MyObjectBuilder_InventoryItem>
-                        <Amount>10</Amount>
-                        <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                          <SubtypeName>NATO_5p56x45mm</SubtypeName>
-                          <ProjectilesCount>0</ProjectilesCount>
-                        </PhysicalContent>
-                        <ItemId>4</ItemId>
-                      </MyObjectBuilder_InventoryItem>
-                      <MyObjectBuilder_InventoryItem>
-                        <Amount>1</Amount>
-                        <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
-                          <SubtypeName>HydrogenBottle</SubtypeName>
-                          <GasLevel>1</GasLevel>
-                        </PhysicalContent>
-                        <ItemId>5</ItemId>
-                      </MyObjectBuilder_InventoryItem>
-                      <MyObjectBuilder_InventoryItem>
-                        <Amount>1</Amount>
-                        <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
-                          <SubtypeName>OxygenBottle</SubtypeName>
-                          <GasLevel>1</GasLevel>
-                          <OxygenLevel>0</OxygenLevel>
-                        </PhysicalContent>
-                        <ItemId>6</ItemId>
-                      </MyObjectBuilder_InventoryItem>
-                    </Items>
-                    <nextItemId>7</nextItemId>
-                    <Volume>0.4</Volume>
-                    <Mass>9223372036854.775807</Mass>
-                    <MaxItemCount>2147483647</MaxItemCount>
-                    <Size xsi:nil="true" />
-                    <InventoryFlags />
-                    <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-                  </Component>
-                </ComponentData>
-              </Components>
-            </ComponentContainer>
-            <CharacterModel>Default_Astronaut</CharacterModel>
-            <Inventory>
-              <CanPutItems>true</CanPutItems>
-              <Items>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>AngleGrinderItem</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>0</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>HandDrillItem</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>1</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>WelderItem</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>2</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>AutomaticRifleItem</SubtypeName>
-                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                      <SubtypeName>RifleGun</SubtypeName>
-                      <EntityId>0</EntityId>
-                      <PersistentFlags>None</PersistentFlags>
-                    </GunEntity>
-                  </PhysicalContent>
-                  <ItemId>3</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>10</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                    <SubtypeName>NATO_5p56x45mm</SubtypeName>
-                    <ProjectilesCount>0</ProjectilesCount>
-                  </PhysicalContent>
-                  <ItemId>4</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
-                    <SubtypeName>HydrogenBottle</SubtypeName>
-                    <GasLevel>1</GasLevel>
-                  </PhysicalContent>
-                  <ItemId>5</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
-                    <SubtypeName>OxygenBottle</SubtypeName>
-                    <GasLevel>1</GasLevel>
-                    <OxygenLevel>0</OxygenLevel>
-                  </PhysicalContent>
-                  <ItemId>6</ItemId>
-                </MyObjectBuilder_InventoryItem>
-              </Items>
-              <nextItemId>7</nextItemId>
-              <Volume>0.4</Volume>
-              <Mass>9223372036854.775807</Mass>
-              <MaxItemCount>2147483647</MaxItemCount>
-              <Size xsi:nil="true" />
-              <InventoryFlags />
-              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-            </Inventory>
-            <Battery>
-              <CurrentCapacity>1E-05</CurrentCapacity>
-              <RegenEffects />
-            </Battery>
-            <LightEnabled>false</LightEnabled>
-            <UsingLadder xsi:nil="true" />
-            <HeadAngle x="0" y="0" />
-            <LinearVelocity x="0" y="0" z="0" />
-            <AutoenableJetpackDelay>-1</AutoenableJetpackDelay>
-            <JetpackEnabled>true</JetpackEnabled>
-            <ColorMaskHSV x="0.0222222228" y="0" z="7.450581E-09" />
-            <LootingCounter>0</LootingCounter>
-            <DisplayName>Invalid</DisplayName>
-            <IsInFirstPersonView>true</IsInFirstPersonView>
-            <EnableBroadcasting>true</EnableBroadcasting>
-            <OxygenLevel>1</OxygenLevel>
-            <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
-            <StoredGases>
-              <StoredGas>
-                <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
-                <FillLevel>1</FillLevel>
-              </StoredGas>
-              <StoredGas>
-                <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-                <FillLevel>1</FillLevel>
-              </StoredGas>
-            </StoredGases>
-            <MovementState>Sitting</MovementState>
-            <EnabledComponents>
-              <string>RagdollComponent</string>
-              <string>InventorySpawnComponent</string>
-            </EnabledComponents>
-            <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
-            <OwningPlayerIdentityId>144115188075855895</OwningPlayerIdentityId>
-            <IsPersistenceCharacter>false</IsPersistenceCharacter>
-            <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
-            <RelativeDampeningEntity>89433485653734307</RelativeDampeningEntity>
-            <UsingLadderInfo xsi:nil="true" />
-            <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
-          </Pilot>
           <PilotRelativeWorld>
             <Position x="-1.3211607933044434" y="-1.1687628030776978" z="2.2071104049682617" />
             <Forward x="0.64893" y="-0.414453775" z="-0.638057947" />
@@ -6357,7 +5770,7 @@
           <PilotGunDefinition xsi:nil="true" />
           <IsInFirstPersonView>false</IsInFirstPersonView>
           <OxygenLevel>0</OxygenLevel>
-          <PilotJetpackEnabled>true</PilotJetpackEnabled>
+          <PilotJetpackEnabled xsi:nil="true" />
           <TargetData>
             <TargetId>0</TargetId>
             <IsTargetLocked>false</IsTargetLocked>
@@ -6694,8 +6107,8 @@
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
           <AnyoneCanUse>false</AnyoneCanUse>
-          <Open>false</Open>
-          <CurrOpening>0</CurrOpening>
+          <Open>true</Open>
+          <CurrOpening>1</CurrOpening>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_AirtightSlideDoor">
           <SubtypeName>LargeBlockSlideDoor</SubtypeName>
@@ -9466,7 +8879,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -27271,7 +26684,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -28228,7 +27641,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -32367,7 +31780,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -32457,10 +31870,7 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
           <BoneOffset x="127" y="95" z="125" />
         </BoneInfo>
       </Skeleton>
-      <LinearVelocity x="-44.9678955" y="78.04526" z="-43.4305725" />
-      <AngularVelocity x="1.0436837E-09" y="1.0058141E-09" z="8.838858E-09" />
       <XMirroxPlane x="0" y="7" z="22" />
-      <DampenersEnabled>false</DampenersEnabled>
       <ConveyorLines>
         <MyObjectBuilder_ConveyorLine>
           <StartPosition x="0" y="4" z="14" />
@@ -33153,6 +32563,342 @@ public static readonly Dictionary&lt;string, string&gt; T = new Dictionary&lt;st
       </OxygenRooms>
       <GridPresenceTier>Tier1</GridPresenceTier>
       <NPCGridClaimElapsed xsi:nil="true" />
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-4911161085436634825</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
+      <PositionAndOrientation>
+        <Position x="148000000" y="0" z="0" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyModStorageComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
+              <Storage>
+                <dictionary>
+                  <item>
+                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
+                    <Value>2,14,6.0268E+07</Value>
+                  </item>
+                </dictionary>
+              </Storage>
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>RealGasGiant-12345d1000</StorageName>
+      <Radius>500</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>875</AtmosphereRadius>
+      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
+      <MaximumHillRadius>525</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>20</X>
+          <Y>7.5</Y>
+          <Z>10</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>50</X>
+          <Y>50</Y>
+          <Z>50</Z>
+        </MieColorScattering>
+        <RayleighHeight>10</RayleighHeight>
+        <RayleighHeightSpace>10</RayleighHeightSpace>
+        <RayleighTransitionModifier>1</RayleighTransitionModifier>
+        <MieHeight>50</MieHeight>
+        <MieG>0.9998</MieG>
+        <Intensity>1</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>1</SeaLevelModifier>
+        <AtmosphereTopModifier>1</AtmosphereTopModifier>
+        <Scale>0.5</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>RealGasGiant</PlanetGenerator>
+      <Seed>12345</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
+      <SubtypeName>Default_Astronaut</SubtypeName>
+      <EntityId>124168712738897777</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>124168712738897777</Name>
+      <PositionAndOrientation>
+        <Position x="49760356.7459197" y="7262892.7666413411" z="57091708.617705964" />
+        <Forward x="0.211852714" y="-0.0865587741" z="0.973460734" />
+        <Up x="0.341733575" y="0.9397519" z="0.0091905" />
+        <Orientation>
+          <X>0.171829626</X>
+          <Y>0.9783685</Y>
+          <Z>0.0244665686</Z>
+          <W>-0.112565406</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyEntityStatComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
+              <Stats>
+                <MyObjectBuilder_EntityStat>
+                  <SubtypeName>SpaceCharacterHealth</SubtypeName>
+                  <Value>1</Value>
+                  <MaxValue>1</MaxValue>
+                  <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
+                  <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
+                </MyObjectBuilder_EntityStat>
+              </Stats>
+              <ScriptNames>
+                <string>SpaceStatEffect</string>
+              </ScriptNames>
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyAssetModifierComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
+              <AssetModifiers>
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="VeteranMarkII_Helmet" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Suit" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Gloves" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Boots" />
+              </AssetModifiers>
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyInventoryBase</TypeId>
+            <Component xsi:type="MyObjectBuilder_Inventory">
+              <CanPutItems>true</CanPutItems>
+              <Items>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>AngleGrinderItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>0</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>HandDrillItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>1</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>WelderItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>2</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>AutomaticRifleItem</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                      <SubtypeName>RifleGun</SubtypeName>
+                      <EntityId>0</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>3</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>10</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+                    <SubtypeName>NATO_5p56x45mm</SubtypeName>
+                    <ProjectilesCount>0</ProjectilesCount>
+                  </PhysicalContent>
+                  <ItemId>4</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
+                    <SubtypeName>HydrogenBottle</SubtypeName>
+                    <GasLevel>1</GasLevel>
+                  </PhysicalContent>
+                  <ItemId>5</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
+                    <SubtypeName>OxygenBottle</SubtypeName>
+                    <GasLevel>1</GasLevel>
+                    <OxygenLevel>0</OxygenLevel>
+                  </PhysicalContent>
+                  <ItemId>6</ItemId>
+                </MyObjectBuilder_InventoryItem>
+              </Items>
+              <nextItemId>7</nextItemId>
+              <Volume>0.4</Volume>
+              <Mass>9223372036854.775807</Mass>
+              <MaxItemCount>2147483647</MaxItemCount>
+              <Size xsi:nil="true" />
+              <InventoryFlags />
+              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <CharacterModel>Default_Astronaut</CharacterModel>
+      <Inventory>
+        <CanPutItems>true</CanPutItems>
+        <Items>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>AngleGrinderItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>0</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>HandDrillItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>1</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>WelderItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>2</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>AutomaticRifleItem</SubtypeName>
+              <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                <SubtypeName>RifleGun</SubtypeName>
+                <EntityId>0</EntityId>
+                <PersistentFlags>None</PersistentFlags>
+              </GunEntity>
+            </PhysicalContent>
+            <ItemId>3</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>10</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+              <SubtypeName>NATO_5p56x45mm</SubtypeName>
+              <ProjectilesCount>0</ProjectilesCount>
+            </PhysicalContent>
+            <ItemId>4</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
+              <SubtypeName>HydrogenBottle</SubtypeName>
+              <GasLevel>1</GasLevel>
+            </PhysicalContent>
+            <ItemId>5</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
+              <SubtypeName>OxygenBottle</SubtypeName>
+              <GasLevel>1</GasLevel>
+              <OxygenLevel>0</OxygenLevel>
+            </PhysicalContent>
+            <ItemId>6</ItemId>
+          </MyObjectBuilder_InventoryItem>
+        </Items>
+        <nextItemId>7</nextItemId>
+        <Volume>0.4</Volume>
+        <Mass>9223372036854.775807</Mass>
+        <MaxItemCount>2147483647</MaxItemCount>
+        <Size xsi:nil="true" />
+        <InventoryFlags />
+        <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+      </Inventory>
+      <Battery>
+        <CurrentCapacity>1E-05</CurrentCapacity>
+        <RegenEffects />
+      </Battery>
+      <LightEnabled>true</LightEnabled>
+      <UsingLadder xsi:nil="true" />
+      <HeadAngle x="-12.0094357" y="0" />
+      <LinearVelocity x="0.00245772582" y="-0.000217441469" z="-0.0002852294" />
+      <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
+      <JetpackEnabled>false</JetpackEnabled>
+      <ColorMaskHSV x="0.0222222228" y="0" z="7.450581E-09" />
+      <LootingCounter>0</LootingCounter>
+      <DisplayName>Invalid</DisplayName>
+      <IsInFirstPersonView>true</IsInFirstPersonView>
+      <EnableBroadcasting>true</EnableBroadcasting>
+      <OxygenLevel>1</OxygenLevel>
+      <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
+      <StoredGases>
+        <StoredGas>
+          <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
+          <FillLevel>1</FillLevel>
+        </StoredGas>
+        <StoredGas>
+          <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
+          <FillLevel>1</FillLevel>
+        </StoredGas>
+      </StoredGases>
+      <EnabledComponents>
+        <string>RagdollComponent</string>
+        <string>InventorySpawnComponent</string>
+      </EnabledComponents>
+      <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
+      <OwningPlayerIdentityId>144115188075855895</OwningPlayerIdentityId>
+      <IsPersistenceCharacter>false</IsPersistenceCharacter>
+      <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
+      <RelativeDampeningEntity>89433485653734307</RelativeDampeningEntity>
+      <UsingLadderInfo xsi:nil="true" />
+      <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
     </MyObjectBuilder_EntityBase>
   </SectorObjects>
 </MyObjectBuilder_Sector>

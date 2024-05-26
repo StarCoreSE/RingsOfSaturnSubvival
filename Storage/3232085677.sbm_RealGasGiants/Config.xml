@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <RealGasGiantsSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GasGiantBlocksSun>true</GasGiantBlocksSun>
+  <GasGiantsHaveAtmoGlobal>true</GasGiantsHaveAtmoGlobal>
+  <SetGlobalNoAsteroids>true</SetGlobalNoAsteroids>
   <GasGiantInfoList>
     <GasGiantConfigInfo PlanetName="RealGasGiant-12345d1000--4911161085436634825">
       <PlanetCustomName>Saturn</PlanetCustomName>
