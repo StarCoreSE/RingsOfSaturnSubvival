@@ -5,12 +5,12 @@
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
     <Position x="17725752.342316013" y="23424080.302458804" z="101623398.87641796" />
-    <Forward x="0.1631153" y="-0.166617692" z="-0.9724361" />
-    <Up x="-0.0173186976" y="0.985001266" z="-0.171675637" />
+    <Forward x="0.163115263" y="-0.166617692" z="-0.9724361" />
+    <Up x="-0.0173186958" y="0.985001266" z="-0.171675622" />
     <Orientation>
       <X>-0.0851727948</X>
-      <Y>-0.0807932541</Y>
-      <Z>0.01565089</Z>
+      <Y>-0.08079324</Y>
+      <Z>0.015650887</Z>
       <W>0.992961764</W>
     </Orientation>
   </SpectatorPosition>
@@ -1203,11 +1203,6 @@
       <PublishedFileId>2975063364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Elite Dangerous: FSD Supercruise">
-      <Name>2640137506.sbm</Name>
-      <PublishedFileId>2640137506</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Build Info">
       <Name>514062285.sbm</Name>
       <PublishedFileId>514062285</PublishedFileId>
@@ -1218,13 +1213,8 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1499,6 +1489,8 @@
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -64214,4 +64206,7 @@
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
