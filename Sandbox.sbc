@@ -5,12 +5,12 @@
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
     <Position x="17725752.342316013" y="23424080.302458804" z="101623398.87641796" />
-    <Forward x="0.163115263" y="-0.166617692" z="-0.9724361" />
-    <Up x="-0.0173186958" y="0.985001266" z="-0.171675622" />
+    <Forward x="0.163115233" y="-0.166617692" z="-0.9724361" />
+    <Up x="-0.0173186883" y="0.985001266" z="-0.171675622" />
     <Orientation>
       <X>-0.0851727948</X>
-      <Y>-0.08079324</Y>
-      <Z>0.015650887</Z>
+      <Y>-0.0807932243</Y>
+      <Z>0.0156508833</Z>
       <W>0.992961764</W>
     </Orientation>
   </SpectatorPosition>
@@ -1143,6 +1143,10 @@
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem>
+      <Name>Slipspace Engine</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Holographic Radar">
       <Name>605086856.sbm</Name>
       <PublishedFileId>605086856</PublishedFileId>

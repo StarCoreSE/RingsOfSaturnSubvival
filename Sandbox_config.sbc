@@ -156,6 +156,10 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem>
+      <Name>Slipspace Engine</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Holographic Radar">
       <Name>605086856.sbm</Name>
       <PublishedFileId>605086856</PublishedFileId>
