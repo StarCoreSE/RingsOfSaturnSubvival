@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>106490720000</ElapsedGameTime>
+  <ElapsedGameTime>107031360000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="17725752.342316009" y="23424080.302458819" z="101623398.87641801" />
-    <Forward x="0.163115144" y="-0.166617632" z="-0.97243613" />
-    <Up x="-0.0173186772" y="0.9850013" z="-0.171675563" />
+    <Position x="17725752.342316005" y="23424080.302458819" z="101623398.876418" />
+    <Forward x="0.163115129" y="-0.166617617" z="-0.97243613" />
+    <Up x="-0.0173186734" y="0.9850013" z="-0.171675548" />
     <Orientation>
-      <X>-0.08517276</X>
-      <Y>-0.08079318</Y>
-      <Z>0.01565087</Z>
+      <X>-0.08517275</X>
+      <Y>-0.08079317</Y>
+      <Z>0.0156508666</Z>
       <W>0.992961764</W>
     </Orientation>
   </SpectatorPosition>
@@ -21,7 +21,7 @@
   <ControlledObject>124168712738897777</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-06-02T21:25:22.0798686-05:00</LastSaveTime>
+  <LastSaveTime>2024-06-02T23:16:47.1560257-05:00</LastSaveTime>
   <SpectatorDistance>138.88887</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -512,63 +512,63 @@
     &lt;voxelMaterialParameters&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Iron&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;5&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;5&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Nickel&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;3&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Cobalt&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;2&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Magnesium&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;2&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Silicon&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;3&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;3&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Silver&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
-        &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsFromMeteorites&gt;0&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;1&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;2&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Gold&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;1&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;1&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Platinum&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;1&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;1&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
       &lt;/VoxelMaterialParameter&gt;
       &lt;VoxelMaterialParameter&gt;
         &lt;PartialSubTypeId&gt;Uraninite&lt;/PartialSubTypeId&gt;
-        &lt;SpawnsInAsteroids&gt;1&lt;/SpawnsInAsteroids&gt;
+        &lt;SpawnsInAsteroids&gt;0&lt;/SpawnsInAsteroids&gt;
         &lt;SpawnsFromMeteorites&gt;1&lt;/SpawnsFromMeteorites&gt;
         &lt;MinedOreRatio&gt;0.3&lt;/MinedOreRatio&gt;
         &lt;AsteroidGeneratorSpawnProbabilityMultiplier&gt;1&lt;/AsteroidGeneratorSpawnProbabilityMultiplier&gt;
@@ -1156,8 +1156,13 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1168,11 +1173,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-02T21:23:08.3019602-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-02T23:15:46.0488668-05:00</LastLoginTime>
       <SavedCharacters>
         <long>124168712738897777</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-06-02T21:25:22.0798686-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-06-02T23:16:47.1560257-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -1183,7 +1188,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-02T21:23:10.9757888-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-02T23:15:48.3413219-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -1432,8 +1437,6 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -1561,7 +1564,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.4515986" y="-0.703648031" z="0.5485784" />
+      <SunDirectionNormalized x="-0.412231863" y="-0.707261264" z="0.5743226" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -63950,7 +63953,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>62533</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>118833</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64094,56 +64097,53 @@
     <string>Models\Cubes\Large\LandingGear.mwm</string>
     <string>Models\Cubes\Large\SteelCatwalk_PlateConstruction_1.mwm</string>
     <string>Models\Cubes\Large\Sensor.mwm</string>
-    <string>C:\Users\User\AppData\Roaming\SpaceEngineers\Mods\TSTSSESCoresAddon\Models\Ship_Core_1x1.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3115001104\Models\Ship_Core_1x1.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavyCornerRightPlate.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavyCornerLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
