@@ -156,8 +156,19 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem>
-      <Name>Slipspace Engine</Name>
+    <ModItem FriendlyName="Slipspace Engine">
+      <Name>3260158135.sbm</Name>
+      <PublishedFileId>3260158135</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCoresAddon">
+      <Name>3115001104.sbm</Name>
+      <PublishedFileId>3115001104</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[MIG] SpecCores 1.2.5">
+      <Name>2903447763.sbm</Name>
+      <PublishedFileId>2903447763</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Holographic Radar">
@@ -215,7 +226,7 @@
       <PublishedFileId>2912827941</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SETacView Demo">
+    <ModItem FriendlyName="SETacView Demo - Replay System">
       <Name>2975063364.sbm</Name>
       <PublishedFileId>2975063364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -232,5 +243,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-05-26T04:39:32.2874812-05:00</LastSaveTime>
+  <LastSaveTime>2024-06-02T21:25:22.0798686-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

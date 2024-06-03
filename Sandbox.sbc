@@ -1,28 +1,28 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>102704000000</ElapsedGameTime>
+  <ElapsedGameTime>106490720000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="17725752.342316013" y="23424080.302458804" z="101623398.87641796" />
-    <Forward x="0.163115233" y="-0.166617692" z="-0.9724361" />
-    <Up x="-0.0173186883" y="0.985001266" z="-0.171675622" />
+    <Position x="17725752.342316009" y="23424080.302458819" z="101623398.87641801" />
+    <Forward x="0.163115144" y="-0.166617632" z="-0.97243613" />
+    <Up x="-0.0173186772" y="0.9850013" z="-0.171675563" />
     <Orientation>
-      <X>-0.0851727948</X>
-      <Y>-0.0807932243</Y>
-      <Z>0.0156508833</Z>
+      <X>-0.08517276</X>
+      <Y>-0.08079318</Y>
+      <Z>0.01565087</Z>
       <W>0.992961764</W>
     </Orientation>
   </SpectatorPosition>
   <SpectatorSpeed x="1105732.88" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
-  <CameraController>ThirdPersonSpectator</CameraController>
-  <CameraEntity>0</CameraEntity>
-  <ControlledObject>82153410223274505</ControlledObject>
+  <CameraController>Entity</CameraController>
+  <CameraEntity>124168712738897777</CameraEntity>
+  <ControlledObject>124168712738897777</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-05-26T04:39:32.2874812-05:00</LastSaveTime>
-  <SpectatorDistance>200</SpectatorDistance>
+  <LastSaveTime>2024-06-02T21:25:22.0798686-05:00</LastSaveTime>
+  <SpectatorDistance>138.88887</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
   <CharacterToolbar>
@@ -33,123 +33,51 @@
         <Index>0</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_InteriorLight" Subtype="SmallLight" />
+          <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="TSTSSES_StationCore" />
         </Data>
       </Slot>
       <Slot>
         <Index>1</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeHeavyBlockArmorBlock" />
+          <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="CoreKit_1" />
         </Data>
       </Slot>
       <Slot>
         <Index>2</Index>
         <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_TextPanel" Subtype="SC_Display_Table_DS_HOLO" />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
         </Data>
       </Slot>
       <Slot>
         <Index>3</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="FSDriveLarge" />
+          <DefinitionId Type="MyObjectBuilder_Reactor" Subtype="FrigateCore_Reactor" />
         </Data>
       </Slot>
       <Slot>
         <Index>4</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallThrust" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>6</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
-        </Data>
-      </Slot>
-    </Slots>
-    <SlotsGamepad>
-      <Slot>
-        <Index>0</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_InteriorLight" Subtype="SmallLight" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>1</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeHeavyBlockArmorBlock" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>2</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_TextPanel" Subtype="SC_Display_Table_DS_HOLO" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>3</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_TextPanel" Subtype="LargeBlockCorner_LCD_Flat_2" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>4</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallThrust" />
+          <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="TSTSSES_FrigateCore" />
         </Data>
       </Slot>
       <Slot>
         <Index>5</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallAtmosphericThrust" />
+          <DefinitionId Type="MyObjectBuilder_CargoContainer" Subtype="DestroyerCore_Cargo" />
         </Data>
       </Slot>
-      <Slot>
-        <Index>6</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>7</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_MotorSuspension" Subtype="Suspension3x3" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>8</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
-        </Data>
-      </Slot>
-    </SlotsGamepad>
+    </Slots>
+    <SlotsGamepad />
   </CharacterToolbar>
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>82153410223274505</Key>
-        <Value>
-          <ClientId>0</ClientId>
-          <SerialId>0</SerialId>
-          <HashedId>4077708922731094368</HashedId>
-        </Value>
-      </item>
-      <item>
-        <Key>89433485653734307</Key>
+        <Key>124168712738897777</Key>
         <Value>
           <ClientId>0</ClientId>
           <SerialId>0</SerialId>
@@ -1143,8 +1071,19 @@
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
-    <ModItem>
-      <Name>Slipspace Engine</Name>
+    <ModItem FriendlyName="Slipspace Engine">
+      <Name>3260158135.sbm</Name>
+      <PublishedFileId>3260158135</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCoresAddon">
+      <Name>3115001104.sbm</Name>
+      <PublishedFileId>3115001104</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[MIG] SpecCores 1.2.5">
+      <Name>2903447763.sbm</Name>
+      <PublishedFileId>2903447763</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Holographic Radar">
@@ -1202,7 +1141,7 @@
       <PublishedFileId>2912827941</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SETacView Demo">
+    <ModItem FriendlyName="SETacView Demo - Replay System">
       <Name>2975063364.sbm</Name>
       <PublishedFileId>2975063364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -1229,11 +1168,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-26T02:55:49.3755189-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-02T21:23:08.3019602-05:00</LastLoginTime>
       <SavedCharacters>
         <long>124168712738897777</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-05-26T04:39:32.2874812-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-06-02T21:25:22.0798686-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -1244,7 +1183,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-05-26T02:55:51.5815207-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-02T21:23:10.9757888-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -1275,42 +1214,42 @@
                 <Index>0</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_InteriorLight" Subtype="SmallLight" />
+                  <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="TSTSSES_StationCore" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>1</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeHeavyBlockArmorBlock" />
+                  <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="CoreKit_1" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>2</Index>
                 <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_TextPanel" Subtype="SC_Display_Table_DS_HOLO" />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>3</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="FSDriveLarge" />
+                  <DefinitionId Type="MyObjectBuilder_Reactor" Subtype="FrigateCore_Reactor" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>4</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockSmallThrust" />
+                  <DefinitionId Type="MyObjectBuilder_Beacon" Subtype="TSTSSES_FrigateCore" />
                 </Data>
               </Slot>
               <Slot>
-                <Index>6</Index>
+                <Index>5</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Gyro" Subtype="LargeBlockGyro" />
+                  <DefinitionId Type="MyObjectBuilder_CargoContainer" Subtype="DestroyerCore_Cargo" />
                 </Data>
               </Slot>
             </Slots>
@@ -1324,8 +1263,8 @@
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="82153410223274505">
               <IsFirstPerson>false</IsFirstPerson>
-              <Distance>200</Distance>
-              <HeadAngle x="11.6668606" y="-105.286346" />
+              <Distance>138.88887785099232</Distance>
+              <HeadAngle x="5.40656757" y="20.2036934" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -1499,14 +1438,7 @@
     <long>144115188075855896</long>
   </NonPlayerIdentities>
   <Gps>
-    <dictionary>
-      <item>
-        <Key>144115188075855895</Key>
-        <Value>
-          <Entries />
-        </Value>
-      </item>
-    </dictionary>
+    <dictionary />
   </Gps>
   <ContainerGridIds>
     <dictionary />
@@ -1629,7 +1561,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.694545" y="-0.6353312" z="0.337581873" />
+      <SunDirectionNormalized x="-0.4515986" y="-0.703648031" z="0.5485784" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -64018,7 +63950,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>28166</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>62533</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64162,51 +64094,52 @@
     <string>Models\Cubes\Large\LandingGear.mwm</string>
     <string>Models\Cubes\Large\SteelCatwalk_PlateConstruction_1.mwm</string>
     <string>Models\Cubes\Large\Sensor.mwm</string>
+    <string>C:\Users\User\AppData\Roaming\SpaceEngineers\Mods\TSTSSESCoresAddon\Models\Ship_Core_1x1.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavyCornerRightPlate.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavyCornerLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavyCornerRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
