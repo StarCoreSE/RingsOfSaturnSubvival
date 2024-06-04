@@ -156,14 +156,29 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Slipspace Engine">
-      <Name>3260158135.sbm</Name>
-      <PublishedFileId>3260158135</PublishedFileId>
+    <ModItem FriendlyName="Directional-Scanner-Revival">
+      <Name>3115002557.sbm</Name>
+      <PublishedFileId>3115002557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="DirectionalFoamDispensers">
+      <Name>3261299216.sbm</Name>
+      <PublishedFileId>3261299216</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCores">
+      <Name>3261300687.sbm</Name>
+      <PublishedFileId>3261300687</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="TSTSSESCoresAddon">
       <Name>3115001104.sbm</Name>
       <PublishedFileId>3115001104</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Slipspace Engine">
+      <Name>3260158135.sbm</Name>
+      <PublishedFileId>3260158135</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="[MIG] SpecCores 1.2.5">
@@ -241,13 +256,7 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-06-02T23:48:37.5880904-05:00</LastSaveTime>
+  <LastSaveTime>2024-06-04T16:04:39.734914-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

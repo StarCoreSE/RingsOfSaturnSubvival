@@ -22,13 +22,13 @@
   <SectorObjects>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
-      <EntityId>135897814927377072</EntityId>
+      <EntityId>128231511234716316</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>135897814927377072</Name>
+      <Name>117991206613123788</Name>
       <PositionAndOrientation>
-        <Position x="16356817.057065509" y="10993441.311628181" z="57600580.941166371" />
-        <Forward x="-0.0216787439" y="-0.992275059" z="-0.1221482" />
-        <Up x="-0.736586154" y="-0.0667581856" z="0.673041" />
+        <Position x="16356821.946703732" y="10993438.222040217" z="57600583.449193835" />
+        <Forward x="-0.0216787159" y="-0.992275059" z="-0.122148275" />
+        <Up x="-0.7365861" y="-0.0667582154" z="0.673041046" />
         <Orientation>
           <X>-0.2591398</X>
           <Y>0.609731436</Y>
@@ -41,10 +41,27 @@
       <CubeBlocks>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Beacon">
           <SubtypeName>TSTSSES_FrigateCore</SubtypeName>
-          <EntityId>135897814927377073</EntityId>
-          <Name>135897814927377073</Name>
+          <EntityId>137156435013778092</EntityId>
+          <Name>137156435013778092</Name>
           <Owner>144115188075855895</Owner>
           <BuiltBy>144115188075855895</BuiltBy>
+          <ComponentContainer>
+            <Components>
+              <ComponentData>
+                <TypeId>MyModStorageComponent</TypeId>
+                <Component xsi:type="MyObjectBuilder_ModStorageComponent">
+                  <Storage>
+                    <dictionary>
+                      <item>
+                        <Key>82f6e121-550f-4042-a2b8-185ed2a52abc</Key>
+                        <Value>CAIIDA==</Value>
+                      </item>
+                    </dictionary>
+                  </Storage>
+                </Component>
+              </ComponentData>
+            </Components>
+          </ComponentContainer>
           <ShowOnHUD>false</ShowOnHUD>
           <ShowInTerminal>true</ShowInTerminal>
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
@@ -56,8 +73,8 @@
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Reactor">
           <SubtypeName>FrigateCore_Reactor</SubtypeName>
-          <EntityId>126755344711686963</EntityId>
-          <Name>126755344711686963</Name>
+          <EntityId>80690400028182164</EntityId>
+          <Name>80690400028182164</Name>
           <Min x="0" y="1" z="0" />
           <Owner>144115188075855895</Owner>
           <BuiltBy>144115188075855895</BuiltBy>
@@ -103,6 +120,7 @@
           <Capacity>1</Capacity>
         </MyObjectBuilder_CubeBlock>
       </CubeBlocks>
+      <LinearVelocity x="0.011610724" y="-0.0202087685" z="0.02720654" />
       <DisplayName>Large Grid 7072</DisplayName>
       <DestructibleBlocks>true</DestructibleBlocks>
       <IsRespawnGrid>false</IsRespawnGrid>
@@ -116,14 +134,14 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>124168712738897777</Name>
       <PositionAndOrientation>
-        <Position x="16356818.863595489" y="10993440.046603499" z="57600577.691077039" />
-        <Forward x="-0.3890908" y="-0.172384128" z="0.904926658" />
-        <Up x="-0.08585686" y="0.9848454" z="0.150692433" />
+        <Position x="16356819.76281528" y="10993439.65270819" z="57600578.720751248" />
+        <Forward x="-0.174068034" y="-0.265880644" z="0.9481602" />
+        <Up x="0.154267415" y="0.943608165" z="0.292925358" />
         <Orientation>
-          <X>-0.0268862788</X>
-          <Y>0.9755718</Y>
-          <Z>0.08279159</Z>
-          <W>0.201698482</W>
+          <X>0.08941087</X>
+          <Y>0.9828966</Y>
+          <Z>0.142132446</Z>
+          <W>0.075619176</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -349,7 +367,7 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>75213884102445245</Name>
       <PositionAndOrientation>
-        <Position x="16356824.216151536" y="10993416.897646468" z="57600631.141293287" />
+        <Position x="16356824.216151536" y="10993416.897640746" z="57600631.141293287" />
         <Forward x="0.6754284" y="-0.10386806" z="0.730073869" />
         <Up x="0.0211884938" y="0.9923554" z="0.121580459" />
         <Orientation>
