@@ -1043,6 +1043,11 @@
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Dynamic Asteroids">
+      <Name>3262577158.sbm</Name>
+      <PublishedFileId>3262577158</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Directional-Scanner-Revival">
       <Name>3115002557.sbm</Name>
       <PublishedFileId>3115002557</PublishedFileId>
