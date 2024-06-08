@@ -1,33 +1,33 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>169192160000</ElapsedGameTime>
+  <ElapsedGameTime>191791840000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="20590156.639945783" y="9984514.27277171" z="55268794.607811838" />
-    <Forward x="-0.07316364" y="-0.151643917" z="-0.9857237" />
-    <Up x="0.1615207" y="0.9735226" z="-0.161755487" />
+    <Position x="20606225.255943239" y="9977462.1781926453" z="55266661.3947523" />
+    <Forward x="0.247271031" y="0.405756533" z="-0.879897" />
+    <Up x="-0.240041509" y="0.9054417" z="0.350079119" />
     <Orientation>
-      <X>-0.0789101347</X>
-      <Y>0.0301884636</Y>
-      <Z>-0.0837370753</Z>
-      <W>0.9928998</W>
+      <X>0.195833877</X>
+      <Y>-0.147311255</Y>
+      <Z>0.09448937</Z>
+      <W>0.9648939</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="8.649753" y="1" />
+  <SpectatorSpeed x="5.766501" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>124168712738897777</CameraEntity>
   <ControlledObject>124168712738897777</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-06-08T07:26:46.461942-05:00</LastSaveTime>
-  <SpectatorDistance>22.0677547</SpectatorDistance>
+  <LastSaveTime>2024-06-08T10:54:41.7539423-05:00</LastSaveTime>
+  <SpectatorDistance>124.461891</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
-    <SelectedSlot xsi:nil="true" />
+    <SelectedSlot>1</SelectedSlot>
     <Slots>
       <Slot>
         <Index>0</Index>
@@ -43,16 +43,15 @@
           <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AutomaticRifleItem" />
         </Data>
       </Slot>
-    </Slots>
-    <SlotsGamepad>
       <Slot>
-        <Index>0</Index>
+        <Index>2</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrill4Item" />
+          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinder4Item" />
         </Data>
       </Slot>
-    </SlotsGamepad>
+    </Slots>
+    <SlotsGamepad />
   </CharacterToolbar>
   <ControlledEntities>
     <dictionary>
@@ -1150,8 +1149,13 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1162,11 +1166,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-08T07:20:02.3768942-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-08T10:49:46.523025-05:00</LastLoginTime>
       <SavedCharacters>
         <long>124168712738897777</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-06-08T07:26:46.461942-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-06-08T10:54:41.7539423-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -1177,7 +1181,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-08T07:20:04.7974412-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-08T10:49:48.1472122-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -1218,14 +1222,26 @@
                   <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AutomaticRifleItem" />
                 </Data>
               </Slot>
+              <Slot>
+                <Index>2</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinder4Item" />
+                </Data>
+              </Slot>
             </Slots>
             <SlotsGamepad />
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="124168712738897777">
               <IsFirstPerson>true</IsFirstPerson>
-              <Distance>5.2168062290664423</Distance>
-              <HeadAngle x="20.3844223" y="0" />
+              <Distance>22.0677547454834</Distance>
+              <HeadAngle x="0" y="0" />
+            </CameraControllerSettings>
+            <CameraControllerSettings EntityId="139673706542644288">
+              <IsFirstPerson>false</IsFirstPerson>
+              <Distance>15.303194543811113</Distance>
+              <HeadAngle x="-9.959516" y="31.8704624" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -1393,8 +1409,6 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -1522,7 +1536,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.908571362" y="-0.416815251" z="-0.0276255887" />
+      <SunDirectionNormalized x="0.5756881" y="-0.366011858" z="0.731176138" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -63911,12 +63925,12 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>113099</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>66883</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
       <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
-      <LastCoordSysId>9</LastCoordSysId>
+      <LastCoordSysId>11</LastCoordSysId>
       <CoordSystems />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_BankingSystem">
@@ -63984,27 +63998,11 @@
   <InGameTime>2081-01-01T07:00:00</InGameTime>
   <CustomSkybox />
   <RequiresDX>11</RequiresDX>
-  <VicinityModelsCache>
-    <string>Models\Cubes\Small\ThrustSmall.mwm</string>
-    <string>Models\Cubes\Small\ThrustLarge.mwm</string>
-    <string>Models\Cubes\Small\conveyor.mwm</string>
-    <string>Models\Cubes\Small\ConveyorTube.mwm</string>
-    <string>Models\Cubes\Small\Connector.mwm</string>
-    <string>Models\Cubes\Small\antenna.mwm</string>
-    <string>Models\Cubes\Small\gyroscope.mwm</string>
-  </VicinityModelsCache>
+  <VicinityModelsCache />
   <VicinityArmorModelsCache>
+    <string>Models\Weapons\AutomaticRifle.mwm</string>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Small\Armor\FaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\SlopePlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Small\Armor\InvFaceTrianglePlate.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
