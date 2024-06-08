@@ -157,8 +157,17 @@
   </Settings>
   <Mods>
     <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>3262577158.sbm</Name>
-      <PublishedFileId>3262577158</PublishedFileId>
+      <Name>Dynamic Asteroids</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCoresAddon">
+      <Name>3115001104.sbm</Name>
+      <PublishedFileId>3115001104</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCores">
+      <Name>3261300687.sbm</Name>
+      <PublishedFileId>3261300687</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Directional-Scanner-Revival">
@@ -171,24 +180,9 @@
       <PublishedFileId>3261299216</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="TSTSSESCores">
-      <Name>3261300687.sbm</Name>
-      <PublishedFileId>3261300687</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCoresAddon">
-      <Name>3115001104.sbm</Name>
-      <PublishedFileId>3115001104</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Slipspace Engine">
       <Name>3260158135.sbm</Name>
       <PublishedFileId>3260158135</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[MIG] SpecCores 1.2.5">
-      <Name>2903447763.sbm</Name>
-      <PublishedFileId>2903447763</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Holographic Radar">
@@ -263,5 +257,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-06-04T16:04:39.734914-05:00</LastSaveTime>
+  <LastSaveTime>2024-06-08T07:26:46.461942-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
