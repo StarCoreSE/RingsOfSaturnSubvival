@@ -157,7 +157,8 @@
   </Settings>
   <Mods>
     <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>Dynamic Asteroids</Name>
+      <Name>3262577158.sbm</Name>
+      <PublishedFileId>3262577158</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="TSTSSESCoresAddon">
@@ -255,13 +256,7 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-06-08T10:54:41.7539423-05:00</LastSaveTime>
+  <LastSaveTime>2024-06-10T05:26:14.8050135-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
