@@ -156,6 +156,11 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="EVE Online Soundtrack">
+      <Name>3188989720.sbm</Name>
+      <PublishedFileId>3188989720</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Dynamic Asteroids">
       <Name>3262577158.sbm</Name>
       <PublishedFileId>3262577158</PublishedFileId>
@@ -256,7 +261,13 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-06-10T05:26:14.8050135-05:00</LastSaveTime>
+  <LastSaveTime>2024-06-11T11:38:18.1055332-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
