@@ -1092,6 +1092,11 @@
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="The Grenade Mod">
+      <Name>2861285936.sbm</Name>
+      <PublishedFileId>2861285936</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
       <Name>2621169600.sbm</Name>
       <PublishedFileId>2621169600</PublishedFileId>
