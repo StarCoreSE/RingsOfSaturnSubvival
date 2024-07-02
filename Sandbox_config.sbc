@@ -156,6 +156,11 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
+      <Name>500818376.sbm</Name>
+      <PublishedFileId>500818376</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="CharacterCollisionDamageDisabler">
       <Name>3280195552.sbm</Name>
       <PublishedFileId>3280195552</PublishedFileId>
@@ -333,5 +338,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-07-02T05:24:12.0808597-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-02T06:32:42.4093751-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
