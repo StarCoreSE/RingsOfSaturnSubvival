@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>388514560000</ElapsedGameTime>
+  <ElapsedGameTime>395862880000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="-122.1431767259518" y="-116.06159733498646" z="27.430327342906313" />
-    <Forward x="0.5376009" y="-0.07464784" z="-0.8398887" />
-    <Up x="0.0206200182" y="0.99693954" z="-0.07540766" />
+    <Position x="0.59555664273692366" y="-254.47256355371422" z="-49.109473997293151" />
+    <Forward x="0.456758529" y="0.879297" z="-0.1349383" />
+    <Up x="-0.8581469" y="0.4754877" z="0.193636864" />
     <Orientation>
-      <X>-0.03911211</X>
-      <Y>-0.280224741</Y>
-      <Z>0.0006778717</Z>
-      <W>0.959137</W>
+      <X>0.3949683</X>
+      <Y>-0.525862038</Y>
+      <Z>0.3259696</Z>
+      <W>0.6791266</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="1.13906217" y="1" />
+  <SpectatorSpeed x="0.506249845" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>118338829513043268</CameraEntity>
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-07-02T03:29:13.6165966-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-02T05:24:12.0808597-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -33,63 +33,21 @@
         <Index>0</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="bobzone" />
+          <DefinitionId Type="MyObjectBuilder_ConveyorConnector" Subtype="ShipyardConveyor_Large" />
         </Data>
       </Slot>
       <Slot>
         <Index>1</Index>
         <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AutomaticRifleItem" />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_Collector" Subtype="ShipyardCorner_Large" />
         </Data>
       </Slot>
       <Slot>
         <Index>2</Index>
         <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="UltimateAutomaticRifleItem" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>3</Index>
-        <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
           <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>4</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_LandingGear" Subtype="LargeBlockLandingGear" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>5</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockLargeThrust" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>6</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Jukebox" Subtype="Jukebox" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>7</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="LargeBlockBatteryBlock" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>8</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Cockpit" Subtype="LargeBlockCockpitSeat" />
         </Data>
       </Slot>
     </Slots>
@@ -1294,19 +1252,79 @@ MaxStockAmount=50
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="CharacterCollisionDamageDisabler">
+      <Name>3280195552.sbm</Name>
+      <PublishedFileId>3280195552</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="I NEED MORE JETPACK ACCELERATION">
+      <Name>2899738923.sbm</Name>
+      <PublishedFileId>2899738923</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Visual Overrides API">
+      <Name>3222232482.sbm</Name>
+      <PublishedFileId>3222232482</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCoresAddon">
+      <Name>3115001104.sbm</Name>
+      <PublishedFileId>3115001104</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCores">
+      <Name>3261300687.sbm</Name>
+      <PublishedFileId>3261300687</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="The Grenade Mod">
+      <Name>2861285936.sbm</Name>
+      <PublishedFileId>2861285936</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="StarCore Skybox - Magellanic">
+      <Name>3251198297.sbm</Name>
+      <PublishedFileId>3251198297</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Spectator Turbo">
+      <Name>3169862712.sbm</Name>
+      <PublishedFileId>3169862712</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Slipspace Engine">
+      <Name>3260158135.sbm</Name>
+      <PublishedFileId>3260158135</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Shipyards Revival">
       <Name>3013053286.sbm</Name>
       <PublishedFileId>3013053286</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Layman's SafeZone">
-      <Name>2402573449.sbm</Name>
-      <PublishedFileId>2402573449</PublishedFileId>
+    <ModItem FriendlyName="SETacView Demo - Replay System">
+      <Name>2975063364.sbm</Name>
+      <PublishedFileId>2975063364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
-      <Name>3032417765.sbm</Name>
-      <PublishedFileId>3032417765</PublishedFileId>
+    <ModItem FriendlyName="Rich HUD Master">
+      <Name>1965654081.sbm</Name>
+      <PublishedFileId>1965654081</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Real Gas Giants">
+      <Name>3232085677.sbm</Name>
+      <PublishedFileId>3232085677</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Quantum Tether">
+      <Name>3041302865.sbm</Name>
+      <PublishedFileId>3041302865</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="OldBlockRestrictions">
@@ -1314,9 +1332,64 @@ MaxStockAmount=50
       <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="The Grenade Mod">
-      <Name>2861285936.sbm</Name>
-      <PublishedFileId>2861285936</PublishedFileId>
+    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
+      <Name>3032417765.sbm</Name>
+      <PublishedFileId>3032417765</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Layman's SafeZone">
+      <Name>2402573449.sbm</Name>
+      <PublishedFileId>2402573449</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Holographic Radar">
+      <Name>605086856.sbm</Name>
+      <PublishedFileId>605086856</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="EVE Online Soundtrack">
+      <Name>3188989720.sbm</Name>
+      <PublishedFileId>3188989720</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Enceladus">
+      <Name>2912827941.sbm</Name>
+      <PublishedFileId>2912827941</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Dynamic Asteroids">
+      <Name>3262577158.sbm</Name>
+      <PublishedFileId>3262577158</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="DirectionalFoamDispensers">
+      <Name>3261299216.sbm</Name>
+      <PublishedFileId>3261299216</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Directional-Scanner-Revival">
+      <Name>3115002557.sbm</Name>
+      <PublishedFileId>3115002557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Configurable Parameters">
+      <Name>2422592854.sbm</Name>
+      <PublishedFileId>2422592854</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Cast Spectator">
+      <Name>2968491433.sbm</Name>
+      <PublishedFileId>2968491433</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Build Info">
+      <Name>514062285.sbm</Name>
+      <PublishedFileId>514062285</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Asteroid Filter API">
+      <Name>3218645300.sbm</Name>
+      <PublishedFileId>3218645300</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
@@ -1349,114 +1422,9 @@ MaxStockAmount=50
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Quantum Tether">
-      <Name>3041302865.sbm</Name>
-      <PublishedFileId>3041302865</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="EVE Online Soundtrack">
-      <Name>3188989720.sbm</Name>
-      <PublishedFileId>3188989720</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>3262577158.sbm</Name>
-      <PublishedFileId>3262577158</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCoresAddon">
-      <Name>3115001104.sbm</Name>
-      <PublishedFileId>3115001104</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCores">
-      <Name>3261300687.sbm</Name>
-      <PublishedFileId>3261300687</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Directional-Scanner-Revival">
-      <Name>3115002557.sbm</Name>
-      <PublishedFileId>3115002557</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="DirectionalFoamDispensers">
-      <Name>3261299216.sbm</Name>
-      <PublishedFileId>3261299216</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Slipspace Engine">
-      <Name>3260158135.sbm</Name>
-      <PublishedFileId>3260158135</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Holographic Radar">
-      <Name>605086856.sbm</Name>
-      <PublishedFileId>605086856</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Rich HUD Master">
-      <Name>1965654081.sbm</Name>
-      <PublishedFileId>1965654081</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Configurable Parameters">
-      <Name>2422592854.sbm</Name>
-      <PublishedFileId>2422592854</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Spectator Turbo">
-      <Name>3169862712.sbm</Name>
-      <PublishedFileId>3169862712</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Cast Spectator">
-      <Name>2968491433.sbm</Name>
-      <PublishedFileId>2968491433</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Visual Overrides API">
-      <Name>3222232482.sbm</Name>
-      <PublishedFileId>3222232482</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Asteroid Filter API">
-      <Name>3218645300.sbm</Name>
-      <PublishedFileId>3218645300</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="- Cerion - Admin Blocks -">
       <Name>2806101561.sbm</Name>
       <PublishedFileId>2806101561</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - Magellanic">
-      <Name>3251198297.sbm</Name>
-      <PublishedFileId>3251198297</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Enceladus">
-      <Name>2912827941.sbm</Name>
-      <PublishedFileId>2912827941</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SETacView Demo - Replay System">
-      <Name>2975063364.sbm</Name>
-      <PublishedFileId>2975063364</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Build Info">
-      <Name>514062285.sbm</Name>
-      <PublishedFileId>514062285</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Real Gas Giants">
-      <Name>3232085677.sbm</Name>
-      <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
@@ -1471,11 +1439,11 @@ MaxStockAmount=50
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-02T03:24:51.1919817-05:00</LastLoginTime>
+      <LastLoginTime>2024-07-02T05:23:05.4978986-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-07-02T03:29:13.6175981-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-07-02T05:24:12.0818586-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -1486,7 +1454,7 @@ MaxStockAmount=50
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-02T03:24:53.831004-05:00</LastLoginTime>
+      <LastLoginTime>2024-07-02T05:23:08.0568991-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -1499,7 +1467,7 @@ MaxStockAmount=50
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-02T03:24:51.1919817-05:00</LastLoginTime>
+      <LastLoginTime>2024-07-02T05:23:05.4978986-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1512,7 +1480,7 @@ MaxStockAmount=50
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-02T03:24:51.1919817-05:00</LastLoginTime>
+      <LastLoginTime>2024-07-02T05:23:05.4978986-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1543,63 +1511,21 @@ MaxStockAmount=50
                 <Index>0</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="bobzone" />
+                  <DefinitionId Type="MyObjectBuilder_ConveyorConnector" Subtype="ShipyardConveyor_Large" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>1</Index>
                 <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AutomaticRifleItem" />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Collector" Subtype="ShipyardCorner_Large" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>2</Index>
                 <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="UltimateAutomaticRifleItem" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>3</Index>
-                <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
                   <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>4</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_LandingGear" Subtype="LargeBlockLandingGear" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>5</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="LargeBlockLargeThrust" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>6</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Jukebox" Subtype="Jukebox" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>7</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="LargeBlockBatteryBlock" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>8</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Cockpit" Subtype="LargeBlockCockpitSeat" />
                 </Data>
               </Slot>
             </Slots>
@@ -1608,8 +1534,8 @@ MaxStockAmount=50
           <EntityCameraData>
             <CameraControllerSettings EntityId="118338829513043268">
               <IsFirstPerson>true</IsFirstPerson>
-              <Distance>2.5000000000000004</Distance>
-              <HeadAngle x="-30.3396072" y="0" />
+              <Distance>2.5</Distance>
+              <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -1942,7 +1868,7 @@ MaxStockAmount=50
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.802100062" y="-0.563669562" z="0.197262049" />
+      <SunDirectionNormalized x="-0.349922478" y="-0.709744751" z="0.611405432" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -64331,7 +64257,7 @@ MaxStockAmount=50
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>36266</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>81582</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64340,7 +64266,7 @@ MaxStockAmount=50
       <CoordSystems>
         <CoordSysInfo>
           <Id>18</Id>
-          <EntityCount>1</EntityCount>
+          <EntityCount>3</EntityCount>
           <Rotation x="-0.428159267" y="-0.5619477" z="0.59641093" w="-0.381035984" />
           <Position x="33.370322604565082" y="-99.832350503129646" z="-42.286249863736714" />
         </CoordSysInfo>
@@ -64452,19 +64378,9 @@ MaxStockAmount=50
   <CustomSkybox />
   <RequiresDX>11</RequiresDX>
   <VicinityModelsCache>
-    <string>Models\Cubes\Large\PistonTop.mwm</string>
-    <string>Models\Cubes\Large\MagneticPlateLarge.mwm</string>
-    <string>Models\Cubes\Large\PistonBase.mwm</string>
-    <string>Models\Cubes\Large\HingeHead.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalkStraight.mwm</string>
-    <string>Models\Cubes\Large\Camera.mwm</string>
-    <string>Models\Cubes\Large\LightArmorPanel.mwm</string>
-    <string>Models\Cubes\Large\LightArmorHalfPanel.mwm</string>
-    <string>Models\Cubes\Large\LightArmor2x1SlopeSideTipPanelInv.mwm</string>
-    <string>Models\Cubes\Large\LightArmor2x1SlopeSideTipPanel.mwm</string>
-    <string>Models\Cubes\Large\SolarPanel.mwm</string>
     <string>Models\Cubes\Large\WindowEdge.mwm</string>
     <string>Models\Cubes\Large\GirderStraight.mwm</string>
+    <string>Models\Cubes\Large\GratedCatwalkStraight.mwm</string>
     <string>Models\Cubes\Large\GirderSlope.mwm</string>
     <string>Models\Cubes\Large\GirderSlope2x1Tip.mwm</string>
     <string>Models\Cubes\Large\GirderSlope2x1Base.mwm</string>
@@ -64474,12 +64390,15 @@ MaxStockAmount=50
     <string>Models\Cubes\Large\BridgeWindow1x1Slope.mwm</string>
     <string>Models\Cubes\Large\HatchDoor.mwm</string>
     <string>Models\Cubes\Large\Connector.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3013053286\Models\ShipyardConveyorMount_Large.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3013053286\Models\ShipyardCorner_Large.mwm</string>
     <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
     <string>Models\Cubes\Large\GirderStraightHalf.mwm</string>
     <string>Models\Cubes\Large\GirderSlopeHalf.mwm</string>
     <string>Models\Cubes\Large\light.mwm</string>
     <string>Models\Cubes\Large\BridgeWindow1x1Face.mwm</string>
     <string>Models\Cubes\Large\ArmorCorner.mwm</string>
+    <string>Models\Cubes\Large\LightArmorPanel.mwm</string>
     <string>Models\Cubes\Large\HydrogenTankIndustrial.mwm</string>
     <string>Models\Cubes\Large\GirderRound.mwm</string>
     <string>Models\Cubes\Large\OpenCockpitLarge.mwm</string>
@@ -64496,6 +64415,7 @@ MaxStockAmount=50
     <string>Models\Cubes\Large\Window1x1Flat.mwm</string>
     <string>Models\Cubes\Large\NeonTubesBendDown.mwm</string>
     <string>Models\Cubes\Large\RailingDiagonal.mwm</string>
+    <string>Models\Cubes\Large\PistonTop.mwm</string>
     <string>Models\Cubes\Large\GratedCatwalkCorner.mwm</string>
     <string>Models\Cubes\Large\OffsetDoor.mwm</string>
     <string>Models\Cubes\Large\Window1x1FlatInv.mwm</string>
@@ -64530,7 +64450,9 @@ MaxStockAmount=50
     <string>Models\Cubes\Large\ExhaustPipe_Racing.mwm</string>
     <string>Models\Cubes\Large\WindowSquare.mwm</string>
     <string>Models\Cubes\Large\Symbol_A.mwm</string>
+    <string>Models\Cubes\Large\LightArmorHalfPanel.mwm</string>
     <string>Models\Cubes\Large\LightPanel.mwm</string>
+    <string>Models\Cubes\Large\PistonBase.mwm</string>
     <string>Models\Cubes\Large\HalfWindowInv.mwm</string>
     <string>Models\Cubes\Large\ConveyorDuctCurved.mwm</string>
     <string>Models\Cubes\Large\MotorStator.mwm</string>
@@ -64607,36 +64529,36 @@ MaxStockAmount=50
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopeRoundPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
