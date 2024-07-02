@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>334627040000</ElapsedGameTime>
+  <ElapsedGameTime>334655360000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
-    <Position x="240349778.38846403" y="-12902276.784292096" z="73383895.758585632" />
-    <Forward x="-0.622108936" y="-0.566424" z="-0.54050386" />
+    <Position x="240349778.388464" y="-12902276.784292096" z="73383895.758585677" />
+    <Forward x="-0.6221089" y="-0.566423953" z="-0.5405038" />
     <Up x="-0.4008736" y="0.8234479" z="-0.401539445" />
     <Orientation>
       <X>-0.277743846</X>
@@ -21,7 +21,7 @@
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-06-18T13:11:56.9254857-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-01T22:08:15.8509996-05:00</LastSaveTime>
   <SpectatorDistance>86.53102</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -1029,6 +1029,23 @@
   &lt;/MESParametersStorage&gt;
 &lt;/ConfigurableParametersStorage&gt;</Value>
         </item>
+        <item>
+          <Key>Tether_BasicConfig</Key>
+          <Value xsi:type="xsd:string">[Config]
+;Default: 1.0f - Minimum Required Power at the Lowest Range in MW
+MinimumPowerRequirement=1
+;Default: 50.0f - Maximum Required Power at the Longest Range in MW
+MaximumPowerRequirement=50
+;Default: 5 - Minimum Block Range in Meters as a Diameter
+MinBlockRange=5
+;Default: 500 - Maximum Block Range in Meters as a Diameter
+MaxBlockRange=500
+;Default: 1 - Minimum Stock Amount for Components
+MinStockAmount=1
+;Default: 50 - Maximum Stock Amount for Components
+MaxStockAmount=50
+</Value>
+        </item>
       </dictionary>
     </variables>
   </ScriptManagerData>
@@ -1237,8 +1254,13 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1249,11 +1271,11 @@
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T13:11:23.1264566-05:00</LastLoginTime>
+      <LastLoginTime>2024-07-01T22:08:09.6192027-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-06-18T13:11:56.9254857-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-07-01T22:08:15.8516985-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -1264,7 +1286,7 @@
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T13:11:24.5584547-05:00</LastLoginTime>
+      <LastLoginTime>2024-07-01T22:08:11.0662026-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -1529,8 +1551,6 @@
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
   </NonPlayerIdentities>
@@ -1658,7 +1678,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.497368872" y="-0.425823033" z="0.7558433" />
+      <SunDirectionNormalized x="0.4993366" y="-0.424419075" z="0.7553354" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -64047,7 +64067,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>63698</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>66631</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64126,7 +64146,4 @@
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
