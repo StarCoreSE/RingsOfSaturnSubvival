@@ -156,9 +156,8 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="BZ500">
-      <Name>2402573449.sbm</Name>
-      <PublishedFileId>2402573449</PublishedFileId>
+    <ModItem FriendlyName="Layman's SafeZone">
+      <Name>Layman's SafeZone</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
@@ -316,7 +315,13 @@
       <PublishedFileId>3232085677</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-07-02T01:10:12.2168132-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-02T03:14:01.7215506-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
