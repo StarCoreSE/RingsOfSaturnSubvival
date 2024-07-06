@@ -406,7 +406,13 @@
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-07-02T07:14:09.3960547-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-06T00:39:32.0169189-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
