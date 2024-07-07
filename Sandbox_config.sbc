@@ -156,66 +156,6 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Starcore Reaction Control System">
-      <Name>2973091771.sbm</Name>
-      <PublishedFileId>2973091771</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SpraysMod">
-      <Name>2414738008.sbm</Name>
-      <PublishedFileId>2414738008</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore Basic Greebles">
-      <Name>2897767540.sbm</Name>
-      <PublishedFileId>2897767540</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Logo Pack">
-      <Name>2425204399.sbm</Name>
-      <PublishedFileId>2425204399</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Systems Highlight">
-      <Name>3037494862.sbm</Name>
-      <PublishedFileId>3037494862</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]SyFy-Font">
-      <Name>2414545923.sbm</Name>
-      <PublishedFileId>2414545923</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]StarCore Enabler Rewards">
-      <Name>2961654766.sbm</Name>
-      <PublishedFileId>2961654766</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
-      <Name>2414546174.sbm</Name>
-      <PublishedFileId>2414546174</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]Hazzard signs">
-      <Name>2804100557.sbm</Name>
-      <PublishedFileId>2804100557</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]Pinniped's Maratime Flags">
-      <Name>2858915727.sbm</Name>
-      <PublishedFileId>2858915727</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[QoL] Production Quota">
-      <Name>2304715504.sbm</Name>
-      <PublishedFileId>2304715504</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Faction Hangar - Beta">
-      <Name>3110146798.sbm</Name>
-      <PublishedFileId>3110146798</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
@@ -231,19 +171,39 @@
       <PublishedFileId>3261300687</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="The Grenade Mod">
-      <Name>2861285936.sbm</Name>
-      <PublishedFileId>2861285936</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Text HUD API">
       <Name>758597413.sbm</Name>
       <PublishedFileId>758597413</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Systems Highlight">
+      <Name>3037494862.sbm</Name>
+      <PublishedFileId>3037494862</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - Magellanic">
       <Name>3251198297.sbm</Name>
       <PublishedFileId>3251198297</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Reaction Control System">
+      <Name>2973091771.sbm</Name>
+      <PublishedFileId>2973091771</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="StarCore Logo Pack">
+      <Name>2425204399.sbm</Name>
+      <PublishedFileId>2425204399</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Basic Greebles">
+      <Name>2897767540.sbm</Name>
+      <PublishedFileId>2897767540</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SpraysMod">
+      <Name>2414738008.sbm</Name>
+      <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Spectator Turbo">
@@ -309,6 +269,11 @@
     <ModItem FriendlyName="Holographic Radar">
       <Name>605086856.sbm</Name>
       <PublishedFileId>605086856</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Faction Hangar - Beta">
+      <Name>3110146798.sbm</Name>
+      <PublishedFileId>3110146798</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="EVE Online Soundtrack">
@@ -401,16 +366,40 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]SyFy-Font">
+      <Name>2414545923.sbm</Name>
+      <PublishedFileId>2414545923</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]StarCore Enabler Rewards">
+      <Name>2961654766.sbm</Name>
+      <PublishedFileId>2961654766</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
+      <Name>2414546174.sbm</Name>
+      <PublishedFileId>2414546174</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]Pinniped's Maratime Flags">
+      <Name>2858915727.sbm</Name>
+      <PublishedFileId>2858915727</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]Hazzard signs">
+      <Name>2804100557.sbm</Name>
+      <PublishedFileId>2804100557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[QoL] Production Quota">
+      <Name>2304715504.sbm</Name>
+      <PublishedFileId>2304715504</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="- Cerion - Admin Blocks -">
       <Name>2806101561.sbm</Name>
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
