@@ -156,6 +156,11 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="NPC Provider (BB)">
+      <Name>3099943209.sbm</Name>
+      <PublishedFileId>3099943209</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
@@ -407,7 +412,13 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="Translation Script (BB)">
+      <Name>3264193782.sbm</Name>
+      <PublishedFileId>3264193782</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-07-21T16:53:40.9605766-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-21T18:45:12.4170993-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

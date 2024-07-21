@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<EconomyConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EconomyEnabled>true</EconomyEnabled>
+  <EconomyRefresh>1200</EconomyRefresh>
+  <EconomyStations>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_1</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Trade Station</StationName>
+      <TradePrefabs />
+    </EconomyStation>
+  </EconomyStations>
+  <NoDefaultSellGrids>false</NoDefaultSellGrids>
+  <MercenariesEnabled>false</MercenariesEnabled>
+  <MercenariesCreditCost>150000000</MercenariesCreditCost>
+  <MercenariesReputationCost>200</MercenariesReputationCost>
+</EconomyConfiguration>
