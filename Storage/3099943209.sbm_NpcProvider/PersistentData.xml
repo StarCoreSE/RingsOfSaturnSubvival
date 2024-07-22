@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Persistence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <EconomyModifiers />
-  <MilitaryModifiers />
-  <News />
+  <EconomyModifiers>
+    <EconomyStats>
+      <FactionTag>ECO</FactionTag>
+      <Modifier>1</Modifier>
+    </EconomyStats>
+    <EconomyStats>
+      <FactionTag>Danger</FactionTag>
+      <Modifier>1</Modifier>
+    </EconomyStats>
+    <EconomyStats>
+      <FactionTag>GLF</FactionTag>
+      <Modifier>1</Modifier>
+    </EconomyStats>
+  </EconomyModifiers>
+  <MilitaryModifiers>
+    <MilitaryStats>
+      <FactionTag>ECO</FactionTag>
+      <FleetPower>100</FleetPower>
+    </MilitaryStats>
+    <MilitaryStats>
+      <FactionTag>Danger</FactionTag>
+      <FleetPower>100</FleetPower>
+    </MilitaryStats>
+    <MilitaryStats>
+      <FactionTag>GLF</FactionTag>
+      <FleetPower>100</FleetPower>
+    </MilitaryStats>
+  </MilitaryModifiers>
+  <News>
+    <Data>ChQqKkVDT05PTVkgT1ZFUlZJRVcqKhIwTmV3IGVjb25vbXkgc3RhdGlzdGljcyBvbiA1IHBvb3Jlc3QNCmZhY3Rpb25zLg0KGgxuZXdzX2Vjb25vbXkiFAoDRUNPEgUxMDAgJRoGCICAgvgPIhcKBkRhbmdlchIFMTAwICUaBgiAgIL4DyIUCgNHTEYSBTEwMCAlGgYIgICC+A8=</Data>
+  </News>
 </Persistence>
