@@ -1327,6 +1327,10 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem>
+      <Name>NPC.Pack.EnceladusCo</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="NPC Provider (BB)">
       <Name>3099943209.sbm</Name>
       <PublishedFileId>3099943209</PublishedFileId>
@@ -1577,19 +1581,8 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1912,6 +1905,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64792,4 +64787,7 @@ PaintUnfinishedBlocks=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

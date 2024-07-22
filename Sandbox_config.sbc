@@ -156,6 +156,10 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem>
+      <Name>NPC.Pack.EnceladusCo</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="NPC Provider (BB)">
       <Name>3099943209.sbm</Name>
       <PublishedFileId>3099943209</PublishedFileId>
@@ -405,18 +409,6 @@
       <Name>2806101561.sbm</Name>
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
