@@ -1424,14 +1424,9 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
-    <ModItem FriendlyName="TSTSSESCoresAddon">
-      <Name>3115001104.sbm</Name>
-      <PublishedFileId>3115001104</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCores">
-      <Name>3261300687.sbm</Name>
-      <PublishedFileId>3261300687</PublishedFileId>
+    <ModItem FriendlyName="O&amp;B's Ship Class System">
+      <Name>3193738565.sbm</Name>
+      <PublishedFileId>3193738565</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
@@ -1682,19 +1677,8 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -2024,6 +2008,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -65398,4 +65384,7 @@ Difficulty: Hard
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

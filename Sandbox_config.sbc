@@ -156,14 +156,9 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="TSTSSESCoresAddon">
-      <Name>3115001104.sbm</Name>
-      <PublishedFileId>3115001104</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCores">
-      <Name>3261300687.sbm</Name>
-      <PublishedFileId>3261300687</PublishedFileId>
+    <ModItem FriendlyName="O&amp;B's Ship Class System">
+      <Name>3193738565.sbm</Name>
+      <PublishedFileId>3193738565</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
@@ -413,18 +408,6 @@
       <Name>2806101561.sbm</Name>
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
