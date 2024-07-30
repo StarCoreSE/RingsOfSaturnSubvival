@@ -35,7 +35,7 @@
     <RealisticSound>true</RealisticSound>
     <HackSpeedMultiplier>0.33</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <AutoSaveInMinutes>5</AutoSaveInMinutes>
+    <AutoSaveInMinutes>0</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
@@ -156,6 +156,16 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="TSTSSESCoresAddon">
+      <Name>3115001104.sbm</Name>
+      <PublishedFileId>3115001104</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCores">
+      <Name>3261300687.sbm</Name>
+      <PublishedFileId>3261300687</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
       <Name>NPC.Pack.GanymedeLiberationFront</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -172,16 +182,6 @@
     <ModItem FriendlyName="Visual Overrides API">
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCoresAddon">
-      <Name>3115001104.sbm</Name>
-      <PublishedFileId>3115001104</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCores">
-      <Name>3261300687.sbm</Name>
-      <PublishedFileId>3261300687</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
@@ -428,5 +428,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-07-21T21:11:51.4043977-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-30T03:41:25.9477862-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

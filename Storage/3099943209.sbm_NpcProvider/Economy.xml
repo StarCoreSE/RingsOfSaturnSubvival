@@ -21,4 +21,10 @@
   <MercenariesEnabled>false</MercenariesEnabled>
   <MercenariesCreditCost>150000000</MercenariesCreditCost>
   <MercenariesReputationCost>200</MercenariesReputationCost>
+  <GenerateOffers>5</GenerateOffers>
+  <PlanetBlacklist>Dummy;Fake;Dangerous</PlanetBlacklist>
+  <ReputationOfferModifier>1</ReputationOfferModifier>
+  <WreckageOfferModifier>1</WreckageOfferModifier>
+  <InvestmentEconomyOfferModifier>1</InvestmentEconomyOfferModifier>
+  <InvestmentMilitaryOfferModifier>1</InvestmentMilitaryOfferModifier>
 </EconomyConfiguration>
