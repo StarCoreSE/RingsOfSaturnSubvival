@@ -38,7 +38,7 @@
     <AutoSaveInMinutes>0</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
-    <EnableContainerDrops>true</EnableContainerDrops>
+    <EnableContainerDrops>false</EnableContainerDrops>
     <SpawnShipTimeMultiplier>0</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
@@ -437,5 +437,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-09-02T20:14:17.1755014-05:00</LastSaveTime>
+  <LastSaveTime>2024-09-02T20:21:40.9254644-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
