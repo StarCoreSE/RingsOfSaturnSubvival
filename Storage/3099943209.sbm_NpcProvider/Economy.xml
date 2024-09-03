@@ -15,6 +15,9 @@
       <VerticalOffset>0</VerticalOffset>
       <StationName>Trade Station</StationName>
       <TradePrefabs />
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
     </EconomyStation>
   </EconomyStations>
   <NoDefaultSellGrids>false</NoDefaultSellGrids>
@@ -27,4 +30,6 @@
   <WreckageOfferModifier>1</WreckageOfferModifier>
   <InvestmentEconomyOfferModifier>1</InvestmentEconomyOfferModifier>
   <InvestmentMilitaryOfferModifier>1</InvestmentMilitaryOfferModifier>
+  <FreePortOfferModifier>1</FreePortOfferModifier>
+  <FreePortPercentage>0.2</FreePortPercentage>
 </EconomyConfiguration>

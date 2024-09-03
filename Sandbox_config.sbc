@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
-    <GameMode>Creative</GameMode>
+    <GameMode>Survival</GameMode>
     <InventorySizeMultiplier>1</InventorySizeMultiplier>
     <BlocksInventorySizeMultiplier>1</BlocksInventorySizeMultiplier>
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
@@ -21,7 +21,7 @@
     <EnableRemoteBlockRemoval>false</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
-    <EnableCopyPaste>true</EnableCopyPaste>
+    <EnableCopyPaste>false</EnableCopyPaste>
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
@@ -156,6 +156,10 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Dynamic Asteroids">
+      <Name>Dynamic Asteroids</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Block Culling">
       <Name>3237260730.sbm</Name>
       <PublishedFileId>3237260730</PublishedFileId>
@@ -304,11 +308,6 @@
       <PublishedFileId>3188989720</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>3262577158.sbm</Name>
-      <PublishedFileId>3262577158</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="DirectionalFoamDispensers">
       <Name>3261299216.sbm</Name>
       <PublishedFileId>3261299216</PublishedFileId>
@@ -424,7 +423,19 @@
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Translation Script (BB)">
+      <Name>3264193782.sbm</Name>
+      <PublishedFileId>3264193782</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-07-30T05:14:24.003561-05:00</LastSaveTime>
+  <LastSaveTime>2024-09-02T19:34:26.7041385-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

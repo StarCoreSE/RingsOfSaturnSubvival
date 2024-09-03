@@ -28,7 +28,5 @@
       <FleetPower>100</FleetPower>
     </MilitaryStats>
   </MilitaryModifiers>
-  <News>
-    <Data>ChQqKkVDT05PTVkgT1ZFUlZJRVcqKhIwTmV3IGVjb25vbXkgc3RhdGlzdGljcyBvbiA1IHJpY2hlc3QNCmZhY3Rpb25zLg0KGgxuZXdzX2Vjb25vbXkiFAoDRUNPEgUxMDAgJRoGCICAgvgPIhcKBkRhbmdlchIFMTAwICUaBgiAgIL4DyIUCgNHTEYSBTEwMCAlGgYIgICC+A8=</Data>
-  </News>
+  <Salt>ycKaRs3kSqVS64bO</Salt>
 </Persistence>
