@@ -2,30 +2,13 @@
 <EconomyConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <EconomyEnabled>true</EconomyEnabled>
   <EconomyRefresh>1200</EconomyRefresh>
-  <EconomyStations>
-    <EconomyStation>
-      <Planetary>false</Planetary>
-      <Prefab>Economy_SpaceStation_1</Prefab>
-      <HasSafeZone>true</HasSafeZone>
-      <Position>
-        <X>0</X>
-        <Y>0</Y>
-        <Z>0</Z>
-      </Position>
-      <VerticalOffset>0</VerticalOffset>
-      <StationName>Trade Station</StationName>
-      <TradePrefabs />
-      <FreePort>false</FreePort>
-      <SiegedTimes>0</SiegedTimes>
-      <FreePortKey>0</FreePortKey>
-    </EconomyStation>
-  </EconomyStations>
+  <EconomyStations />
   <NoDefaultSellGrids>false</NoDefaultSellGrids>
   <MercenariesEnabled>false</MercenariesEnabled>
   <MercenariesCreditCost>150000000</MercenariesCreditCost>
   <MercenariesReputationCost>200</MercenariesReputationCost>
   <GenerateOffers>5</GenerateOffers>
-  <PlanetBlacklist>Dummy;Fake;Dangerous</PlanetBlacklist>
+  <PlanetBlacklist>Dummy;Fake;Dangerous;RealGasGiant</PlanetBlacklist>
   <ReputationOfferModifier>1</ReputationOfferModifier>
   <WreckageOfferModifier>1</WreckageOfferModifier>
   <InvestmentEconomyOfferModifier>1</InvestmentEconomyOfferModifier>
