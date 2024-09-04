@@ -2,31 +2,31 @@
 <Persistence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <EconomyModifiers>
     <EconomyStats>
-      <FactionTag>ECO</FactionTag>
+      <FactionTag>GLF</FactionTag>
+      <Modifier>1</Modifier>
+    </EconomyStats>
+    <EconomyStats>
+      <FactionTag>ECO-NPC</FactionTag>
       <Modifier>1</Modifier>
     </EconomyStats>
     <EconomyStats>
       <FactionTag>Danger</FactionTag>
-      <Modifier>1</Modifier>
-    </EconomyStats>
-    <EconomyStats>
-      <FactionTag>GLF</FactionTag>
       <Modifier>1</Modifier>
     </EconomyStats>
   </EconomyModifiers>
   <MilitaryModifiers>
     <MilitaryStats>
-      <FactionTag>ECO</FactionTag>
+      <FactionTag>GLF</FactionTag>
+      <FleetPower>100</FleetPower>
+    </MilitaryStats>
+    <MilitaryStats>
+      <FactionTag>ECO-NPC</FactionTag>
       <FleetPower>100</FleetPower>
     </MilitaryStats>
     <MilitaryStats>
       <FactionTag>Danger</FactionTag>
       <FleetPower>100</FleetPower>
     </MilitaryStats>
-    <MilitaryStats>
-      <FactionTag>GLF</FactionTag>
-      <FleetPower>100</FleetPower>
-    </MilitaryStats>
   </MilitaryModifiers>
-  <Salt>ycKaRs3kSqVS64bO</Salt>
+  <Salt>RxR4ZSCt9HsFul18</Salt>
 </Persistence>

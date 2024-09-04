@@ -8,7 +8,7 @@
       <CanSpawnMissions>true</CanSpawnMissions>
     </FactionDefOverride>
     <FactionDefOverride>
-      <Tag>ECO</Tag>
+      <Tag>ECO-NPC</Tag>
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>
