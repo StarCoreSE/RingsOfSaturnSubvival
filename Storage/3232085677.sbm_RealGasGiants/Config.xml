@@ -3,6 +3,8 @@
   <GasGiantBlocksSun>true</GasGiantBlocksSun>
   <GasGiantsHaveAtmoGlobal>true</GasGiantsHaveAtmoGlobal>
   <SetGlobalNoAsteroids>true</SetGlobalNoAsteroids>
+  <CanSpawnOnGasGiants>true</CanSpawnOnGasGiants>
+  <UseLensFlareOccluder>true</UseLensFlareOccluder>
   <GasGiantInfoList>
     <GasGiantConfigInfo PlanetName="RealGasGiant-12345d1000--4911161085436634825">
       <PlanetCustomName>Saturn</PlanetCustomName>
