@@ -156,8 +156,17 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="ConfigurableGridPointsAddon">
+      <Name>ConfigurableGridPointsAddon</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ConfigurableGridPoints">
+      <Name>ConfigurableGridPoints</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>Dynamic Asteroids</Name>
+      <Name>3262577158.sbm</Name>
+      <PublishedFileId>3262577158</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Block Culling">
@@ -437,5 +446,5 @@
     </ModItem>
   </Mods>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
-  <LastSaveTime>2024-09-03T21:31:43.1041161-05:00</LastSaveTime>
+  <LastSaveTime>2024-09-11T22:37:15.0205179-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
