@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>447887680000</ElapsedGameTime>
+  <ElapsedGameTime>453917920000</ElapsedGameTime>
   <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
   <SpectatorPosition>
     <Position x="-156.49857113750934" y="37.51520899524256" z="-250.45163995826792" />
     <Forward x="0.449611038" y="-0.622587144" z="0.640496" />
-    <Up x="0.494842023" y="0.7705803" z="0.40166828" />
+    <Up x="0.494842" y="0.7705803" z="0.401668251" />
     <Orientation>
       <X>0.177685559</X>
       <Y>0.8880742</Y>
@@ -21,7 +21,7 @@
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-09-11T22:37:15.0205179-05:00</LastSaveTime>
+  <LastSaveTime>2024-09-11T23:23:47.7975472-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -1035,7 +1035,7 @@ PaintUnfinishedBlocks=False
         </item>
         <item>
           <Key>NPCProviderContracts</Key>
-          <Value xsi:type="xsd:string">993864012317031765;951009372894540940;943065326129065490;984423246132022235</Value>
+          <Value xsi:type="xsd:string">975441742972015471;946852002468542845;958877150236740833;947947752097506147;945867530067842718;962473251419249586;989271382559628781;1007952630633993265;1000045155049688949;973608999349466404;963833149698623762;989428144317062477;972068774050633126;994139526365889579;989550263946204459;995069997744427319;983631022224272894;940860505930519301;943102265891394088;977411655947020655</Value>
         </item>
         <item>
           <Key>NPCProviderRepResets</Key>
@@ -1387,7 +1387,7 @@ PaintUnfinishedBlocks=False
         <FactionId1>284483582766654805</FactionId1>
         <FactionId2>217223786446837042</FactionId2>
         <Relation>Friends</Relation>
-        <Reputation>1343</Reputation>
+        <Reputation>1421</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>258961289160008772</FactionId1>
@@ -1587,7 +1587,7 @@ PaintUnfinishedBlocks=False
         <PlayerId>144115188075855897</PlayerId>
         <FactionId>284483582766654805</FactionId>
         <Relation>Friends</Relation>
-        <Reputation>1343</Reputation>
+        <Reputation>1421</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855902</PlayerId>
@@ -1605,7 +1605,7 @@ PaintUnfinishedBlocks=False
         <PlayerId>144115188075855895</PlayerId>
         <FactionId>284483582766654805</FactionId>
         <Relation>Friends</Relation>
-        <Reputation>1343</Reputation>
+        <Reputation>1421</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855901</PlayerId>
@@ -1632,6 +1632,11 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Disable Reputation Change">
+      <Name>2731876706.sbm</Name>
+      <PublishedFileId>2731876706</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="ConfigurableGridPointsAddon">
       <Name>ConfigurableGridPointsAddon</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -1908,19 +1913,8 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1929,7 +1923,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>John Enceladus</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:05.3650489-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:11.6183316-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1944,11 +1938,11 @@ PaintUnfinishedBlocks=False
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.997916639" y="0.322314024" z="-0.05098039" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:05.3655513-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:11.6183316-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-09-11T22:37:15.0205179-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-09-11T23:23:47.7975472-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -1959,7 +1953,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:09.1375486-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:15.9088298-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -1972,7 +1966,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:05.3650489-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:11.6183316-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1985,7 +1979,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:05.3650489-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:11.6183316-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1998,7 +1992,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:05.3650489-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:11.6183316-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2011,7 +2005,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:05.3650489-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:11.6183316-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2024,7 +2018,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-09-11T22:35:05.3650489-05:00</LastLoginTime>
+      <LastLoginTime>2024-09-11T23:13:11.6183316-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2276,6 +2270,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -2323,7 +2319,7 @@ PaintUnfinishedBlocks=False
               <coords>
                 <X>1302.7855541965619</X>
                 <Y>3488.2116880893682</Y>
-                <Z>-1633.8471549946735</Z>
+                <Z>-1633.847032924361</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -2476,7 +2472,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.7991524" y="0.13009648" z="-0.586882" />
+      <SunDirectionNormalized x="-0.9393162" y="-0.237986654" z="-0.247078031" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -2511,45 +2507,7 @@ PaintUnfinishedBlocks=False
       <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
       <InactiveContracts>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>993864012317031765</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>62920740000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1048375147218858247</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>993864012317031765</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Rescue &amp; Transport Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver consumables to designated position in space.
-Deliver supplies to designated position in space.
-Transport the given cargo to it's destination in space.
-Rescue ship at designated position in space.
-REWARD:
-Money: 420000 SC,
-Reputation: 40,
-Difficulty: Moderate
-(closest to: RealGasGiant)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>951009372894540940</Id>
+          <Id>947947752097506147</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -2560,34 +2518,32 @@ Difficulty: Moderate
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>142852154432041540</StartBlock>
-          <Creation>62920740000</Creation>
+          <Creation>64736400000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1042514992425806332</Id>
+            <Id>1039048522871145565</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>951009372894540940</ContractId>
+            <ContractId>947947752097506147</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
             <BlockEndId>142852154432041540</BlockEndId>
           </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Rescue &amp; Transport Mission (Space) (ECO-NPC)</ContractName>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat Mission (Planet) (GLF)</ContractName>
           <ContractDescription>OBJECTIVES:
-Deliver consumables to designated position in space.
-Deliver supplies to designated position in space.
-Transport the given cargo to it's destination in space.
-Rescue ship at designated position in space.
+Destroy an enemy planetary base at designated position.
+Assassinate your targets at the designated position on the planet.
 REWARD:
-Money: 420000 SC,
-Reputation: 40,
+Money: 560000 SC,
+Reputation: 20,
 Difficulty: Moderate
-(closest to: RealGasGiant)
+(planet: RealGasGiant)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>943065326129065490</Id>
+          <Id>958877150236740833</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -2598,31 +2554,32 @@ Difficulty: Moderate
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>73430540981178282</StartBlock>
-          <Creation>63520910000</Creation>
+          <Creation>64736400000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1049058030855975307</Id>
+            <Id>1050319515729427166</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>943065326129065490</ContractId>
+            <ContractId>958877150236740833</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
             <BlockEndId>73430540981178282</BlockEndId>
           </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat Mission (Planet) (GLF)</ContractName>
           <ContractDescription>OBJECTIVES:
-Protect our space station at designated position.
+Destroy an enemy planetary base at designated position.
+Assassinate your targets at the designated position on the planet.
 REWARD:
-Money: 540000 SC,
-Reputation: 18,
-Difficulty: Hard
-(closest to: RealGasGiant)
+Money: 560000 SC,
+Reputation: 20,
+Difficulty: Moderate
+(planet: RealGasGiant)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>984423246132022235</Id>
+          <Id>946852002468542845</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -2633,13 +2590,13 @@ Difficulty: Hard
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>142852154432041540</StartBlock>
-          <Creation>63520910000</Creation>
+          <Creation>64136240000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1059920112810407205</Id>
+            <Id>1038432430998728791</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>984423246132022235</ContractId>
+            <ContractId>946852002468542845</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -2648,11 +2605,632 @@ Difficulty: Hard
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
           <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
           <ContractDescription>OBJECTIVES:
-Protect our space station at designated position.
+Assist friendly fleet in large space battle.
+Rescue ship at designated position in space.
 REWARD:
-Money: 540000 SC,
-Reputation: 18,
+Money: 320000 SC,
+Reputation: 20,
+Difficulty: Moderate
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>975441742972015471</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>64136240000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1017386918267538734</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>975441742972015471</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Assist friendly fleet in large space battle.
+Rescue ship at designated position in space.
+REWARD:
+Money: 320000 SC,
+Reputation: 20,
+Difficulty: Moderate
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>945867530067842718</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>65336570000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1080838927929746824</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>945867530067842718</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Rescue &amp; Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Rescue escape pod at designated position in space.
+Deliver consumables to designated position in space.
+REWARD:
+Money: 200000 SC,
+Reputation: 32,
+Difficulty: Moderate
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>962473251419249586</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>65336570000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1052671287136640100</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>962473251419249586</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Rescue &amp; Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Rescue escape pod at designated position in space.
+Deliver consumables to designated position in space.
+REWARD:
+Money: 200000 SC,
+Reputation: 32,
+Difficulty: Moderate
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>989271382559628781</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>65936730000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1055553628451961751</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>989271382559628781</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat Mission (Planet) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Destroy an enemy planetary base at designated position.
+Destroy an enemy town at designated position on the planet.
+REWARD:
+Money: 400000 SC,
+Reputation: 8,
+Difficulty: Easy
+(planet: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1007952630633993265</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>65936730000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1030075979243025281</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1007952630633993265</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat Mission (Planet) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Destroy an enemy planetary base at designated position.
+Destroy an enemy town at designated position on the planet.
+REWARD:
+Money: 400000 SC,
+Reputation: 8,
+Difficulty: Easy
+(planet: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1000045155049688949</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>66536890000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1056571804575883532</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1000045155049688949</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat &amp; Assistance Mission (Planet) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our planetary base at designated position.
+Assassinate your targets at the designated position on the planet.
+REWARD:
+Money: 260000 SC,
+Reputation: 12,
+Difficulty: Easy
+(planet: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>973608999349466404</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>66536890000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1057545588532864177</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>973608999349466404</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat &amp; Assistance Mission (Planet) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our planetary base at designated position.
+Assassinate your targets at the designated position on the planet.
+REWARD:
+Money: 260000 SC,
+Reputation: 12,
+Difficulty: Easy
+(planet: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>963833149698623762</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>67137060000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1020893578507439760</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>963833149698623762</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Rescue Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Rescue ship at designated position in space.
+Patrol designated position in space and watch for enemies.
+Destroy space station on designated position.
+REWARD:
+Money: 930000 SC,
+Reputation: 42,
 Difficulty: Hard
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>989428144317062477</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>67137060000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1009565039439091089</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>989428144317062477</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Rescue Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Rescue ship at designated position in space.
+Patrol designated position in space and watch for enemies.
+Destroy space station on designated position.
+REWARD:
+Money: 930000 SC,
+Reputation: 42,
+Difficulty: Hard
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>972068774050633126</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>67737220000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1030287780718260040</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>972068774050633126</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our space ships at designated position.
+Assassinate your targets at the designated position in space.
+Raid hostile trade convoy in space.
+REWARD:
+Money: 750000 SC,
+Reputation: 54,
+Difficulty: Hard
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>994139526365889579</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>67737220000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1034559199727454540</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>994139526365889579</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our space ships at designated position.
+Assassinate your targets at the designated position in space.
+Raid hostile trade convoy in space.
+REWARD:
+Money: 750000 SC,
+Reputation: 54,
+Difficulty: Hard
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>989550263946204459</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>68337390000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1053429239541920962</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>989550263946204459</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Assistance &amp; Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Recover black box at designated position in space (enemies may arrive if you are not fast enough).
+Deliver supplies to designated position in space.
+REWARD:
+Money: 330000 SC,
+Reputation: 12,
+Difficulty: Hard
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>995069997744427319</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>68337390000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1073734438466282646</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>995069997744427319</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Assistance &amp; Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Recover black box at designated position in space (enemies may arrive if you are not fast enough).
+Deliver supplies to designated position in space.
+REWARD:
+Money: 330000 SC,
+Reputation: 12,
+Difficulty: Hard
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>983631022224272894</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>68937550000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1064863613638050234</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>983631022224272894</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat Mission (Planet) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Destroy an enemy town at designated position on the planet.
+Destroy an enemy planetary base at designated position.
+REWARD:
+Money: 1200000 SC,
+Reputation: 24,
+Difficulty: Hard
+(planet: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>940860505930519301</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>68937550000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1075558401025781618</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>940860505930519301</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Combat Mission (Planet) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Destroy an enemy town at designated position on the planet.
+Destroy an enemy planetary base at designated position.
+REWARD:
+Money: 1200000 SC,
+Reputation: 24,
+Difficulty: Hard
+(planet: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>943102265891394088</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>69537710000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1022760405374295902</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>943102265891394088</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Assassinate your targets at the designated position in space.
+Protect our space ships at designated position.
+Patrol designated position in space and watch for enemies.
+Assist friendly fleet in large space battle.
+REWARD:
+Money: 640000 SC,
+Reputation: 40,
+Difficulty: Moderate
+(closest to: RealGasGiant)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>977411655947020655</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>69537710000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1028453301803892195</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>977411655947020655</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Assassinate your targets at the designated position in space.
+Protect our space ships at designated position.
+Patrol designated position in space and watch for enemies.
+Assist friendly fleet in large space battle.
+REWARD:
+Money: 640000 SC,
+Reputation: 40,
+Difficulty: Moderate
 (closest to: RealGasGiant)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
@@ -65025,7 +65603,7 @@ Difficulty: Hard
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>99983</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>8050</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -65087,7 +65665,7 @@ Difficulty: Hard
           <OwnerIdentifier>251671393460056489</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>251671393460056489</OwnerIdentifier>
-            <Balance>50500000000</Balance>
+            <Balance>100500000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -65095,7 +65673,7 @@ Difficulty: Hard
           <OwnerIdentifier>144115188075855898</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855898</OwnerIdentifier>
-            <Balance>50500010000</Balance>
+            <Balance>100500010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -65119,7 +65697,7 @@ Difficulty: Hard
           <OwnerIdentifier>235341129158470095</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>235341129158470095</OwnerIdentifier>
-            <Balance>51000000000</Balance>
+            <Balance>101000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -65127,7 +65705,7 @@ Difficulty: Hard
           <OwnerIdentifier>144115188075855900</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855900</OwnerIdentifier>
-            <Balance>51000010000</Balance>
+            <Balance>101000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -65143,7 +65721,7 @@ Difficulty: Hard
           <OwnerIdentifier>284483582766654805</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>284483582766654805</OwnerIdentifier>
-            <Balance>101000000000</Balance>
+            <Balance>51000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -65151,7 +65729,7 @@ Difficulty: Hard
           <OwnerIdentifier>144115188075855902</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855902</OwnerIdentifier>
-            <Balance>50000010000</Balance>
+            <Balance>100000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -65164,7 +65742,7 @@ Difficulty: Hard
           </Account>
         </MyObjectBuilder_AccountEntry>
       </Accounts>
-      <OverallBalance>551242137000</OverallBalance>
+      <OverallBalance>751242137000</OverallBalance>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_NeutralShipSpawner">
       <ShipsInProgress />
@@ -65354,41 +65932,44 @@ Difficulty: Hard
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopeRoundPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
