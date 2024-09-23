@@ -156,11 +156,6 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="TeleportGateway">
-      <Name>3289703136.sbm</Name>
-      <PublishedFileId>3289703136</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
@@ -169,6 +164,11 @@
     <ModItem FriendlyName="Text HUD API">
       <Name>758597413.sbm</Name>
       <PublishedFileId>758597413</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TeleportGateway">
+      <Name>3289703136.sbm</Name>
+      <PublishedFileId>3289703136</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Systems Highlight">
@@ -244,11 +244,6 @@
     <ModItem FriendlyName="OldBlockRestrictions">
       <Name>2995125400.sbm</Name>
       <PublishedFileId>2995125400</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="O&amp;B's Ship Class System">
-      <Name>3193738565.sbm</Name>
-      <PublishedFileId>3193738565</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
