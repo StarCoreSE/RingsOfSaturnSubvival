@@ -1632,6 +1632,10 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem>
+      <Name>Slipspace Engine</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
@@ -1680,11 +1684,6 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="Spectator Turbo">
       <Name>3169862712.sbm</Name>
       <PublishedFileId>3169862712</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Slipspace Engine">
-      <Name>3260158135.sbm</Name>
-      <PublishedFileId>3260158135</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Shipyards Revival">
