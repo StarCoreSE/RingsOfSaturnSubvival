@@ -157,6 +157,15 @@
   </Settings>
   <Mods>
     <ModItem>
+      <Name>DeltaVEquipment</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Orrery Combat Framework - Heart Module">
+      <Name>3130655435.sbm</Name>
+      <PublishedFileId>3130655435</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem>
       <Name>TSTSSES-VisualAdjustments</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
