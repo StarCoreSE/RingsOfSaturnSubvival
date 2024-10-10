@@ -2,7 +2,7 @@
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
   <ElapsedGameTime>472972320000</ElapsedGameTime>
-  <SessionName>JulyXocVival-DeltaV-Roided</SessionName>
+  <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
     <Position x="-156.49857113750934" y="37.51520899524256" z="-250.45163995826792" />
     <Forward x="0.449611038" y="-0.622587144" z="0.640496" />
