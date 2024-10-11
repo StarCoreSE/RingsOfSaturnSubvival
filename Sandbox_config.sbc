@@ -156,8 +156,44 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem>
-      <Name>DeltaVEquipment</Name>
+    <ModItem FriendlyName="DeltaVEquipment">
+      <Name>3346575895.sbm</Name>
+      <PublishedFileId>3346575895</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCharacterAdjustments">
+      <Name>3346579680.sbm</Name>
+      <PublishedFileId>3346579680</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Slipspace Engine">
+      <Name>3260158135.sbm</Name>
+      <PublishedFileId>3260158135</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
+      <Name>3326053117.sbm</Name>
+      <PublishedFileId>3326053117</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
+      <Name>3326052965.sbm</Name>
+      <PublishedFileId>3326052965</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ConfigurableGridPointsAddon">
+      <Name>3346579398.sbm</Name>
+      <PublishedFileId>3346579398</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ConfigurableGridPoints">
+      <Name>3346579329.sbm</Name>
+      <PublishedFileId>3346579329</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSES-VisualAdjustments">
+      <Name>3346576256.sbm</Name>
+      <PublishedFileId>3346576256</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Orrery Combat Framework - Heart Module">
@@ -165,17 +201,9 @@
       <PublishedFileId>3130655435</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem>
-      <Name>TSTSSES-VisualAdjustments</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCharacterAdjustments">
-      <Name>TSTSSESCharacterAdjustments</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
@@ -223,10 +251,6 @@
       <PublishedFileId>3169862712</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Slipspace Engine">
-      <Name>Slipspace Engine</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Shipyards Revival">
       <Name>3013053286.sbm</Name>
       <PublishedFileId>3013053286</PublishedFileId>
@@ -260,14 +284,6 @@
     <ModItem FriendlyName="OldBlockRestrictions">
       <Name>2995125400.sbm</Name>
       <PublishedFileId>2995125400</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
-      <Name>NPC.Pack.GanymedeLiberationFront</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
-      <Name>NPC.Pack.EnceladusCo</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC Provider (BB)">
@@ -330,14 +346,6 @@
       <PublishedFileId>655948251</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="ConfigurableGridPointsAddon">
-      <Name>ConfigurableGridPointsAddon</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="ConfigurableGridPoints">
-      <Name>ConfigurableGridPoints</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Configurable Parameters">
       <Name>2422592854.sbm</Name>
       <PublishedFileId>2422592854</PublishedFileId>
@@ -371,11 +379,6 @@
     <ModItem FriendlyName="Build Info">
       <Name>514062285.sbm</Name>
       <PublishedFileId>514062285</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Block Culling">
-      <Name>3237260730.sbm</Name>
-      <PublishedFileId>3237260730</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Autofill Bottles">
