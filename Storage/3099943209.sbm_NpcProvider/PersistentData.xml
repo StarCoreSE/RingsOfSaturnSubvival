@@ -29,4 +29,6 @@
     </MilitaryStats>
   </MilitaryModifiers>
   <Salt>RxR4ZSCt9HsFul18</Salt>
+  <Export>false</Export>
+  <ExportIntervalSeconds>900</ExportIntervalSeconds>
 </Persistence>

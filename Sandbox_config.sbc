@@ -156,14 +156,14 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Advanced Gravity Collector">
-      <Name>3346612989.sbm</Name>
-      <PublishedFileId>3346612989</PublishedFileId>
+    <ModItem FriendlyName="Block Restrictions">
+      <Name>2053202808.sbm</Name>
+      <PublishedFileId>2053202808</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="DeltaVEquipment">
-      <Name>3346575895.sbm</Name>
-      <PublishedFileId>3346575895</PublishedFileId>
+    <ModItem FriendlyName="Visual Overrides API">
+      <Name>3222232482.sbm</Name>
+      <PublishedFileId>3222232482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="TSTSSESCharacterAdjustments">
@@ -171,44 +171,9 @@
       <PublishedFileId>3346579680</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Slipspace Engine">
-      <Name>3260158135.sbm</Name>
-      <PublishedFileId>3260158135</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
-      <Name>3326053117.sbm</Name>
-      <PublishedFileId>3326053117</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
-      <Name>3326052965.sbm</Name>
-      <PublishedFileId>3326052965</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="ConfigurableGridPointsAddon">
-      <Name>3346579398.sbm</Name>
-      <PublishedFileId>3346579398</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="ConfigurableGridPoints">
-      <Name>3346579329.sbm</Name>
-      <PublishedFileId>3346579329</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="TSTSSES-VisualAdjustments">
       <Name>3346576256.sbm</Name>
       <PublishedFileId>3346576256</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Orrery Combat Framework - Heart Module">
-      <Name>3130655435.sbm</Name>
-      <PublishedFileId>3130655435</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Visual Overrides API">
-      <Name>3222232482.sbm</Name>
-      <PublishedFileId>3222232482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
@@ -256,6 +221,11 @@
       <PublishedFileId>3169862712</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Slipspace Engine">
+      <Name>3260158135.sbm</Name>
+      <PublishedFileId>3260158135</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Shipyards Revival">
       <Name>3013053286.sbm</Name>
       <PublishedFileId>3013053286</PublishedFileId>
@@ -286,9 +256,19 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="OldBlockRestrictions">
-      <Name>2995125400.sbm</Name>
-      <PublishedFileId>2995125400</PublishedFileId>
+    <ModItem FriendlyName="Orrery Combat Framework - Heart Module">
+      <Name>3130655435.sbm</Name>
+      <PublishedFileId>3130655435</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
+      <Name>3326053117.sbm</Name>
+      <PublishedFileId>3326053117</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
+      <Name>3326052965.sbm</Name>
+      <PublishedFileId>3326052965</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC Provider (BB)">
@@ -346,9 +326,24 @@
       <PublishedFileId>3115002557</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="DeltaVEquipment">
+      <Name>3346575895.sbm</Name>
+      <PublishedFileId>3346575895</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Control Module - basically key binding for ships">
       <Name>655948251.sbm</Name>
       <PublishedFileId>655948251</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ConfigurableGridPointsAddon">
+      <Name>3346579398.sbm</Name>
+      <PublishedFileId>3346579398</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ConfigurableGridPoints">
+      <Name>3346579329.sbm</Name>
+      <PublishedFileId>3346579329</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Configurable Parameters">
@@ -426,6 +421,11 @@
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Advanced Gravity Collector">
+      <Name>3346612989.sbm</Name>
+      <PublishedFileId>3346612989</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="[SpraysAddon]SyFy-Font">
       <Name>2414545923.sbm</Name>
       <PublishedFileId>2414545923</PublishedFileId>
@@ -461,7 +461,19 @@
       <PublishedFileId>2806101561</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Translation Script (BB)">
+      <Name>3264193782.sbm</Name>
+      <PublishedFileId>3264193782</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-09-24T21:15:53.2747942-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-12T02:46:34.01372-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
