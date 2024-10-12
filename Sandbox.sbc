@@ -6,7 +6,7 @@
   <SpectatorPosition>
     <Position x="-156.49857113750934" y="37.51520899524256" z="-250.45163995826792" />
     <Forward x="0.449611038" y="-0.622587144" z="0.640496" />
-    <Up x="0.494842023" y="0.7705803" z="0.40166828" />
+    <Up x="0.494842" y="0.7705803" z="0.401668251" />
     <Orientation>
       <X>0.177685559</X>
       <Y>0.8880742</Y>
@@ -1754,6 +1754,11 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="TSTSSESAdminBlocks">
+      <Name>3347363756.sbm</Name>
+      <PublishedFileId>3347363756</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Block Restrictions">
       <Name>2053202808.sbm</Name>
       <PublishedFileId>2053202808</PublishedFileId>
@@ -2054,24 +2059,8 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="- Cerion - Admin Blocks -">
-      <Name>2806101561.sbm</Name>
-      <PublishedFileId>2806101561</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -2425,6 +2414,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -65363,4 +65354,7 @@ PaintUnfinishedBlocks=False
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
