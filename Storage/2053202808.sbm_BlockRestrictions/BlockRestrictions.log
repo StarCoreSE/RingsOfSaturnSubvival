@@ -1,5 +1,5 @@
-[02:17:32.285] [T1] [DS=False] DEBUG | Log Started
-[02:17:32.345] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[04:10:37.204] [T1] [DS=False] DEBUG | Log Started
+[04:10:37.259] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -916,7 +916,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Collector/Quantum_Tether
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/BarrelBlock
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ContractBlock/MissionBlock
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_CargoContainer/LargeBlockSmallContainerEVENT
@@ -952,13 +952,13 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_CameraBlock/DeepSpaceScannerS
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/DeltaV_MiningLaserTurret
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/FixedLaser
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_SmallMissileLauncher/FixedMicrowave
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_SmallMissileLauncher/FixedRailgun
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_OxygenGenerator/CP_ProprietaryOxygenGeneratorLarge
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_OxygenGenerator/CP_ProprietaryOxygenGeneratorSmall
@@ -1044,7 +1044,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_SafeZoneBlock/AdminGrid_SafeZone
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/DeltaV_MiningMetalStorm
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 
 BeforeStart() - Checking Entity Components
 
