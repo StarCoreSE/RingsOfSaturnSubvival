@@ -156,295 +156,9 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>Dynamic Asteroids</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Visual Overrides API">
-      <Name>3222232482.sbm</Name>
-      <PublishedFileId>3222232482</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESCharacterAdjustments">
-      <Name>3346579680.sbm</Name>
-      <PublishedFileId>3346579680</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESAdminBlocks">
-      <Name>3347363756.sbm</Name>
-      <PublishedFileId>3347363756</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSES-VisualAdjustments">
-      <Name>3346576256.sbm</Name>
-      <PublishedFileId>3346576256</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Systems Highlight">
-      <Name>3037494862.sbm</Name>
-      <PublishedFileId>3037494862</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - Magellanic">
-      <Name>3251198297.sbm</Name>
-      <PublishedFileId>3251198297</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore Reaction Control System">
-      <Name>2973091771.sbm</Name>
-      <PublishedFileId>2973091771</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Logo Pack">
-      <Name>2425204399.sbm</Name>
-      <PublishedFileId>2425204399</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore Basic Greebles">
-      <Name>2897767540.sbm</Name>
-      <PublishedFileId>2897767540</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SpraysMod">
-      <Name>2414738008.sbm</Name>
-      <PublishedFileId>2414738008</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Spectator Turbo">
-      <Name>3169862712.sbm</Name>
-      <PublishedFileId>3169862712</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Slipspace Engine">
-      <Name>3260158135.sbm</Name>
-      <PublishedFileId>3260158135</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Shipyards Revival">
-      <Name>3013053286.sbm</Name>
-      <PublishedFileId>3013053286</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SETacView Demo - Replay System">
-      <Name>2975063364.sbm</Name>
-      <PublishedFileId>2975063364</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Ringway">
-      <Name>3347754939.sbm</Name>
-      <PublishedFileId>3347754939</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Rich HUD Master">
-      <Name>1965654081.sbm</Name>
-      <PublishedFileId>1965654081</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Real Gas Giants">
-      <Name>3232085677.sbm</Name>
-      <PublishedFileId>3232085677</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Quantum Tether">
-      <Name>3041302865.sbm</Name>
-      <PublishedFileId>3041302865</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
-      <Name>500818376.sbm</Name>
-      <PublishedFileId>500818376</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
-      <Name>NPC.Pack.GanymedeLiberationFront</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
-      <Name>NPC.Pack.EnceladusCo</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC Provider (BB)">
-      <Name>3099943209.sbm</Name>
-      <PublishedFileId>3099943209</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
-      <Name>3032417765.sbm</Name>
-      <PublishedFileId>3032417765</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Layman's SafeZone">
-      <Name>2402573449.sbm</Name>
-      <PublishedFileId>2402573449</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="I NEED MORE JETPACK ACCELERATION">
-      <Name>2899738923.sbm</Name>
-      <PublishedFileId>2899738923</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Holographic Radar">
-      <Name>605086856.sbm</Name>
-      <PublishedFileId>605086856</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Faction Hangar - Beta">
-      <Name>3110146798.sbm</Name>
-      <PublishedFileId>3110146798</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="EVE Online Soundtrack">
-      <Name>3188989720.sbm</Name>
-      <PublishedFileId>3188989720</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Disable Reputation Change">
-      <Name>2731876706.sbm</Name>
-      <PublishedFileId>2731876706</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="DirectionalFoamDispensers">
-      <Name>3261299216.sbm</Name>
-      <PublishedFileId>3261299216</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Directional-Scanner-Revival">
-      <Name>3115002557.sbm</Name>
-      <PublishedFileId>3115002557</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="DeltaVMoonlets">
-      <Name>DeltaVMoonlets</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Control Module - basically key binding for ships">
-      <Name>655948251.sbm</Name>
-      <PublishedFileId>655948251</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="ConfigurableGridPointsAddon">
-      <Name>3346579398.sbm</Name>
-      <PublishedFileId>3346579398</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="ConfigurableGridPoints">
-      <Name>3346579329.sbm</Name>
-      <PublishedFileId>3346579329</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Configurable Parameters">
-      <Name>2422592854.sbm</Name>
-      <PublishedFileId>2422592854</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Colorful Icons">
-      <Name>801185519.sbm</Name>
-      <PublishedFileId>801185519</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="CharacterCollisionDamageDisabler">
-      <Name>3280195552.sbm</Name>
-      <PublishedFileId>3280195552</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Cast Spectator">
-      <Name>2968491433.sbm</Name>
-      <PublishedFileId>2968491433</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
-      <Name>806331071.sbm</Name>
-      <PublishedFileId>806331071</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Build Vision 3.0">
-      <Name>1697184408.sbm</Name>
-      <PublishedFileId>1697184408</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Build Info">
-      <Name>514062285.sbm</Name>
-      <PublishedFileId>514062285</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Block Restrictions">
-      <Name>2053202808.sbm</Name>
-      <PublishedFileId>2053202808</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Autofill Bottles">
-      <Name>2308085590.sbm</Name>
-      <PublishedFileId>2308085590</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Asteroid Filter API">
-      <Name>3218645300.sbm</Name>
-      <PublishedFileId>3218645300</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
-      <Name>2621169600.sbm</Name>
-      <PublishedFileId>2621169600</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="AQD - Sleek Corridors">
-      <Name>2492809392.sbm</Name>
-      <PublishedFileId>2492809392</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="AQD - No Armor Edges">
-      <Name>1825460112.sbm</Name>
-      <PublishedFileId>1825460112</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="AQD - Conveyor Expansion">
-      <Name>1864380341.sbm</Name>
-      <PublishedFileId>1864380341</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="AQD - Armored Thrusters">
-      <Name>1810920525.sbm</Name>
-      <PublishedFileId>1810920525</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="AQD - Armor Expansion">
-      <Name>1939935505.sbm</Name>
-      <PublishedFileId>1939935505</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Advanced Gravity Collector">
-      <Name>3346612989.sbm</Name>
-      <PublishedFileId>3346612989</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[VSI] Recolorable Thrusters">
-      <Name>1354870812.sbm</Name>
-      <PublishedFileId>1354870812</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]SyFy-Font">
-      <Name>2414545923.sbm</Name>
-      <PublishedFileId>2414545923</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]StarCore Enabler Rewards">
-      <Name>2961654766.sbm</Name>
-      <PublishedFileId>2961654766</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
-      <Name>2414546174.sbm</Name>
-      <PublishedFileId>2414546174</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]Pinniped's Maratime Flags">
-      <Name>2858915727.sbm</Name>
-      <PublishedFileId>2858915727</PublishedFileId>
+    <ModItem FriendlyName="[QoL] Production Quota">
+      <Name>2304715504.sbm</Name>
+      <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="[SpraysAddon]Hazzard signs">
@@ -452,9 +166,297 @@
       <PublishedFileId>2804100557</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="[QoL] Production Quota">
-      <Name>2304715504.sbm</Name>
-      <PublishedFileId>2304715504</PublishedFileId>
+    <ModItem FriendlyName="[SpraysAddon]Pinniped's Maratime Flags">
+      <Name>2858915727.sbm</Name>
+      <PublishedFileId>2858915727</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
+      <Name>2414546174.sbm</Name>
+      <PublishedFileId>2414546174</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]StarCore Enabler Rewards">
+      <Name>2961654766.sbm</Name>
+      <PublishedFileId>2961654766</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]SyFy-Font">
+      <Name>2414545923.sbm</Name>
+      <PublishedFileId>2414545923</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[VSI] Recolorable Thrusters">
+      <Name>1354870812.sbm</Name>
+      <PublishedFileId>1354870812</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Advanced Gravity Collector">
+      <Name>3346612989.sbm</Name>
+      <PublishedFileId>3346612989</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="AQD - Armor Expansion">
+      <Name>1939935505.sbm</Name>
+      <PublishedFileId>1939935505</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="AQD - Armored Thrusters">
+      <Name>1810920525.sbm</Name>
+      <PublishedFileId>1810920525</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="AQD - Conveyor Expansion">
+      <Name>1864380341.sbm</Name>
+      <PublishedFileId>1864380341</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="AQD - No Armor Edges">
+      <Name>1825460112.sbm</Name>
+      <PublishedFileId>1825460112</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="AQD - Sleek Corridors">
+      <Name>2492809392.sbm</Name>
+      <PublishedFileId>2492809392</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
+      <Name>2621169600.sbm</Name>
+      <PublishedFileId>2621169600</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Asteroid Filter API">
+      <Name>3218645300.sbm</Name>
+      <PublishedFileId>3218645300</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Autofill Bottles">
+      <Name>2308085590.sbm</Name>
+      <PublishedFileId>2308085590</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Block Restrictions">
+      <Name>2053202808.sbm</Name>
+      <PublishedFileId>2053202808</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Build Info">
+      <Name>514062285.sbm</Name>
+      <PublishedFileId>514062285</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Build Vision 3.0">
+      <Name>1697184408.sbm</Name>
+      <PublishedFileId>1697184408</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
+      <Name>806331071.sbm</Name>
+      <PublishedFileId>806331071</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Cast Spectator">
+      <Name>2968491433.sbm</Name>
+      <PublishedFileId>2968491433</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="CharacterCollisionDamageDisabler">
+      <Name>3280195552.sbm</Name>
+      <PublishedFileId>3280195552</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Colorful Icons">
+      <Name>801185519.sbm</Name>
+      <PublishedFileId>801185519</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Configurable Parameters">
+      <Name>2422592854.sbm</Name>
+      <PublishedFileId>2422592854</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ConfigurableGridPoints">
+      <Name>3346579329.sbm</Name>
+      <PublishedFileId>3346579329</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="ConfigurableGridPointsAddon">
+      <Name>3346579398.sbm</Name>
+      <PublishedFileId>3346579398</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Control Module - basically key binding for ships">
+      <Name>655948251.sbm</Name>
+      <PublishedFileId>655948251</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="DeltaVMoonlets">
+      <Name>3347790874.sbm</Name>
+      <PublishedFileId>3347790874</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Directional-Scanner-Revival">
+      <Name>3115002557.sbm</Name>
+      <PublishedFileId>3115002557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="DirectionalFoamDispensers">
+      <Name>3261299216.sbm</Name>
+      <PublishedFileId>3261299216</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Disable Reputation Change">
+      <Name>2731876706.sbm</Name>
+      <PublishedFileId>2731876706</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Dynamic Asteroids">
+      <Name>3262577158.sbm</Name>
+      <PublishedFileId>3262577158</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="EVE Online Soundtrack">
+      <Name>3188989720.sbm</Name>
+      <PublishedFileId>3188989720</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Faction Hangar - Beta">
+      <Name>3110146798.sbm</Name>
+      <PublishedFileId>3110146798</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Holographic Radar">
+      <Name>605086856.sbm</Name>
+      <PublishedFileId>605086856</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="I NEED MORE JETPACK ACCELERATION">
+      <Name>2899738923.sbm</Name>
+      <PublishedFileId>2899738923</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Layman's SafeZone">
+      <Name>2402573449.sbm</Name>
+      <PublishedFileId>2402573449</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
+      <Name>3032417765.sbm</Name>
+      <PublishedFileId>3032417765</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC Provider (BB)">
+      <Name>3099943209.sbm</Name>
+      <PublishedFileId>3099943209</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
+      <Name>NPC.Pack.EnceladusCo</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
+      <Name>NPC.Pack.GanymedeLiberationFront</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
+      <Name>500818376.sbm</Name>
+      <PublishedFileId>500818376</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Quantum Tether">
+      <Name>3041302865.sbm</Name>
+      <PublishedFileId>3041302865</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Real Gas Giants">
+      <Name>3232085677.sbm</Name>
+      <PublishedFileId>3232085677</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Rich HUD Master">
+      <Name>1965654081.sbm</Name>
+      <PublishedFileId>1965654081</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Ringway">
+      <Name>3347754939.sbm</Name>
+      <PublishedFileId>3347754939</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SETacView Demo - Replay System">
+      <Name>2975063364.sbm</Name>
+      <PublishedFileId>2975063364</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Shipyards Revival">
+      <Name>3013053286.sbm</Name>
+      <PublishedFileId>3013053286</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Slipspace Engine">
+      <Name>3260158135.sbm</Name>
+      <PublishedFileId>3260158135</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Spectator Turbo">
+      <Name>3169862712.sbm</Name>
+      <PublishedFileId>3169862712</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SpraysMod">
+      <Name>2414738008.sbm</Name>
+      <PublishedFileId>2414738008</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Basic Greebles">
+      <Name>2897767540.sbm</Name>
+      <PublishedFileId>2897767540</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="StarCore Logo Pack">
+      <Name>2425204399.sbm</Name>
+      <PublishedFileId>2425204399</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Reaction Control System">
+      <Name>2973091771.sbm</Name>
+      <PublishedFileId>2973091771</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="StarCore Skybox - Magellanic">
+      <Name>3251198297.sbm</Name>
+      <PublishedFileId>3251198297</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Systems Highlight">
+      <Name>3037494862.sbm</Name>
+      <PublishedFileId>3037494862</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSES-VisualAdjustments">
+      <Name>3346576256.sbm</Name>
+      <PublishedFileId>3346576256</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESAdminBlocks">
+      <Name>3347363756.sbm</Name>
+      <PublishedFileId>3347363756</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESCharacterAdjustments">
+      <Name>3346579680.sbm</Name>
+      <PublishedFileId>3346579680</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Visual Overrides API">
+      <Name>3222232482.sbm</Name>
+      <PublishedFileId>3222232482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
