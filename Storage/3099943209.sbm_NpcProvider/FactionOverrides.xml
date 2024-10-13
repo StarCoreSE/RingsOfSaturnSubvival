@@ -2,13 +2,13 @@
 <FactionDefOverrides xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Overrides>
     <FactionDefOverride>
-      <Tag>GLF</Tag>
+      <Tag>ECO-NPC</Tag>
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>
     </FactionDefOverride>
     <FactionDefOverride>
-      <Tag>ECO-NPC</Tag>
+      <Tag>GLF</Tag>
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>

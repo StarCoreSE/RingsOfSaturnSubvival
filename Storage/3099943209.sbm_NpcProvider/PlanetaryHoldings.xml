@@ -7,10 +7,20 @@
       <Space>true</Space>
       <Surface>true</Surface>
     </SiegeType>
+    <SiegeType>
+      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
+      <Space>true</Space>
+      <Surface>true</Surface>
+    </SiegeType>
   </PlanetSieges>
   <PlanetaryOwners>
     <PlanetaryOwner>
       <PlanetGeneratorId>RealGasGiant</PlanetGeneratorId>
+      <FactionTag>GLF</FactionTag>
+      <Control>100</Control>
+    </PlanetaryOwner>
+    <PlanetaryOwner>
+      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
       <FactionTag>GLF</FactionTag>
       <Control>100</Control>
     </PlanetaryOwner>
