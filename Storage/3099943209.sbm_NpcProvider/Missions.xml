@@ -83,6 +83,6 @@
   <TradeStationContactReward>10000;2</TradeStationContactReward>
   <LootRewardsPerSc>0</LootRewardsPerSc>
   <LootRewardsList />
-  <PlanetBlacklist>Dummy;Fake;Hidden</PlanetBlacklist>
+  <PlanetBlacklist>Dummy;Fake;Hidden,RealGasGiant</PlanetBlacklist>
   <IdleLifetime>1800</IdleLifetime>
 </NpcMissionConfig>

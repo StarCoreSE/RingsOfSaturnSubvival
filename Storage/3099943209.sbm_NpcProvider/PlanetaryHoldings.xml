@@ -36,32 +36,12 @@
     </PlanetaryOwner>
     <PlanetaryOwner>
       <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
       <FactionTag>ECO-NPC</FactionTag>
       <Control>100</Control>
     </PlanetaryOwner>
     <PlanetaryOwner>
       <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
       <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
       <Control>100</Control>
     </PlanetaryOwner>
     <PlanetaryOwner>
@@ -76,77 +56,12 @@
     </PlanetaryOwner>
     <PlanetaryOwner>
       <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
       <FactionTag>ECO-NPC</FactionTag>
       <Control>100</Control>
     </PlanetaryOwner>
     <PlanetaryOwner>
       <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
       <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
-      <Control>100</Control>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
       <Control>100</Control>
     </PlanetaryOwner>
     <PlanetaryOwner>
@@ -161,12 +76,12 @@
     </PlanetaryOwner>
     <PlanetaryOwner>
       <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
+      <FactionTag>ECO-NPC</FactionTag>
       <Control>100</Control>
     </PlanetaryOwner>
     <PlanetaryOwner>
       <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>GLF-NPC</FactionTag>
+      <FactionTag>ECO-NPC</FactionTag>
       <Control>100</Control>
     </PlanetaryOwner>
     <PlanetaryOwner>
