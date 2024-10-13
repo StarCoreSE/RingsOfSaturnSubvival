@@ -156,6 +156,19 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Control Module - basically key binding for ships">
+      <Name>655948251.sbm</Name>
+      <PublishedFileId>655948251</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
+      <Name>NPC.Pack.GanymedeLiberationFront</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
+      <Name>NPC.Pack.EnceladusCo</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Ringway">
       <Name>3347754939.sbm</Name>
       <PublishedFileId>3347754939</PublishedFileId>
@@ -266,16 +279,6 @@
       <PublishedFileId>3130655435</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
-      <Name>3326053117.sbm</Name>
-      <PublishedFileId>3326053117</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC.Pack.EnceladusCo">
-      <Name>3326052965.sbm</Name>
-      <PublishedFileId>3326052965</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="NPC Provider (BB)">
       <Name>3099943209.sbm</Name>
       <PublishedFileId>3099943209</PublishedFileId>
@@ -334,11 +337,6 @@
     <ModItem FriendlyName="DeltaVEquipment">
       <Name>3346575895.sbm</Name>
       <PublishedFileId>3346575895</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Control Module - basically key binding for ships">
-      <Name>655948251.sbm</Name>
-      <PublishedFileId>655948251</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="ConfigurableGridPointsAddon">
@@ -468,5 +466,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-12T02:46:34.01372-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-12T19:29:24.8839596-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
