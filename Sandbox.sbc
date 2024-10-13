@@ -5,11 +5,11 @@
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
     <Position x="98941730.235647574" y="2223121.151141624" z="53788472.571380019" />
-    <Forward x="0.7357546" y="-0.18753098" z="-0.6507667" />
-    <Up x="0.1918518" y="0.979250252" z="-0.0652828738" />
+    <Forward x="0.735754669" y="-0.187531" z="-0.6507666" />
+    <Up x="0.1918518" y="0.979250252" z="-0.06528286" />
     <Orientation>
       <X>-0.06980163</X>
-      <Y>-0.4120005</Y>
+      <Y>-0.412000537</Y>
       <Z>-0.0741796</Z>
       <W>0.905472636</W>
     </Orientation>
@@ -1862,11 +1862,6 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Orrery Combat Framework - Heart Module">
-      <Name>3130655435.sbm</Name>
-      <PublishedFileId>3130655435</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
       <Name>NPC.Pack.GanymedeLiberationFront</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -1927,11 +1922,6 @@ PaintUnfinishedBlocks=False
     </ModItem>
     <ModItem FriendlyName="DeltaVMoonlets">
       <Name>DeltaVMoonlets</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="DeltaVEquipment">
-      <Name>3346575895.sbm</Name>
-      <PublishedFileId>3346575895</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Control Module - basically key binding for ships">
@@ -2069,19 +2059,8 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -2428,6 +2407,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -66431,4 +66412,7 @@ PaintUnfinishedBlocks=False
     <string>MoonRocks</string>
   </VicinityVoxelCache>
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

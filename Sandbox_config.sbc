@@ -260,11 +260,6 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Orrery Combat Framework - Heart Module">
-      <Name>3130655435.sbm</Name>
-      <PublishedFileId>3130655435</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
       <Name>NPC.Pack.GanymedeLiberationFront</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -325,11 +320,6 @@
     </ModItem>
     <ModItem FriendlyName="DeltaVMoonlets">
       <Name>DeltaVMoonlets</Name>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="DeltaVEquipment">
-      <Name>3346575895.sbm</Name>
-      <PublishedFileId>3346575895</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Control Module - basically key binding for ships">
@@ -466,18 +456,6 @@
       <Name>2304715504.sbm</Name>
       <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
