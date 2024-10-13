@@ -156,7 +156,7 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem>
+    <ModItem FriendlyName="Dynamic Asteroids">
       <Name>Dynamic Asteroids</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
@@ -467,7 +467,19 @@
       <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Translation Script (BB)">
+      <Name>3264193782.sbm</Name>
+      <PublishedFileId>3264193782</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-12T23:56:54.110065-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-13T01:15:21.4370714-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

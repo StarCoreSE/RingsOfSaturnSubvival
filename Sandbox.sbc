@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>512148160000</ElapsedGameTime>
+  <ElapsedGameTime>512618400000</ElapsedGameTime>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
-    <Position x="118778012.155336" y="212497198.2177282" z="14739471.371284533" />
-    <Forward x="-0.0524219871" y="-0.9963568" z="-0.0672685951" />
-    <Up x="0.8014637" y="-0.0017914772" z="-0.59804064" />
+    <Position x="98941730.235647574" y="2223121.151141624" z="53788472.571380019" />
+    <Forward x="0.7357546" y="-0.18753098" z="-0.6507667" />
+    <Up x="0.1918518" y="0.979250252" z="-0.0652828738" />
     <Orientation>
-      <X>-0.618519247</X>
-      <Y>-0.28948167</Y>
-      <Z>-0.343990833</Z>
-      <W>0.6444413</W>
+      <X>-0.06980163</X>
+      <Y>-0.4120005</Y>
+      <Z>-0.0741796</Z>
+      <W>0.905472636</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="1105733.38" y="1" />
+  <SpectatorSpeed x="29.1929226" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraEntity>0</CameraEntity>
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-10-12T23:56:54.110065-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-13T01:15:21.4370714-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -1157,7 +1157,7 @@ PaintUnfinishedBlocks=False
         </item>
         <item>
           <Key>NPCProviderContracts</Key>
-          <Value xsi:type="xsd:string">973147536080639751;970595396479851280;936768097629217682;1005489546405033025</Value>
+          <Value xsi:type="xsd:string" />
         </item>
         <item>
           <Key>NPCProviderRepResets</Key>
@@ -1758,7 +1758,7 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
-    <ModItem>
+    <ModItem FriendlyName="Dynamic Asteroids">
       <Name>Dynamic Asteroids</Name>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
@@ -2069,8 +2069,19 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Translation Script (BB)">
+      <Name>3264193782.sbm</Name>
+      <PublishedFileId>3264193782</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -2079,7 +2090,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>John Enceladus</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:30.5032528-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2094,11 +2105,11 @@ PaintUnfinishedBlocks=False
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.997916639" y="0.322314024" z="-0.05098039" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:30.5037545-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:14.3629612-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-10-12T23:56:54.110065-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-10-13T01:15:21.4375735-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -2109,7 +2120,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:40.004252-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:30.3344632-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -2122,7 +2133,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:30.5032528-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2135,7 +2146,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:30.5032528-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2148,7 +2159,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:30.5032528-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2161,7 +2172,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:30.5037545-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2174,7 +2185,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-12T23:52:30.5037545-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2417,8 +2428,6 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -3418,7 +3427,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.314652115" y="0.5377884" z="-0.7821623" />
+      <SunDirectionNormalized x="-0.350700438" y="0.5183375" z="-0.779958665" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -3611,156 +3620,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
       <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
-      <InactiveContracts>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>973147536080639751</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>92744650000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1012332235220691582</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>973147536080639751</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assist friendly fleet in large space battle.
-Raid hostile trade convoy in space.
-Assassinate your targets at the designated position in space.
-Protect our space ships at designated position.
-REWARD:
-Money: 1050000 SC,
-Reputation: 66,
-Difficulty: Hard
-(closest to: RealGasGiant)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>970595396479851280</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>92744650000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1017578830342472675</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>970595396479851280</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assist friendly fleet in large space battle.
-Raid hostile trade convoy in space.
-Assassinate your targets at the designated position in space.
-Protect our space ships at designated position.
-REWARD:
-Money: 1050000 SC,
-Reputation: 66,
-Difficulty: Hard
-(closest to: RealGasGiant)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>936768097629217682</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>93344810000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1077166552126177443</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>936768097629217682</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Destroy space ships on designated position.
-REWARD:
-Money: 380000 SC,
-Reputation: 20,
-Difficulty: Moderate
-(closest to: RealGasGiant)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1005489546405033025</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>93344810000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1064513927810350242</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>1005489546405033025</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Destroy space ships on designated position.
-REWARD:
-Money: 380000 SC,
-Reputation: 20,
-Difficulty: Moderate
-(closest to: RealGasGiant)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-      </InactiveContracts>
+      <InactiveContracts />
       <ActiveContracts />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CutsceneSessionComponent">
@@ -66129,7 +65989,7 @@ Difficulty: Moderate
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>72866</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>1816</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -66191,7 +66051,7 @@ Difficulty: Moderate
           <OwnerIdentifier>251671393460056489</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>251671393460056489</OwnerIdentifier>
-            <Balance>100500000000</Balance>
+            <Balance>50500000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66199,7 +66059,7 @@ Difficulty: Moderate
           <OwnerIdentifier>144115188075855898</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855898</OwnerIdentifier>
-            <Balance>100500010000</Balance>
+            <Balance>50500010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66223,7 +66083,7 @@ Difficulty: Moderate
           <OwnerIdentifier>235341129158470095</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>235341129158470095</OwnerIdentifier>
-            <Balance>101000000000</Balance>
+            <Balance>51000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66231,7 +66091,7 @@ Difficulty: Moderate
           <OwnerIdentifier>144115188075855900</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855900</OwnerIdentifier>
-            <Balance>101000010000</Balance>
+            <Balance>51000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66247,7 +66107,7 @@ Difficulty: Moderate
           <OwnerIdentifier>284483582766654805</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>284483582766654805</OwnerIdentifier>
-            <Balance>51000000000</Balance>
+            <Balance>101000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66255,7 +66115,7 @@ Difficulty: Moderate
           <OwnerIdentifier>144115188075855902</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855902</OwnerIdentifier>
-            <Balance>100000010000</Balance>
+            <Balance>50000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66268,7 +66128,7 @@ Difficulty: Moderate
           </Account>
         </MyObjectBuilder_AccountEntry>
       </Accounts>
-      <OverallBalance>751242137000</OverallBalance>
+      <OverallBalance>551242137000</OverallBalance>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_NeutralShipSpawner">
       <ShipsInProgress />
@@ -66284,91 +66144,11 @@ Difficulty: Moderate
       <MarkedAreas>
         <EmptyArea>
           <Position>
-            <X>148001024.5</X>
-            <Y>1024.5</Y>
-            <Z>1024.5</Z>
+            <X>281928717.51767939</X>
+            <Y>-11299561.416450074</Y>
+            <Z>-41465799.706357375</Z>
           </Position>
-          <Radius>525</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>209650387.84686679</X>
-            <Y>481187.91677057877</Y>
-            <Z>-132712543.0291452</Z>
-          </Position>
-          <Radius>6164.888</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>228897747.29832518</X>
-            <Y>-11614831.1958012</Y>
-            <Z>70901536.319373652</Z>
-          </Position>
-          <Radius>11302.8242</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>28910285.325463012</X>
-            <Y>14363684.282161899</Y>
-            <Z>-48693849.29416395</Z>
-          </Position>
-          <Radius>15421.3613</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>254255133.049078</X>
-            <Y>-14307369.958736703</Y>
-            <Z>74037540.076578081</Z>
-          </Position>
-          <Radius>9279.723</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>159279015.72315872</X>
-            <Y>3117752.6068893396</Y>
-            <Z>-84512676.5841042</Z>
-          </Position>
-          <Radius>13211.4141</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>43106012.748828471</X>
-            <Y>14873096.079999659</Y>
-            <Z>-87273540.097650126</Z>
-          </Position>
-          <Radius>14919.1338</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>94859237.917040229</X>
-            <Y>11410077.211547118</Y>
-            <Z>-121708029.06502283</Z>
-          </Position>
-          <Radius>5267.996</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>252005679.46785039</X>
-            <Y>-13614727.484261962</Y>
-            <Z>64495181.749538526</Z>
-          </Position>
-          <Radius>4770.27637</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>202142264.24263805</X>
-            <Y>1497525.9248879964</Y>
-            <Z>-137834639.983036</Z>
-          </Position>
-          <Radius>11145.0879</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>98954103.653974563</X>
-            <Y>2235225.0490447795</Y>
-            <Z>53787698.7111553</Z>
-          </Position>
-          <Radius>11377.5137</Radius>
+          <Radius>14778.1855</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -66388,139 +66168,91 @@ Difficulty: Moderate
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>281928717.51767939</X>
-            <Y>-11299561.416450074</Y>
-            <Z>-41465799.706357375</Z>
+            <X>98954103.653974563</X>
+            <Y>2235225.0490447795</Y>
+            <Z>53787698.7111553</Z>
           </Position>
-          <Radius>14778.1855</Radius>
+          <Radius>11377.5137</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>144165573.36593196</X>
-            <Y>7665341.8752675746</Y>
-            <Z>-145237577.2372154</Z>
+            <X>202142264.24263805</X>
+            <Y>1497525.9248879964</Y>
+            <Z>-137834639.983036</Z>
           </Position>
-          <Radius>15654.8389</Radius>
+          <Radius>11145.0879</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>2544993.5801486969</X>
-            <Y>14628432.765057718</Y>
-            <Z>-1446651.4614517351</Z>
+            <X>252005679.46785039</X>
+            <Y>-13614727.484261962</Y>
+            <Z>64495181.749538526</Z>
           </Position>
-          <Radius>5403.74756</Radius>
+          <Radius>4770.27637</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>191089922.79681984</X>
-            <Y>-1345709.3197378227</Y>
-            <Z>-59053668.198883235</Z>
+            <X>94859237.917040229</X>
+            <Y>11410077.211547118</Y>
+            <Z>-121708029.06502283</Z>
           </Position>
-          <Radius>4856.876</Radius>
+          <Radius>5267.996</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>185112246.71663687</X>
-            <Y>-6881265.9713750752</Y>
-            <Z>63612816.994227752</Z>
+            <X>43106012.748828471</X>
+            <Y>14873096.079999659</Y>
+            <Z>-87273540.097650126</Z>
           </Position>
-          <Radius>7793.52</Radius>
+          <Radius>14919.1338</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>52564997.689757496</X>
-            <Y>14273196.969425557</Y>
-            <Z>-94193527.768026158</Z>
+            <X>159279015.72315872</X>
+            <Y>3117752.6068893396</Y>
+            <Z>-84512676.5841042</Z>
           </Position>
-          <Radius>14922.6338</Radius>
+          <Radius>13211.4141</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>293340664.38203669</X>
-            <Y>-15887644.09096841</Y>
-            <Z>27471960.055294812</Z>
+            <X>254255133.049078</X>
+            <Y>-14307369.958736703</Y>
+            <Z>74037540.076578081</Z>
           </Position>
-          <Radius>15497.0615</Radius>
+          <Radius>9279.723</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>22408935.171665922</X>
-            <Y>15306837.844994351</Y>
-            <Z>-54742636.243218847</Z>
+            <X>28910285.325463012</X>
+            <Y>14363684.282161899</Y>
+            <Z>-48693849.29416395</Z>
           </Position>
-          <Radius>8060.8623</Radius>
+          <Radius>15421.3613</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>75984184.610181227</X>
-            <Y>2567139.7897621277</Y>
-            <Z>92900825.984394982</Z>
+            <X>209650387.84686679</X>
+            <Y>481187.91677057877</Y>
+            <Z>-132712543.0291452</Z>
           </Position>
-          <Radius>5787.55127</Radius>
+          <Radius>6164.888</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>168145697.60496745</X>
-            <Y>-6990545.4719399065</Y>
-            <Z>99919921.228863254</Z>
+            <X>228897747.29832518</X>
+            <Y>-11614831.1958012</Y>
+            <Z>70901536.319373652</Z>
           </Position>
-          <Radius>12176.9443</Radius>
+          <Radius>11302.8242</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>70870369.971246019</X>
-            <Y>6750346.09443956</Y>
-            <Z>19652745.168716785</Z>
+            <X>67574684.949051321</X>
+            <Y>14338578.782007407</Y>
+            <Z>-125520538.53825074</Z>
           </Position>
-          <Radius>11416.5332</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>47372872.451698467</X>
-            <Y>5765992.4537711637</Y>
-            <Z>86334813.021179825</Z>
-          </Position>
-          <Radius>9277.719</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>51528623.907733053</X>
-            <Y>10131022.508432005</Y>
-            <Z>-9277290.9841061812</Z>
-          </Position>
-          <Radius>8950.635</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>234797915.71524617</X>
-            <Y>-7020948.4413277349</Y>
-            <Z>-32776455.603937652</Z>
-          </Position>
-          <Radius>8549.582</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>38163315.531890929</X>
-            <Y>8347486.6810505381</Y>
-            <Z>52935626.315207392</Z>
-          </Position>
-          <Radius>5632.262</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>11376565.564137489</X>
-            <Y>11018289.367391745</Y>
-            <Z>53281488.523890108</Z>
-          </Position>
-          <Radius>9103.555</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>251257816.08539948</X>
-            <Y>-13776185.516860289</Y>
-            <Z>69408485.1664068</Z>
-          </Position>
-          <Radius>15528.0313</Radius>
+          <Radius>8552.417</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -66540,11 +66272,139 @@ Difficulty: Moderate
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>67574684.949051321</X>
-            <Y>14338578.782007407</Y>
-            <Z>-125520538.53825074</Z>
+            <X>251257816.08539948</X>
+            <Y>-13776185.516860289</Y>
+            <Z>69408485.1664068</Z>
           </Position>
-          <Radius>8552.417</Radius>
+          <Radius>15528.0313</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>11376565.564137489</X>
+            <Y>11018289.367391745</Y>
+            <Z>53281488.523890108</Z>
+          </Position>
+          <Radius>9103.555</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>38163315.531890929</X>
+            <Y>8347486.6810505381</Y>
+            <Z>52935626.315207392</Z>
+          </Position>
+          <Radius>5632.262</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>234797915.71524617</X>
+            <Y>-7020948.4413277349</Y>
+            <Z>-32776455.603937652</Z>
+          </Position>
+          <Radius>8549.582</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>51528623.907733053</X>
+            <Y>10131022.508432005</Y>
+            <Z>-9277290.9841061812</Z>
+          </Position>
+          <Radius>8950.635</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>47372872.451698467</X>
+            <Y>5765992.4537711637</Y>
+            <Z>86334813.021179825</Z>
+          </Position>
+          <Radius>9277.719</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>70870369.971246019</X>
+            <Y>6750346.09443956</Y>
+            <Z>19652745.168716785</Z>
+          </Position>
+          <Radius>11416.5332</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>168145697.60496745</X>
+            <Y>-6990545.4719399065</Y>
+            <Z>99919921.228863254</Z>
+          </Position>
+          <Radius>12176.9443</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>75984184.610181227</X>
+            <Y>2567139.7897621277</Y>
+            <Z>92900825.984394982</Z>
+          </Position>
+          <Radius>5787.55127</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>22408935.171665922</X>
+            <Y>15306837.844994351</Y>
+            <Z>-54742636.243218847</Z>
+          </Position>
+          <Radius>8060.8623</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>293340664.38203669</X>
+            <Y>-15887644.09096841</Y>
+            <Z>27471960.055294812</Z>
+          </Position>
+          <Radius>15497.0615</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>52564997.689757496</X>
+            <Y>14273196.969425557</Y>
+            <Z>-94193527.768026158</Z>
+          </Position>
+          <Radius>14922.6338</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>185112246.71663687</X>
+            <Y>-6881265.9713750752</Y>
+            <Z>63612816.994227752</Z>
+          </Position>
+          <Radius>7793.52</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>191089922.79681984</X>
+            <Y>-1345709.3197378227</Y>
+            <Z>-59053668.198883235</Z>
+          </Position>
+          <Radius>4856.876</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>2544993.5801486969</X>
+            <Y>14628432.765057718</Y>
+            <Z>-1446651.4614517351</Z>
+          </Position>
+          <Radius>5403.74756</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>144165573.36593196</X>
+            <Y>7665341.8752675746</Y>
+            <Z>-145237577.2372154</Z>
+          </Position>
+          <Radius>15654.8389</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>148001024.5</X>
+            <Y>1024.5</Y>
+            <Z>1024.5</Z>
+          </Position>
+          <Radius>525</Radius>
         </EmptyArea>
       </MarkedAreas>
       <DeletedAreas />
@@ -66565,9 +66425,10 @@ Difficulty: Moderate
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
   </VicinityArmorModelsCache>
-  <VicinityVoxelCache />
+  <VicinityVoxelCache>
+    <string>TritonStone</string>
+    <string>MoonSoil</string>
+    <string>MoonRocks</string>
+  </VicinityVoxelCache>
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
