@@ -1,69 +1,33 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>512618400000</ElapsedGameTime>
+  <ElapsedGameTime>516779680000</ElapsedGameTime>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
-    <Position x="98941730.235647574" y="2223121.151141624" z="53788472.571380019" />
-    <Forward x="0.7357547" y="-0.187531" z="-0.650766551" />
-    <Up x="0.19185181" y="0.979250252" z="-0.06528285" />
+    <Position x="235601356.47399807" y="56831845.12445163" z="-69352385.889269486" />
+    <Forward x="-0.74242276" y="-0.637821257" z="0.2049206" />
+    <Up x="-0.588591635" y="0.7671024" z="0.255174" />
     <Orientation>
-      <X>-0.06980163</X>
-      <Y>-0.412000567</Y>
-      <Z>-0.0741796</Z>
-      <W>0.905472636</W>
+      <X>-0.171659321</X>
+      <Y>0.7569633</Y>
+      <Z>0.2949269</Z>
+      <W>0.557277143</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="29.1929226" y="1" />
+  <SpectatorSpeed x="491436.844" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraEntity>0</CameraEntity>
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-10-13T01:15:21.4370714-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-13T04:37:56.9825786-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
     <SelectedSlot xsi:nil="true" />
-    <Slots>
-      <Slot>
-        <Index>0</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>1</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_MyProgrammableBlock" Subtype="LargeProgrammableBlock" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>2</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrill4Item" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>3</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_OreDetector" Subtype="LargeOreDetector" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>4</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Reactor" Subtype="AdminGrid_Battery" />
-        </Data>
-      </Slot>
-    </Slots>
+    <Slots />
     <SlotsGamepad />
   </CharacterToolbar>
   <ControlledEntities>
@@ -427,18 +391,6 @@
         &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
         &lt;DeviateShotAngle&gt;0.209439516&lt;/DeviateShotAngle&gt;
       &lt;/WeaponParameter&gt;
-      &lt;WeaponParameter&gt;
-        &lt;ObjectBuilderName&gt;MyObjectBuilder_SmallMissileLauncher/FixedMicrowave&lt;/ObjectBuilderName&gt;
-        &lt;AITargetingRange&gt;-1&lt;/AITargetingRange&gt;
-        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
-        &lt;DeviateShotAngle&gt;0&lt;/DeviateShotAngle&gt;
-      &lt;/WeaponParameter&gt;
-      &lt;WeaponParameter&gt;
-        &lt;ObjectBuilderName&gt;MyObjectBuilder_SmallMissileLauncher/FixedRailgun&lt;/ObjectBuilderName&gt;
-        &lt;AITargetingRange&gt;-1&lt;/AITargetingRange&gt;
-        &lt;GeneralDamageMultiplier&gt;1&lt;/GeneralDamageMultiplier&gt;
-        &lt;DeviateShotAngle&gt;0&lt;/DeviateShotAngle&gt;
-      &lt;/WeaponParameter&gt;
     &lt;/WeaponParameters&gt;
     &lt;WeaponAmmoParameters&gt;
       &lt;WeaponAmmoParameter&gt;
@@ -503,20 +455,6 @@
         &lt;DefaultDamage&gt;3&lt;/DefaultDamage&gt;
         &lt;DamageType&gt;MissileHealthPool&lt;/DamageType&gt;
         &lt;MaxTrajectory&gt;250&lt;/MaxTrajectory&gt;
-      &lt;/WeaponAmmoParameter&gt;
-      &lt;WeaponAmmoParameter&gt;
-        &lt;SubtypeId&gt;MicrowaveAmmo&lt;/SubtypeId&gt;
-        &lt;Damage&gt;4000&lt;/Damage&gt;
-        &lt;DefaultDamage&gt;4000&lt;/DefaultDamage&gt;
-        &lt;DamageType&gt;MissileHealthPool&lt;/DamageType&gt;
-        &lt;MaxTrajectory&gt;4000&lt;/MaxTrajectory&gt;
-      &lt;/WeaponAmmoParameter&gt;
-      &lt;WeaponAmmoParameter&gt;
-        &lt;SubtypeId&gt;RailgunAmmo&lt;/SubtypeId&gt;
-        &lt;Damage&gt;4000&lt;/Damage&gt;
-        &lt;DefaultDamage&gt;4000&lt;/DefaultDamage&gt;
-        &lt;DamageType&gt;MissileHealthPool&lt;/DamageType&gt;
-        &lt;MaxTrajectory&gt;4000&lt;/MaxTrajectory&gt;
       &lt;/WeaponAmmoParameter&gt;
     &lt;/WeaponAmmoParameters&gt;
   &lt;/WeaponsParametersStorage&gt;
@@ -605,8 +543,8 @@
     &lt;/PlanetsParameters&gt;
   &lt;/PlanetsParametersStorage&gt;
   &lt;EnvironmentParametersStorage&gt;
-    &lt;SmallShipMaxSpeed&gt;400&lt;/SmallShipMaxSpeed&gt;
-    &lt;LargeShipMaxSpeed&gt;400&lt;/LargeShipMaxSpeed&gt;
+    &lt;SmallShipMaxSpeed&gt;250&lt;/SmallShipMaxSpeed&gt;
+    &lt;LargeShipMaxSpeed&gt;150&lt;/LargeShipMaxSpeed&gt;
     &lt;MissileInitialSpeed&gt;100&lt;/MissileInitialSpeed&gt;
     &lt;MissileDesiredSpeed&gt;200&lt;/MissileDesiredSpeed&gt;
   &lt;/EnvironmentParametersStorage&gt;
@@ -1157,7 +1095,7 @@ PaintUnfinishedBlocks=False
         </item>
         <item>
           <Key>NPCProviderContracts</Key>
-          <Value xsi:type="xsd:string" />
+          <Value xsi:type="xsd:string">983900793593757082;940450687962603894;1006820036254162820;951081948308432351;1006062650199040670;973708865189053997;968844316333106208;1002431613089870550;973069021893857585;1003272750290153191;960328569841894978;984925277352170998;987978496095744621;991673424613403830</Value>
         </item>
         <item>
           <Key>NPCProviderRepResets</Key>
@@ -2061,8 +1999,19 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>3222232482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Translation Script (BB)">
+      <Name>3264193782.sbm</Name>
+      <PublishedFileId>3264193782</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -2071,7 +2020,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>John Enceladus</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:27:47.0705585-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2086,11 +2035,11 @@ PaintUnfinishedBlocks=False
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.997916639" y="0.322314024" z="-0.05098039" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:14.3629612-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:27:47.0710578-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-10-13T01:15:21.4375735-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-10-13T04:37:56.9825786-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -2101,7 +2050,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:30.3344632-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:28:55.6870567-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -2114,7 +2063,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:27:47.0705585-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2127,7 +2076,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:27:47.0705585-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2140,7 +2089,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:27:47.0705585-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2153,7 +2102,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:27:47.0705585-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2166,7 +2115,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-13T01:14:14.362461-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-13T04:27:47.0705585-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -2192,48 +2141,12 @@ PaintUnfinishedBlocks=False
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
-            <Slots>
-              <Slot>
-                <Index>0</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>1</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_MyProgrammableBlock" Subtype="LargeProgrammableBlock" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>2</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrill4Item" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>3</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_OreDetector" Subtype="LargeOreDetector" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>4</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Reactor" Subtype="AdminGrid_Battery" />
-                </Data>
-              </Slot>
-            </Slots>
+            <Slots />
             <SlotsGamepad />
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="118338829513043268">
-              <IsFirstPerson>false</IsFirstPerson>
+              <IsFirstPerson>true</IsFirstPerson>
               <Distance>2.5</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
@@ -2409,8 +2322,6 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -3410,7 +3321,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.350700438" y="0.5183375" z="-0.779958665" />
+      <SunDirectionNormalized x="-0.6375068" y="0.312280118" z="-0.7043197" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -3603,7 +3514,510 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
       <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
-      <InactiveContracts />
+      <InactiveContracts>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>983900793593757082</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>42509960000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1053465987894399528</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>983900793593757082</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our space station at designated position.
+Destroy space ships on designated position.
+Assassinate your targets at the designated position in space.
+REWARD:
+Money: 360000 SC,
+Reputation: 16,
+Difficulty: Easy
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>940450687962603894</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>42509960000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1058733553012079015</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>940450687962603894</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our space station at designated position.
+Destroy space ships on designated position.
+Assassinate your targets at the designated position in space.
+REWARD:
+Money: 360000 SC,
+Reputation: 16,
+Difficulty: Easy
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1006820036254162820</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>43110130000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1051778788015296459</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1006820036254162820</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Escort our trade ship to designated position in space.
+REWARD:
+Money: 180000 SC,
+Reputation: 6,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>951081948308432351</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>43110130000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1022888023963622490</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>951081948308432351</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Escort our trade ship to designated position in space.
+REWARD:
+Money: 180000 SC,
+Reputation: 6,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1006062650199040670</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>43710290000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1033572031094936619</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1006062650199040670</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Rescue &amp; Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Transport the given cargo to it's destination in space.
+Rescue ship at designated position in space.
+Rescue escape pod at designated position in space.
+Deliver consumables to designated position in space.
+REWARD:
+Money: 210000 SC,
+Reputation: 24,
+Difficulty: Easy
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>973708865189053997</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>43710290000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1041858681600511182</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>973708865189053997</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Rescue &amp; Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Transport the given cargo to it's destination in space.
+Rescue ship at designated position in space.
+Rescue escape pod at designated position in space.
+Deliver consumables to designated position in space.
+REWARD:
+Money: 210000 SC,
+Reputation: 24,
+Difficulty: Easy
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>968844316333106208</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>44310460000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1069752945974276729</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>968844316333106208</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Raid hostile trade convoy in space.
+REWARD:
+Money: 240000 SC,
+Reputation: 18,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1002431613089870550</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>44310460000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1008952533387836654</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1002431613089870550</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Raid hostile trade convoy in space.
+REWARD:
+Money: 240000 SC,
+Reputation: 18,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>973069021893857585</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>44910620000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1062445439834105850</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>973069021893857585</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Transport Mission (Planet) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Deliver supplies to designated position on the planet.
+REWARD:
+Money: 150000 SC,
+Reputation: 6,
+Difficulty: Hard
+(planet: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1003272750290153191</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>44910620000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1062963617027281045</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1003272750290153191</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Transport Mission (Planet) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Deliver supplies to designated position on the planet.
+REWARD:
+Money: 150000 SC,
+Reputation: 6,
+Difficulty: Hard
+(planet: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>960328569841894978</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>45510780000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1058619171111569567</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>960328569841894978</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our space station at designated position.
+Protect our space ships at designated position.
+REWARD:
+Money: 810000 SC,
+Reputation: 36,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>984925277352170998</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>45510780000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1048442454544305725</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>984925277352170998</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Protect our space station at designated position.
+Protect our space ships at designated position.
+REWARD:
+Money: 810000 SC,
+Reputation: 36,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>987978496095744621</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>46110950000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1065426777774660709</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>987978496095744621</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Deliver consumables to designated position in space.
+REWARD:
+Money: 150000 SC,
+Reputation: 30,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>991673424613403830</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>46110950000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1015196512040418267</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>991673424613403830</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Transport Mission (Space) (GLF)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Deliver consumables to designated position in space.
+REWARD:
+Money: 150000 SC,
+Reputation: 30,
+Difficulty: Hard
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+      </InactiveContracts>
       <ActiveContracts />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CutsceneSessionComponent">
@@ -65972,7 +66386,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>1816</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>75233</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -66034,7 +66448,7 @@ PaintUnfinishedBlocks=False
           <OwnerIdentifier>251671393460056489</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>251671393460056489</OwnerIdentifier>
-            <Balance>50500000000</Balance>
+            <Balance>100500000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66042,7 +66456,7 @@ PaintUnfinishedBlocks=False
           <OwnerIdentifier>144115188075855898</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855898</OwnerIdentifier>
-            <Balance>50500010000</Balance>
+            <Balance>100500010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66066,7 +66480,7 @@ PaintUnfinishedBlocks=False
           <OwnerIdentifier>235341129158470095</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>235341129158470095</OwnerIdentifier>
-            <Balance>51000000000</Balance>
+            <Balance>101000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66074,7 +66488,7 @@ PaintUnfinishedBlocks=False
           <OwnerIdentifier>144115188075855900</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855900</OwnerIdentifier>
-            <Balance>51000010000</Balance>
+            <Balance>101000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66090,7 +66504,7 @@ PaintUnfinishedBlocks=False
           <OwnerIdentifier>284483582766654805</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>284483582766654805</OwnerIdentifier>
-            <Balance>101000000000</Balance>
+            <Balance>51000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66098,7 +66512,7 @@ PaintUnfinishedBlocks=False
           <OwnerIdentifier>144115188075855902</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855902</OwnerIdentifier>
-            <Balance>50000010000</Balance>
+            <Balance>100000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -66111,7 +66525,7 @@ PaintUnfinishedBlocks=False
           </Account>
         </MyObjectBuilder_AccountEntry>
       </Accounts>
-      <OverallBalance>551242137000</OverallBalance>
+      <OverallBalance>751242137000</OverallBalance>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_NeutralShipSpawner">
       <ShipsInProgress />
@@ -66127,11 +66541,11 @@ PaintUnfinishedBlocks=False
       <MarkedAreas>
         <EmptyArea>
           <Position>
-            <X>281928717.51767939</X>
-            <Y>-11299561.416450074</Y>
-            <Z>-41465799.706357375</Z>
+            <X>52681053.584255859</X>
+            <Y>4952849.4491436025</Y>
+            <Z>91981310.848616213</Z>
           </Position>
-          <Radius>14778.1855</Radius>
+          <Radius>14693.4531</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -66143,19 +66557,19 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>52681053.584255859</X>
-            <Y>4952849.4491436025</Y>
-            <Z>91981310.848616213</Z>
+            <X>252005679.46785039</X>
+            <Y>-13614727.484261962</Y>
+            <Z>64495181.749538526</Z>
           </Position>
-          <Radius>14693.4531</Radius>
+          <Radius>4770.27637</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>98954103.653974563</X>
-            <Y>2235225.0490447795</Y>
-            <Z>53787698.7111553</Z>
+            <X>281928717.51767939</X>
+            <Y>-11299561.416450074</Y>
+            <Z>-41465799.706357375</Z>
           </Position>
-          <Radius>11377.5137</Radius>
+          <Radius>14778.1855</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -66164,14 +66578,6 @@ PaintUnfinishedBlocks=False
             <Z>-137834639.983036</Z>
           </Position>
           <Radius>11145.0879</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>252005679.46785039</X>
-            <Y>-13614727.484261962</Y>
-            <Z>64495181.749538526</Z>
-          </Position>
-          <Radius>4770.27637</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -66188,6 +66594,14 @@ PaintUnfinishedBlocks=False
             <Z>-87273540.097650126</Z>
           </Position>
           <Radius>14919.1338</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>98954103.653974563</X>
+            <Y>2235225.0490447795</Y>
+            <Z>53787698.7111553</Z>
+          </Position>
+          <Radius>11377.5137</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -66359,19 +66773,19 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>191089922.79681984</X>
-            <Y>-1345709.3197378227</Y>
-            <Z>-59053668.198883235</Z>
-          </Position>
-          <Radius>4856.876</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>2544993.5801486969</X>
             <Y>14628432.765057718</Y>
             <Z>-1446651.4614517351</Z>
           </Position>
           <Radius>5403.74756</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>191089922.79681984</X>
+            <Y>-1345709.3197378227</Y>
+            <Z>-59053668.198883235</Z>
+          </Position>
+          <Radius>4856.876</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -66408,13 +66822,6 @@ PaintUnfinishedBlocks=False
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
   </VicinityArmorModelsCache>
-  <VicinityVoxelCache>
-    <string>TritonStone</string>
-    <string>MoonSoil</string>
-    <string>MoonRocks</string>
-  </VicinityVoxelCache>
+  <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
