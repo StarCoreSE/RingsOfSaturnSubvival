@@ -8,7 +8,7 @@
       <CanSpawnMissions>true</CanSpawnMissions>
     </FactionDefOverride>
     <FactionDefOverride>
-      <Tag>GLF</Tag>
+      <Tag>GLF-NPC</Tag>
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>
