@@ -3,7 +3,7 @@
   <EconomyModifiers>
     <EconomyStats>
       <FactionTag>ECO-NPC</FactionTag>
-      <Modifier>1</Modifier>
+      <Modifier>1.02</Modifier>
     </EconomyStats>
     <EconomyStats>
       <FactionTag>Danger</FactionTag>
@@ -11,7 +11,7 @@
     </EconomyStats>
     <EconomyStats>
       <FactionTag>GLF-NPC</FactionTag>
-      <Modifier>1</Modifier>
+      <Modifier>0.9</Modifier>
     </EconomyStats>
   </EconomyModifiers>
   <MilitaryModifiers>
@@ -28,7 +28,7 @@
       <FleetPower>100</FleetPower>
     </MilitaryStats>
   </MilitaryModifiers>
-  <Salt>RxR4ZSCt9HsFul18</Salt>
+  <Salt>TN4Nwb4H6tjDIfDa</Salt>
   <Export>true</Export>
   <ExportIntervalSeconds>900</ExportIntervalSeconds>
 </Persistence>

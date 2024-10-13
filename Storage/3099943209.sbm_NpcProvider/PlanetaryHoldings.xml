@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-16"?>
 <PlanetaryHoldings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <DynamicConquests>false</DynamicConquests>
+  <DynamicConquests>true</DynamicConquests>
   <PlanetSieges>
     <SiegeType>
       <PlanetGeneratorId>RealGasGiant</PlanetGeneratorId>
-      <Space>true</Space>
-      <Surface>true</Surface>
+      <Space>false</Space>
+      <Surface>false</Surface>
     </SiegeType>
     <SiegeType>
       <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
