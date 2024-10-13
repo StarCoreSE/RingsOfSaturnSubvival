@@ -1754,6 +1754,11 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Ringway">
+      <Name>3347754939.sbm</Name>
+      <PublishedFileId>3347754939</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="TSTSSESAdminBlocks">
       <Name>3347363756.sbm</Name>
       <PublishedFileId>3347363756</PublishedFileId>
@@ -1782,11 +1787,6 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="Text HUD API">
       <Name>758597413.sbm</Name>
       <PublishedFileId>758597413</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TeleportGateway">
-      <Name>3289703136.sbm</Name>
-      <PublishedFileId>3289703136</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Systems Highlight">
@@ -2052,6 +2052,11 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="[SpraysAddon]Hazzard signs">
       <Name>2804100557.sbm</Name>
       <PublishedFileId>2804100557</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[VSI] Recolorable Thrusters">
+      <Name>1354870812.sbm</Name>
+      <PublishedFileId>1354870812</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="[QoL] Production Quota">
