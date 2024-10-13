@@ -5,12 +5,12 @@
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
     <Position x="118778012.155336" y="212497198.2177282" z="14739471.371284533" />
-    <Forward x="-0.0524220057" y="-0.9963568" z="-0.06726851" />
-    <Up x="0.8014638" y="-0.0017915616" z="-0.59804064" />
+    <Forward x="-0.0524219871" y="-0.9963568" z="-0.0672685951" />
+    <Up x="0.8014637" y="-0.0017914772" z="-0.59804064" />
     <Orientation>
       <X>-0.618519247</X>
       <Y>-0.28948167</Y>
-      <Z>-0.3439908</Z>
+      <Z>-0.343990833</Z>
       <W>0.6444413</W>
     </Orientation>
   </SpectatorPosition>
@@ -1758,6 +1758,10 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem>
+      <Name>Dynamic Asteroids</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
@@ -1904,11 +1908,6 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="EVE Online Soundtrack">
       <Name>3188989720.sbm</Name>
       <PublishedFileId>3188989720</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>3262577158.sbm</Name>
-      <PublishedFileId>3262577158</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Disable Reputation Change">
@@ -2070,19 +2069,8 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2304715504</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -2429,6 +2417,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -66577,4 +66567,7 @@ Difficulty: Moderate
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
