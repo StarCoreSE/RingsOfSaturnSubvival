@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
@@ -291,6 +291,11 @@
       <PublishedFileId>655948251</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Custom Suits Mod (Modular, Cosmetic)">
+      <Name>3105594016.sbm</Name>
+      <PublishedFileId>3105594016</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="DeltaVMoonlets">
       <Name>3347790874.sbm</Name>
       <PublishedFileId>3347790874</PublishedFileId>
@@ -463,5 +468,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-13T06:58:20.7400511-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-14T08:12:52.9434572-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
