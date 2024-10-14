@@ -130,16 +130,16 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>16</MaxPlayers>
+    <MaxPlayers>50</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
-    <TotalPCU>0</TotalPCU>
+    <TotalPCU>1000000</TotalPCU>
     <PiratePCU>0</PiratePCU>
     <MaxFactionsCount>0</MaxFactionsCount>
-    <BlockLimitsEnabled>NONE</BlockLimitsEnabled>
+    <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
@@ -2133,6 +2133,11 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="TSTSSESCharacterAdjustments">
       <Name>3346579680.sbm</Name>
       <PublishedFileId>3346579680</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESTweaks">
+      <Name>3348670359.sbm</Name>
+      <PublishedFileId>3348670359</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
