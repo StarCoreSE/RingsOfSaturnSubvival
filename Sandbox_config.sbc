@@ -352,11 +352,13 @@
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC.Pack.EnceladusCo">
-      <Name>NPC.Pack.EnceladusCo</Name>
+      <Name>3326052965.sbm</Name>
+      <PublishedFileId>3326052965</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
-      <Name>NPC.Pack.GanymedeLiberationFront</Name>
+      <Name>3326053117.sbm</Name>
+      <PublishedFileId>3326053117</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
@@ -458,18 +460,6 @@
       <Name>3222232482.sbm</Name>
       <PublishedFileId>3222232482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Translation Script (BB)">
-      <Name>3264193782.sbm</Name>
-      <PublishedFileId>3264193782</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Definition Extension API">
-      <Name>2756894170.sbm</Name>
-      <PublishedFileId>2756894170</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
