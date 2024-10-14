@@ -45,7 +45,7 @@
         <CollectResourceRingAmount>100</CollectResourceRingAmount>
       </ResourceInfo>
       <GravityStrength>2</GravityStrength>
-      <GravityFalloff>7</GravityFalloff>
+      <GravityFalloff>28</GravityFalloff>
       <DayLengthSeconds>7200</DayLengthSeconds>
       <SpinCounterClockwise>true</SpinCounterClockwise>
     </GasGiantConfigInfo>
