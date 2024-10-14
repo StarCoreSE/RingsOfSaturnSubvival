@@ -131,7 +131,7 @@
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>OFFLINE</OnlineMode>
     <MaxPlayers>4</MaxPlayers>
-    <MaxFloatingObjects>56</MaxFloatingObjects>
+    <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
@@ -190,7 +190,7 @@
     <StartInRespawnScreen>false</StartInRespawnScreen>
     <EnableVoxelDestruction>true</EnableVoxelDestruction>
     <MaxDrones>5</MaxDrones>
-    <EnableDrones>false</EnableDrones>
+    <EnableDrones>true</EnableDrones>
     <EnableWolfs>false</EnableWolfs>
     <EnableSpiders>false</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
