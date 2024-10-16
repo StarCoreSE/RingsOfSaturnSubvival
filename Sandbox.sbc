@@ -5,12 +5,12 @@
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
     <Position x="148161522.55719325" y="58075708.906465232" z="245509.06045450282" />
-    <Forward x="-0.7591319" y="-0.334463984" z="0.5584376" />
-    <Up x="-0.346562266" y="0.933870256" z="0.08820948" />
+    <Forward x="-0.759131968" y="-0.334463984" z="0.5584376" />
+    <Up x="-0.346562266" y="0.933870256" z="0.08820947" />
     <Orientation>
       <X>-0.1356062</X>
       <Y>0.872255564</Y>
-      <Z>0.121143818</Z>
+      <Z>0.12114381</Z>
       <W>0.4539883</W>
     </Orientation>
   </SpectatorPosition>
@@ -115,7 +115,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
@@ -19410,11 +19410,6 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>3347790874</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Directional-Scanner-Revival">
-      <Name>3115002557.sbm</Name>
-      <PublishedFileId>3115002557</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="DirectionalFoamDispensers">
       <Name>3261299216.sbm</Name>
       <PublishedFileId>3261299216</PublishedFileId>
@@ -19453,6 +19448,16 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
       <Name>3032417765.sbm</Name>
       <PublishedFileId>3032417765</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Nebulous Radar">
+      <Name>3244679803.sbm</Name>
+      <PublishedFileId>3244679803</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Nebulous Radar Framework">
+      <Name>3290983434.sbm</Name>
+      <PublishedFileId>3290983434</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC Provider (BB)">
