@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>570367520000</ElapsedGameTime>
+  <ElapsedGameTime>570573440000</ElapsedGameTime>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
-    <Position x="148161449.7187106" y="58075669.792215243" z="245589.60702995217" />
+    <Position x="148161449.71871063" y="58075669.79221525" z="245589.60702997452" />
     <Forward x="0.9489313" y="0.0678362846" z="0.3081034" />
     <Up x="-0.07293045" y="0.997324347" z="0.005034693" />
     <Orientation>
@@ -21,7 +21,7 @@
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-10-16T06:35:37.7480307-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-16T07:16:11.9525392-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -4826,7 +4826,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>932140259782566147</Id>
             <Position x="51517842.190898575" y="10130068.491388243" z="-9272818.1519272812" />
-            <Up x="-0.920600832" y="-0.08145908" z="0.381914347" />
+            <Up x="-0.920600832" y="-0.0814590752" z="0.381914347" />
             <Forward x="-0.224867165" y="-0.6889974" z="-0.6889974" />
             <StationType>OrbitalStation</StationType>
             <IsDeepSpaceStation>false</IsDeepSpaceStation>
@@ -10269,7 +10269,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>867785268067968012</Id>
             <Position x="-8201751.0085868277" y="18963667.134915035" z="-13119049.187087679" />
-            <Up x="0.6634335" y="-0.7186816" z="-0.208213449" />
+            <Up x="0.6634335" y="-0.7186816" z="-0.208213434" />
             <Forward x="0.702793956" y="0.503031135" z="0.503031135" />
             <StationType>SpaceStation</StationType>
             <IsDeepSpaceStation>true</IsDeepSpaceStation>
@@ -15541,8 +15541,8 @@ PaintUnfinishedBlocks=False
         <Members>
           <MyObjectBuilder_FactionMember>
             <PlayerId>144115188075855937</PlayerId>
-            <IsLeader>false</IsLeader>
-            <IsFounder>false</IsFounder>
+            <IsLeader>true</IsLeader>
+            <IsFounder>true</IsFounder>
           </MyObjectBuilder_FactionMember>
         </Members>
         <JoinRequests />
@@ -19590,17 +19590,31 @@ PaintUnfinishedBlocks=False
   <RespawnCooldowns />
   <Identities>
     <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855902</IdentityId>
+      <DisplayName>John Enceladus</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2024-10-16T07:15:33.9880327-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
       <IdentityId>144115188075855895</IdentityId>
       <DisplayName>Invalid</DisplayName>
       <CharacterEntityId>118338829513043268</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.05" y="0.199999988" z="0.388345033" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:15:33.9880327-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-10-16T06:35:37.748532-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-10-16T07:16:11.9525392-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -19612,7 +19626,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:43.6085328-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:15:48.4420285-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -19626,7 +19640,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:15:33.9880327-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19640,7 +19654,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:15:33.9880327-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19654,7 +19668,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:15:33.9880327-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19668,7 +19682,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:15:33.9880327-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19682,21 +19696,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855902</IdentityId>
-      <DisplayName>John Enceladus</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:15:33.9880327-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -20192,19 +20192,19 @@ PaintUnfinishedBlocks=False
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>107343623340111156</Key>
-            <Value xsi:nil="true" />
-          </item>
-          <item>
             <Key>102594441321194690</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>91521328875214682</Key>
+            <Key>107343623340111156</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
             <Key>102544981622480832</Key>
+            <Value xsi:nil="true" />
+          </item>
+          <item>
+            <Key>91521328875214682</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
@@ -20228,11 +20228,11 @@ PaintUnfinishedBlocks=False
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>132948456757758991</Key>
+            <Key>132318114107979116</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>132318114107979116</Key>
+            <Key>132948456757758991</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
@@ -20240,11 +20240,11 @@ PaintUnfinishedBlocks=False
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>120310627550271733</Key>
+            <Key>128099309232959628</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>128099309232959628</Key>
+            <Key>120310627550271733</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
@@ -20271,7 +20271,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.7128307" y="0.6257639" z="-0.316688985" />
+      <SunDirectionNormalized x="0.7017156" y="0.6316817" z="-0.329504818" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -82836,7 +82836,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>16666</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>38099</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -83421,22 +83421,6 @@ PaintUnfinishedBlocks=False
       <MarkedAreas>
         <EmptyArea>
           <Position>
-            <X>69949678.391336113</X>
-            <Y>7282454.0616612965</Y>
-            <Z>10851968.984101849</Z>
-          </Position>
-          <Radius>12850.917</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>43106012.748828471</X>
-            <Y>14873096.079999659</Y>
-            <Z>-87273540.097650126</Z>
-          </Position>
-          <Radius>14919.1338</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>252005679.46785039</X>
             <Y>-13614727.484261962</Y>
             <Z>64495181.749538526</Z>
@@ -83445,11 +83429,11 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>159279015.72315872</X>
-            <Y>3117752.6068893396</Y>
-            <Z>-84512676.5841042</Z>
+            <X>94859237.917040229</X>
+            <Y>11410077.211547118</Y>
+            <Z>-121708029.06502283</Z>
           </Position>
-          <Radius>13211.4141</Radius>
+          <Radius>5267.996</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83461,11 +83445,19 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>94859237.917040229</X>
-            <Y>11410077.211547118</Y>
-            <Z>-121708029.06502283</Z>
+            <X>43106012.748828471</X>
+            <Y>14873096.079999659</Y>
+            <Z>-87273540.097650126</Z>
           </Position>
-          <Radius>5267.996</Radius>
+          <Radius>14919.1338</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>69949678.391336113</X>
+            <Y>7282454.0616612965</Y>
+            <Z>10851968.984101849</Z>
+          </Position>
+          <Radius>12850.917</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83501,6 +83493,14 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
+            <X>159279015.72315872</X>
+            <Y>3117752.6068893396</Y>
+            <Z>-84512676.5841042</Z>
+          </Position>
+          <Radius>13211.4141</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
             <X>86684260.268817991</X>
             <Y>2339502.4041681434</Y>
             <Z>76241838.379001126</Z>
@@ -83533,19 +83533,19 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>38163315.531890929</X>
-            <Y>8347486.6810505381</Y>
-            <Z>52935626.315207392</Z>
-          </Position>
-          <Radius>5632.262</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>251257816.08539948</X>
             <Y>-13776185.516860289</Y>
             <Z>69408485.1664068</Z>
           </Position>
           <Radius>15528.0313</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>38163315.531890929</X>
+            <Y>8347486.6810505381</Y>
+            <Z>52935626.315207392</Z>
+          </Position>
+          <Radius>5632.262</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83805,64 +83805,62 @@ PaintUnfinishedBlocks=False
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionMirroredTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionMirroredTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft_OtherBones.mwm</string>
     <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight_OtherBones.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleFront.mwm</string>
     <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
     <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeCornerTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
   </VicinityArmorModelsCache>
-  <VicinityVoxelCache>
-    <string>GasGiantSurface</string>
-  </VicinityVoxelCache>
+  <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
 </MyObjectBuilder_Checkpoint>
