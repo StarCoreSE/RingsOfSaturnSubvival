@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>569868640000</ElapsedGameTime>
+  <ElapsedGameTime>570367520000</ElapsedGameTime>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
-    <Position x="148161449.71871054" y="58075669.792215243" z="245589.60702993727" />
+    <Position x="148161449.7187106" y="58075669.792215243" z="245589.60702995217" />
     <Forward x="0.9489313" y="0.0678362846" z="0.3081034" />
     <Up x="-0.07293045" y="0.997324347" z="0.005034693" />
     <Orientation>
@@ -21,7 +21,7 @@
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-10-16T06:26:37.7381982-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-16T06:35:37.7480307-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -4252,7 +4252,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>870746152669994322</Id>
             <Position x="168144966.63859248" y="-7001526.1774897128" z="99924409.956222475" />
-            <Up x="-0.0615020357" y="-0.923894465" z="0.3776725" />
+            <Up x="-0.06150204" y="-0.923894465" z="0.377672464" />
             <Forward x="0.144727021" y="0.366134942" z="0.919238448" />
             <StationType>Outpost</StationType>
             <IsDeepSpaceStation>false</IsDeepSpaceStation>
@@ -4826,7 +4826,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>932140259782566147</Id>
             <Position x="51517842.190898575" y="10130068.491388243" z="-9272818.1519272812" />
-            <Up x="-0.920600832" y="-0.08145909" z="0.381914347" />
+            <Up x="-0.920600832" y="-0.08145908" z="0.381914347" />
             <Forward x="-0.224867165" y="-0.6889974" z="-0.6889974" />
             <StationType>OrbitalStation</StationType>
             <IsDeepSpaceStation>false</IsDeepSpaceStation>
@@ -6587,7 +6587,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>869832927785121855</Id>
             <Position x="52676882.433579728" y="4966547.0970736286" z="91982367.679654121" />
-            <Up x="-0.290518463" y="0.95403403" z="0.0736077353" />
+            <Up x="-0.290518463" y="0.95403403" z="0.07360775" />
             <Forward x="-0.231113523" y="-0.144609332" z="0.9621199" />
             <StationType>Outpost</StationType>
             <IsDeepSpaceStation>false</IsDeepSpaceStation>
@@ -10269,7 +10269,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>867785268067968012</Id>
             <Position x="-8201751.0085868277" y="18963667.134915035" z="-13119049.187087679" />
-            <Up x="0.6634335" y="-0.7186815" z="-0.208213419" />
+            <Up x="0.6634335" y="-0.7186816" z="-0.208213449" />
             <Forward x="0.702793956" y="0.503031135" z="0.503031135" />
             <StationType>SpaceStation</StationType>
             <IsDeepSpaceStation>true</IsDeepSpaceStation>
@@ -11404,7 +11404,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>868841959872214267</Id>
             <Position x="11383349.994293824" y="11023374.850170618" z="53289851.354320377" />
-            <Up x="0.5696827" y="0.427023619" z="0.702219665" />
+            <Up x="0.5696827" y="0.4270236" z="0.702219665" />
             <Forward x="-0.814057" y="0.410677" z="0.410677" />
             <StationType>OrbitalStation</StationType>
             <IsDeepSpaceStation>false</IsDeepSpaceStation>
@@ -13746,7 +13746,7 @@ PaintUnfinishedBlocks=False
           <MyObjectBuilder_Station>
             <Id>912996323271315606</Id>
             <Position x="-9664606.3273404222" y="16511102.301111029" z="-19689785.973716062" />
-            <Up x="-0.8566359" y="0.4686199" z="0.215801388" />
+            <Up x="-0.8566359" y="0.4686199" z="0.215801373" />
             <Forward x="-0.4918827" y="-0.615650654" z="-0.615650654" />
             <StationType>SpaceStation</StationType>
             <IsDeepSpaceStation>true</IsDeepSpaceStation>
@@ -15532,6 +15532,38 @@ PaintUnfinishedBlocks=False
           <dictionary />
         </DamageInflicted>
       </MyObjectBuilder_Faction>
+      <MyObjectBuilder_Faction>
+        <FactionId>241391400220713830</FactionId>
+        <Tag>UNKN</Tag>
+        <Name>Unknown</Name>
+        <Description>Space is vast. As humans push into the void of space, sometimes the void pushes back. Danger, mystery, or reward may lie ahead.</Description>
+        <PrivateInfo />
+        <Members>
+          <MyObjectBuilder_FactionMember>
+            <PlayerId>144115188075855937</PlayerId>
+            <IsLeader>false</IsLeader>
+            <IsFounder>false</IsFounder>
+          </MyObjectBuilder_FactionMember>
+        </Members>
+        <JoinRequests />
+        <AutoAcceptMember>false</AutoAcceptMember>
+        <AutoAcceptPeace>false</AutoAcceptPeace>
+        <AcceptHumans>false</AcceptHumans>
+        <EnableFriendlyFire>false</EnableFriendlyFire>
+        <FactionType>None</FactionType>
+        <FactionTypeString>None</FactionTypeString>
+        <Stations />
+        <CustomColor x="0" y="-0.8" z="-0.450000018" />
+        <IconColor x="0" y="-0.8" z="0.55" />
+        <FactionIcon>Textures/FactionLogo/UNKN.png</FactionIcon>
+        <TransferedPCUDelta>0</TransferedPCUDelta>
+        <Score>0</Score>
+        <ObjectivePercentageCompleted>0</ObjectivePercentageCompleted>
+        <FactionIconWorkshopId xsi:nil="true" />
+        <DamageInflicted>
+          <dictionary />
+        </DamageInflicted>
+      </MyObjectBuilder_Faction>
     </Factions>
     <Players>
       <dictionary>
@@ -15702,6 +15734,10 @@ PaintUnfinishedBlocks=False
         <item>
           <Key>144115188075855936</Key>
           <Value>240337910189205798</Value>
+        </item>
+        <item>
+          <Key>144115188075855937</Key>
+          <Value>241391400220713830</Value>
         </item>
       </dictionary>
     </Players>
@@ -19140,6 +19176,30 @@ PaintUnfinishedBlocks=False
         <Relation>Neutral</Relation>
         <Reputation>0</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855937</PlayerId>
+        <FactionId>217223786446837042</FactionId>
+        <Relation>Neutral</Relation>
+        <Reputation>0</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855937</PlayerId>
+        <FactionId>251671393460056489</FactionId>
+        <Relation>Neutral</Relation>
+        <Reputation>0</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855937</PlayerId>
+        <FactionId>256671340185477285</FactionId>
+        <Relation>Neutral</Relation>
+        <Reputation>0</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855937</PlayerId>
+        <FactionId>284483582766654805</FactionId>
+        <Relation>Neutral</Relation>
+        <Reputation>0</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
     </RelationsWithPlayers>
     <Requests>
       <MyObjectBuilder_FactionRequests>
@@ -19534,7 +19594,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Universal Minerals CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5517193-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3280325-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19548,7 +19608,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Universal Minerals CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5517193-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19562,7 +19622,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Universal Traders CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19576,7 +19636,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Universal Traders CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19590,7 +19650,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Galactic Alliance CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19604,7 +19664,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Galactic Alliance CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19618,7 +19678,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>The First Hauling Services CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19632,7 +19692,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>The First Hauling Services CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19646,7 +19706,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Unyielding Alliance CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19660,7 +19720,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Unyielding Alliance CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19674,7 +19734,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Star Constructors CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19688,7 +19748,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Star Constructors CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19702,7 +19762,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Enlightened Heavy Industry CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19716,7 +19776,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Enlightened Heavy Industry CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19730,7 +19790,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Sacred Engineering CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19744,7 +19804,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Sacred Engineering CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19758,7 +19818,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Galactic Engineering CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19772,7 +19832,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Galactic Engineering CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19786,7 +19846,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>United Battalion CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19800,7 +19860,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>United Battalion CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19814,7 +19874,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>First Class Battalion CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19828,7 +19888,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>First Class Battalion CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19842,7 +19902,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Enlightened Munitions CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19856,7 +19916,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Enlightened Munitions CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.016185-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19870,7 +19930,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>The Factorum</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:13.2851864-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19884,9 +19944,23 @@ PaintUnfinishedBlocks=False
       <DisplayName>Unknown</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:45.8947187-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-16T06:25:45.8947187-05:00</LastLogoutTime>
+      <RespawnShips />
+      <LastDeathPosition xsi:nil="true" />
+      <ActiveContracts />
+      <TransferedPCUDelta>0</TransferedPCUDelta>
+      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
+    </MyObjectBuilder_Identity>
+    <MyObjectBuilder_Identity>
+      <IdentityId>144115188075855937</IdentityId>
+      <DisplayName>Unknown</DisplayName>
+      <CharacterEntityId>0</CharacterEntityId>
+      <BlockLimitModifier>0</BlockLimitModifier>
+      <LastLoginTime>2024-10-16T06:34:41.9275299-05:00</LastLoginTime>
+      <SavedCharacters />
+      <LastLogoutTime>2024-10-16T06:34:41.9275299-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -19900,11 +19974,11 @@ PaintUnfinishedBlocks=False
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.05" y="0.199999988" z="0.388345033" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-10-16T06:26:37.7381982-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-10-16T06:35:37.748532-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -19916,7 +19990,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:47.4057186-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:43.6085328-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -19930,7 +20004,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19944,7 +20018,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19958,7 +20032,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19972,7 +20046,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19986,7 +20060,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -20000,7 +20074,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>John Enceladus</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -20014,7 +20088,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>The Factorum</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:12.1236894-05:00</LastLogoutTime>
       <RespawnShips />
@@ -20028,7 +20102,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Unknown</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T06:34:01.3285305-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-10-14T16:46:12.1236894-05:00</LastLogoutTime>
       <RespawnShips />
@@ -20343,6 +20417,7 @@ PaintUnfinishedBlocks=False
     <long>144115188075855934</long>
     <long>144115188075855935</long>
     <long>144115188075855936</long>
+    <long>144115188075855937</long>
   </NonPlayerIdentities>
   <Gps>
     <dictionary>
@@ -20563,19 +20638,19 @@ PaintUnfinishedBlocks=False
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>103993788124656183</Key>
-            <Value xsi:nil="true" />
-          </item>
-          <item>
             <Key>132318114107979116</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
-            <Key>128099309232959628</Key>
+            <Key>103993788124656183</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
             <Key>120310627550271733</Key>
+            <Value xsi:nil="true" />
+          </item>
+          <item>
+            <Key>128099309232959628</Key>
             <Value xsi:nil="true" />
           </item>
           <item>
@@ -20602,7 +20677,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.738802969" y="0.610590339" z="-0.2852185" />
+      <SunDirectionNormalized x="0.7128307" y="0.6257639" z="-0.316688985" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -83167,7 +83242,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>84717</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>16666</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -83719,8 +83794,24 @@ PaintUnfinishedBlocks=False
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>144115188075855936</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>144115188075855936</OwnerIdentifier>
+            <Balance>10000</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
+        <MyObjectBuilder_AccountEntry>
+          <OwnerIdentifier>241391400220713830</OwnerIdentifier>
+          <Account>
+            <OwnerIdentifier>241391400220713830</OwnerIdentifier>
+            <Balance>0</Balance>
+            <Log />
+          </Account>
+        </MyObjectBuilder_AccountEntry>
       </Accounts>
-      <OverallBalance>752742467000</OverallBalance>
+      <OverallBalance>752742477000</OverallBalance>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_NeutralShipSpawner">
       <ShipsInProgress />
@@ -83744,30 +83835,6 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>94859237.917040229</X>
-            <Y>11410077.211547118</Y>
-            <Z>-121708029.06502283</Z>
-          </Position>
-          <Radius>5267.996</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>159279015.72315872</X>
-            <Y>3117752.6068893396</Y>
-            <Z>-84512676.5841042</Z>
-          </Position>
-          <Radius>13211.4141</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>98954103.653974563</X>
-            <Y>2235225.0490447795</Y>
-            <Z>53787698.7111553</Z>
-          </Position>
-          <Radius>11377.5137</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>43106012.748828471</X>
             <Y>14873096.079999659</Y>
             <Z>-87273540.097650126</Z>
@@ -83784,11 +83851,35 @@ PaintUnfinishedBlocks=False
         </EmptyArea>
         <EmptyArea>
           <Position>
+            <X>159279015.72315872</X>
+            <Y>3117752.6068893396</Y>
+            <Z>-84512676.5841042</Z>
+          </Position>
+          <Radius>13211.4141</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
             <X>281928717.51767939</X>
             <Y>-11299561.416450074</Y>
             <Z>-41465799.706357375</Z>
           </Position>
           <Radius>14778.1855</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>94859237.917040229</X>
+            <Y>11410077.211547118</Y>
+            <Z>-121708029.06502283</Z>
+          </Position>
+          <Radius>5267.996</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>98954103.653974563</X>
+            <Y>2235225.0490447795</Y>
+            <Z>53787698.7111553</Z>
+          </Position>
+          <Radius>11377.5137</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -84120,58 +84211,58 @@ PaintUnfinishedBlocks=False
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionMirroredTop.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopedCornerTipRight_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleFront.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeCornerTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerTop.mwm</string>
