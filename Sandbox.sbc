@@ -15532,38 +15532,6 @@ PaintUnfinishedBlocks=False
           <dictionary />
         </DamageInflicted>
       </MyObjectBuilder_Faction>
-      <MyObjectBuilder_Faction>
-        <FactionId>240337910189205798</FactionId>
-        <Tag>UNKN</Tag>
-        <Name>Unknown</Name>
-        <Description>Space is vast. As humans push into the void of space, sometimes the void pushes back. Danger, mystery, or reward may lie ahead.</Description>
-        <PrivateInfo />
-        <Members>
-          <MyObjectBuilder_FactionMember>
-            <PlayerId>144115188075855936</PlayerId>
-            <IsLeader>false</IsLeader>
-            <IsFounder>false</IsFounder>
-          </MyObjectBuilder_FactionMember>
-        </Members>
-        <JoinRequests />
-        <AutoAcceptMember>false</AutoAcceptMember>
-        <AutoAcceptPeace>false</AutoAcceptPeace>
-        <AcceptHumans>false</AcceptHumans>
-        <EnableFriendlyFire>false</EnableFriendlyFire>
-        <FactionType>None</FactionType>
-        <FactionTypeString>None</FactionTypeString>
-        <Stations />
-        <CustomColor x="0" y="-0.8" z="-0.450000018" />
-        <IconColor x="0" y="-0.8" z="0.55" />
-        <FactionIcon>Textures/FactionLogo/UNKN.png</FactionIcon>
-        <TransferedPCUDelta>0</TransferedPCUDelta>
-        <Score>0</Score>
-        <ObjectivePercentageCompleted>0</ObjectivePercentageCompleted>
-        <FactionIconWorkshopId xsi:nil="true" />
-        <DamageInflicted>
-          <dictionary />
-        </DamageInflicted>
-      </MyObjectBuilder_Faction>
     </Factions>
     <Players>
       <dictionary>
@@ -20068,90 +20036,6 @@ PaintUnfinishedBlocks=False
       <ActiveContracts />
       <TransferedPCUDelta>0</TransferedPCUDelta>
       <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855905</IdentityId>
-      <DisplayName>Enlightened Miners Guild CEO</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-14T16:46:13.014686-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855906</IdentityId>
-      <DisplayName>Enlightened Miners Guild CEO</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-14T16:46:13.0151848-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>true</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855907</IdentityId>
-      <DisplayName>Righteous Miners Guild CEO</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855908</IdentityId>
-      <DisplayName>Righteous Miners Guild CEO</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>true</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855909</IdentityId>
-      <DisplayName>Interstellar Sappers CEO</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855910</IdentityId>
-      <DisplayName>Interstellar Sappers CEO</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T06:25:15.5522202-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-14T16:46:13.0156848-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>true</IsGlobalEncounterSpawner>
     </MyObjectBuilder_Identity>
   </Identities>
   <PreviousEnvironmentHostility>SAFE</PreviousEnvironmentHostility>
