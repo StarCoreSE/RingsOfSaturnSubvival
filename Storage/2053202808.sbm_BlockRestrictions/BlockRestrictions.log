@@ -1,5 +1,5 @@
-[16:46:12.298] [T1] [DS=False] DEBUG | Log Started
-[16:46:12.342] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[06:25:46.079] [T1] [DS=False] DEBUG | Log Started
+[06:25:46.131] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1045,6 +1045,98 @@ BeforeStart() - Checking Config for saved settings
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/DeltaV_MiningMetalStorm
 ->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ExtendedPistonBase/LargePistonBaseReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ExtendedPistonBase/SmallPistonBaseReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Door/LargeBlockSmallGate
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Door/LargeBlockEvenWideDoor
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_RadioAntenna/LargeBlockCompactRadioAntennaReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_RadioAntenna/SmallBlockCompactRadioAntennaReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Cockpit/LargeBlockModularBridgeCockpit
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ButtonPanel/LargeBlockModularBridgeButtonPanel
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/LargeBlockFloodlight
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/LargeBlockFloodlightAngled
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/LargeBlockFloodlightCornerL
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/LargeBlockFloodlightCornerR
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/SmallBlockFloodlight
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/SmallBlockFloodlightAngled
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/SmallBlockFloodlightCornerL
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/SmallBlockFloodlightCornerR
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/SmallBlockFloodlightDown
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ReflectorLight/SmallBlockFloodlightAngledRotated
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_LargeMissileTurret/LargeMissileTurretReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_LargeMissileTurret/SmallMissileTurretReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_LargeGatlingTurret/LargeGatlingTurretReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_LargeGatlingTurret/SmallGatlingTurretReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Cockpit/LargeBlockCaptainDesk
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Jukebox/SmallBlockJukeboxReskin
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockFirstAidCabinet
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_CryoChamber/SmallBlockBunkBed
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockKitchenOven
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockKitchenMicrowave
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockKitchenFridge
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_CargoContainer/SmallBlockModularContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Cockpit/SmallBlockFlushCockpit
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ShipConnector/LargeBlockInsetConnector
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ShipConnector/SmallBlockInsetConnector
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ShipConnector/SmallBlockInsetConnectorMedium
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_JumpDrive/LargePrototechJumpDrive
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_JumpDrive/SmallPrototechJumpDrive
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Thrust/LargeBlockPrototechThruster
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Thrust/SmallBlockPrototechThruster
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Refinery/LargePrototechRefinery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Refinery/SmallPrototechRefinery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Assembler/LargePrototechAssembler
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Gyro/LargeBlockPrototechGyro
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Gyro/SmallBlockPrototechGyro
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_BatteryBlock/LargeBlockPrototechBattery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_BatteryBlock/SmallBlockPrototechBattery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Drill/LargeBlockPrototechDrill
+->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
 

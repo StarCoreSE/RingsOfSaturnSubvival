@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SafeZoneRadius>200</SafeZoneRadius>
+  <SafeZoneStartupTimeSeconds>60</SafeZoneStartupTimeSeconds>
+  <SafeZoneUpKeepConfig>
+    <UpKeepItem>MyObjectBuilder_Component/ZoneChip</UpKeepItem>
+    <SafeZoneUpKeepAmt>1</SafeZoneUpKeepAmt>
+    <SafeZoneUpKeepTimeSeconds>60</SafeZoneUpKeepTimeSeconds>
+  </SafeZoneUpKeepConfig>
+  <ActivePowerDrainMW>300</ActivePowerDrainMW>
+  <RechargeRatePerMinute>1</RechargeRatePerMinute>
+  <DrainRatePerMinute>3.3</DrainRatePerMinute>
+  <ActivationInitialCharge>1</ActivationInitialCharge>
+  <DiscordRoleId>0</DiscordRoleId>
+  <DiscordRoleName>NAME</DiscordRoleName>
+  <AllowSiegingOffline>false</AllowSiegingOffline>
+  <EnemyCheckBeforeStartup>
+    <EnableEnemyChecks>true</EnableEnemyChecks>
+    <EnemyCheckDistance>1000</EnemyCheckDistance>
+    <OmitNPCs>true</OmitNPCs>
+    <AlliesAreFriendly>true</AlliesAreFriendly>
+  </EnemyCheckBeforeStartup>
+  <SiegingConfig>
+    <SiegeConsumptionItem>MyObjectBuilder_Component/ZoneChip</SiegeConsumptionItem>
+    <SiegeConsumptionAmt>-1</SiegeConsumptionAmt>
+    <SiegeMaxRange>3000</SiegeMaxRange>
+    <CanAlliesBeSieged>false</CanAlliesBeSieged>
+    <UnsiegableAreas>
+      <EnableArea>false</EnableArea>
+      <AreaCenter>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </AreaCenter>
+      <AreaRadius>20000</AreaRadius>
+    </UnsiegableAreas>
+  </SiegingConfig>
+</Config>
