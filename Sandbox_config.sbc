@@ -440,11 +440,6 @@
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Basic Greebles">
-      <Name>2897767540.sbm</Name>
-      <PublishedFileId>2897767540</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Logo Pack">
       <Name>2425204399.sbm</Name>
       <PublishedFileId>2425204399</PublishedFileId>
@@ -502,5 +497,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-16T07:18:39.6122435-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-16T07:35:12.5060922-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

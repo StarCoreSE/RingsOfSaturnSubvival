@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>571164640000</ElapsedGameTime>
+  <ElapsedGameTime>578986560000</ElapsedGameTime>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
-    <Position x="-5690085.1900024423" y="-2871606.1900024414" z="6493938.8099975595" />
-    <Forward x="-0.577350259" y="-0.577350259" z="-0.577350259" />
-    <Up x="-0.4082483" y="0.8164966" z="-0.4082483" />
+    <Position x="148161522.55719325" y="58075708.906465232" z="245509.06045450282" />
+    <Forward x="-0.7591319" y="-0.334463984" z="0.5584376" />
+    <Up x="-0.346562266" y="0.933870256" z="0.08820948" />
     <Orientation>
-      <X>-0.279848129</X>
-      <Y>0.3647052</Y>
-      <Z>0.115916893</Z>
-      <W>0.880476236</W>
+      <X>-0.1356062</X>
+      <Y>0.872255564</Y>
+      <Z>0.121143818</Z>
+      <W>0.4539883</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="0.0197530836" y="1" />
+  <SpectatorSpeed x="0.759374857" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>118338829513043268</CameraEntity>
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-10-16T07:18:39.6122435-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-16T07:35:12.5060922-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -1203,7 +1203,7 @@ PaintUnfinishedBlocks=False
         </item>
         <item>
           <Key>NPCProviderContracts</Key>
-          <Value xsi:type="xsd:string">1008516966799876889;977495164164230477</Value>
+          <Value xsi:type="xsd:string">1000608373058233864;948590291769483082;946596398619201270;960930052848030422</Value>
         </item>
         <item>
           <Key>NPCProviderRepResets</Key>
@@ -19525,11 +19525,6 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Basic Greebles">
-      <Name>2897767540.sbm</Name>
-      <PublishedFileId>2897767540</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Logo Pack">
       <Name>2425204399.sbm</Name>
       <PublishedFileId>2425204399</PublishedFileId>
@@ -19586,6 +19581,7 @@ PaintUnfinishedBlocks=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -19594,7 +19590,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>John Enceladus</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:19.7627509-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:08.9793604-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19610,11 +19606,11 @@ PaintUnfinishedBlocks=False
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.05" y="0.199999988" z="0.388345033" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:19.763253-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:08.9798622-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-10-16T07:18:39.6127429-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-10-16T07:35:12.5060922-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -19626,7 +19622,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:36.0647539-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:29.3958607-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -19640,7 +19636,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:19.7627509-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:08.9798622-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19654,7 +19650,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:19.7627509-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:08.9798622-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19668,7 +19664,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:19.7627509-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:08.9798622-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19682,7 +19678,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:19.7627509-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:08.9798622-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19696,7 +19692,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T07:17:19.7627509-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-16T07:31:08.9798622-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19794,7 +19790,7 @@ PaintUnfinishedBlocks=False
             <CameraControllerSettings EntityId="118338829513043268">
               <IsFirstPerson>false</IsFirstPerson>
               <Distance>2.5</Distance>
-              <HeadAngle x="-14.06367" y="0" />
+              <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="120851408019639633">
               <IsFirstPerson>true</IsFirstPerson>
@@ -19969,6 +19965,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -20014,14 +20012,7 @@ PaintUnfinishedBlocks=False
     <long>144115188075855937</long>
   </NonPlayerIdentities>
   <Gps>
-    <dictionary>
-      <item>
-        <Key>144115188075855895</Key>
-        <Value>
-          <Entries />
-        </Value>
-      </item>
-    </dictionary>
+    <dictionary />
   </Gps>
   <ContainerGridIds>
     <dictionary />
@@ -20141,11 +20132,11 @@ PaintUnfinishedBlocks=False
         <dictionary>
           <item>
             <Key>121891778082087523</Key>
-            <Value>1560</Value>
+            <Value>50520</Value>
           </item>
           <item>
             <Key>132948456757758991</Key>
-            <Value>1560</Value>
+            <Value>50520</Value>
           </item>
         </dictionary>
       </NPCGrids>
@@ -20167,7 +20158,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.6685541" y="0.6475341" z="-0.365698159" />
+      <SunDirectionNormalized x="0.102219239" y="0.685825646" z="-0.7205515" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -20365,45 +20356,7 @@ PaintUnfinishedBlocks=False
       <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
       <InactiveContracts>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1008516966799876889</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>1078490000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1022705670253545112</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>1008516966799876889</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Rescue escape pod at designated position in space.
-Recover black box at designated position in space (enemies may arrive if you are not fast enough).
-Patrol designated position in space and watch for enemies.
-Protect our space station at designated position.
-REWARD:
-Money: 340000 SC,
-Reputation: 18,
-Difficulty: Easy
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>977495164164230477</Id>
+          <Id>960930052848030422</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20414,13 +20367,13 @@ Difficulty: Easy
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>142852154432041540</StartBlock>
-          <Creation>1078490000</Creation>
+          <Creation>8891130000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1027575133965232132</Id>
+            <Id>1079072897232357197</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>977495164164230477</ContractId>
+            <ContractId>960930052848030422</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -20429,14 +20382,122 @@ Difficulty: Easy
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
           <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Rescue escape pod at designated position in space.
-Recover black box at designated position in space (enemies may arrive if you are not fast enough).
-Patrol designated position in space and watch for enemies.
-Protect our space station at designated position.
+Raid hostile trade convoy in space.
+Assassinate your targets at the designated position in space.
+Protect our space ships at designated position.
+Destroy space ships on designated position.
 REWARD:
-Money: 340000 SC,
-Reputation: 18,
+Money: 350000 SC,
+Reputation: 22,
 Difficulty: Easy
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>946596398619201270</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>8891130000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1079095075892448936</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>946596398619201270</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Raid hostile trade convoy in space.
+Assassinate your targets at the designated position in space.
+Protect our space ships at designated position.
+Destroy space ships on designated position.
+REWARD:
+Money: 350000 SC,
+Reputation: 22,
+Difficulty: Easy
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>948590291769483082</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>8290960000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1057887790739064356</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>948590291769483082</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Find requested materials in local asteroids.
+REWARD:
+Money: 200000 SC,
+Reputation: 4,
+Difficulty: Moderate
+(closest to: Moonlet)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1000608373058233864</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>8290960000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1014308323085398117</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1000608373058233864</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Find requested materials in local asteroids.
+REWARD:
+Money: 200000 SC,
+Reputation: 4,
+Difficulty: Moderate
 (closest to: Moonlet)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
@@ -82809,7 +82870,7 @@ Difficulty: Easy
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>99666</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>74349</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -83394,6 +83455,14 @@ Difficulty: Easy
       <MarkedAreas>
         <EmptyArea>
           <Position>
+            <X>281928717.51767939</X>
+            <Y>-11299561.416450074</Y>
+            <Z>-41465799.706357375</Z>
+          </Position>
+          <Radius>14778.1855</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
             <X>43106012.748828471</X>
             <Y>14873096.079999659</Y>
             <Z>-87273540.097650126</Z>
@@ -83407,22 +83476,6 @@ Difficulty: Easy
             <Z>53787698.7111553</Z>
           </Position>
           <Radius>11377.5137</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>281928717.51767939</X>
-            <Y>-11299561.416450074</Y>
-            <Z>-41465799.706357375</Z>
-          </Position>
-          <Radius>14778.1855</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>69949678.391336113</X>
-            <Y>7282454.0616612965</Y>
-            <Z>10851968.984101849</Z>
-          </Position>
-          <Radius>12850.917</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83442,19 +83495,19 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>254255133.049078</X>
-            <Y>-14307369.958736703</Y>
-            <Z>74037540.076578081</Z>
-          </Position>
-          <Radius>9279.723</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>86684260.268817991</X>
             <Y>2339502.4041681434</Y>
             <Z>76241838.379001126</Z>
           </Position>
           <Radius>12233.9141</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>69949678.391336113</X>
+            <Y>7282454.0616612965</Y>
+            <Z>10851968.984101849</Z>
+          </Position>
+          <Radius>12850.917</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83482,11 +83535,11 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>209650387.84686679</X>
-            <Y>481187.91677057877</Y>
-            <Z>-132712543.0291452</Z>
+            <X>254255133.049078</X>
+            <Y>-14307369.958736703</Y>
+            <Z>74037540.076578081</Z>
           </Position>
-          <Radius>6164.888</Radius>
+          <Radius>9279.723</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83495,6 +83548,14 @@ Difficulty: Easy
             <Z>-121708029.06502283</Z>
           </Position>
           <Radius>5267.996</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>209650387.84686679</X>
+            <Y>481187.91677057877</Y>
+            <Z>-132712543.0291452</Z>
+          </Position>
+          <Radius>6164.888</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83522,19 +83583,19 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>11376565.564137489</X>
-            <Y>11018289.367391745</Y>
-            <Z>53281488.523890108</Z>
-          </Position>
-          <Radius>9103.555</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>228897747.29832518</X>
             <Y>-11614831.1958012</Y>
             <Z>70901536.319373652</Z>
           </Position>
           <Radius>11302.8242</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>11376565.564137489</X>
+            <Y>11018289.367391745</Y>
+            <Z>53281488.523890108</Z>
+          </Position>
+          <Radius>9103.555</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83554,19 +83615,19 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>47372872.451698467</X>
-            <Y>5765992.4537711637</Y>
-            <Z>86334813.021179825</Z>
-          </Position>
-          <Radius>9277.719</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>168145697.60496745</X>
             <Y>-6990545.4719399065</Y>
             <Z>99919921.228863254</Z>
           </Position>
           <Radius>12176.9443</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>47372872.451698467</X>
+            <Y>5765992.4537711637</Y>
+            <Z>86334813.021179825</Z>
+          </Position>
+          <Radius>9277.719</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83618,14 +83679,6 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>52564997.689757496</X>
-            <Y>14273196.969425557</Y>
-            <Z>-94193527.768026158</Z>
-          </Position>
-          <Radius>14922.6338</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>2544993.5801486969</X>
             <Y>14628432.765057718</Y>
             <Z>-1446651.4614517351</Z>
@@ -83634,11 +83687,11 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>191089922.79681984</X>
-            <Y>-1345709.3197378227</Y>
-            <Z>-59053668.198883235</Z>
+            <X>52564997.689757496</X>
+            <Y>14273196.969425557</Y>
+            <Z>-94193527.768026158</Z>
           </Position>
-          <Radius>4856.876</Radius>
+          <Radius>14922.6338</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83647,6 +83700,14 @@ Difficulty: Easy
             <Z>-145237577.2372154</Z>
           </Position>
           <Radius>15654.8389</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>191089922.79681984</X>
+            <Y>-1345709.3197378227</Y>
+            <Z>-59053668.198883235</Z>
+          </Position>
+          <Radius>4856.876</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -83778,59 +83839,59 @@ Difficulty: Easy
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionMirroredTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight_OtherBones.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionMirroredTop.mwm</string>
     <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleFront.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeCornerTriangle.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerTop.mwm</string>
   </VicinityArmorModelsCache>
@@ -83838,4 +83899,7 @@ Difficulty: Easy
     <string>GasGiantSurface</string>
   </VicinityVoxelCache>
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
