@@ -115,7 +115,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
@@ -19513,11 +19513,6 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>3206802244</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SETacView Demo - Replay System">
-      <Name>2975063364.sbm</Name>
-      <PublishedFileId>2975063364</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Shipyards Revival">
       <Name>3013053286.sbm</Name>
       <PublishedFileId>3013053286</PublishedFileId>
@@ -19551,11 +19546,6 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="StarCore Skybox - Magellanic">
       <Name>3251198297.sbm</Name>
       <PublishedFileId>3251198297</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Systems Highlight">
-      <Name>3037494862.sbm</Name>
-      <PublishedFileId>3037494862</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
