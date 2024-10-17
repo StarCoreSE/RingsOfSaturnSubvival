@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
@@ -161,7 +161,6 @@
     <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
-    <EncounterDensity>0</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
@@ -175,6 +174,11 @@
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="SC_RelativeTopSpeed_Logarithmic_Angular">
+      <Name>3206802244.sbm</Name>
+      <PublishedFileId>3206802244</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="[QoL] Production Quota">
       <Name>2304715504.sbm</Name>
       <PublishedFileId>2304715504</PublishedFileId>
@@ -290,11 +294,6 @@
       <PublishedFileId>801185519</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Configurable Parameters">
-      <Name>2422592854.sbm</Name>
-      <PublishedFileId>2422592854</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="ConfigurableGridPoints">
       <Name>3346579329.sbm</Name>
       <PublishedFileId>3346579329</PublishedFileId>
@@ -335,7 +334,7 @@
       <PublishedFileId>2731876706</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-	<ModItem FriendlyName="Disposable Worklights">
+    <ModItem FriendlyName="Disposable Worklights">
       <Name>3031257615.sbm</Name>
       <PublishedFileId>3031257615</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>

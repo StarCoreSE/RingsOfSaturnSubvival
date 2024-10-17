@@ -5,8 +5,8 @@
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
     <Position x="162.34613007938395" y="14.534162388285827" z="66.653143275589116" />
-    <Forward x="-0.577350259" y="-0.577350259" z="-0.577350259" />
-    <Up x="-0.4082483" y="0.8164966" z="-0.4082483" />
+    <Forward x="-0.5773503" y="-0.577350259" z="-0.577350259" />
+    <Up x="-0.408248276" y="0.8164966" z="-0.408248246" />
     <Orientation>
       <X>-0.279848129</X>
       <Y>0.3647052</Y>
@@ -115,7 +115,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
@@ -262,13 +262,12 @@
     <ScrapEnabled>false</ScrapEnabled>
     <BroadcastControllerMaxOfflineTransmitDistance>200</BroadcastControllerMaxOfflineTransmitDistance>
     <TemporaryContainers>true</TemporaryContainers>
-    <GlobalEncounterTimer>15</GlobalEncounterTimer>
-    <GlobalEncounterCap>1</GlobalEncounterCap>
+    <GlobalEncounterTimer>0</GlobalEncounterTimer>
+    <GlobalEncounterCap>0</GlobalEncounterCap>
     <GlobalEncounterEnableRemovalTimer>true</GlobalEncounterEnableRemovalTimer>
     <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
-    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
@@ -19273,6 +19272,11 @@ PaintUnfinishedBlocks=False
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="SC_RelativeTopSpeed_Logarithmic_Angular">
+      <Name>3206802244.sbm</Name>
+      <PublishedFileId>3206802244</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="[QoL] Production Quota">
       <Name>2304715504.sbm</Name>
       <PublishedFileId>2304715504</PublishedFileId>
@@ -19388,11 +19392,6 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>801185519</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Configurable Parameters">
-      <Name>2422592854.sbm</Name>
-      <PublishedFileId>2422592854</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="ConfigurableGridPoints">
       <Name>3346579329.sbm</Name>
       <PublishedFileId>3346579329</PublishedFileId>
@@ -19437,7 +19436,7 @@ PaintUnfinishedBlocks=False
       <Name>3031257615.sbm</Name>
       <PublishedFileId>3031257615</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>	
+    </ModItem>
     <ModItem FriendlyName="Dynamic Asteroids">
       <Name>3262577158.sbm</Name>
       <PublishedFileId>3262577158</PublishedFileId>
@@ -19604,6 +19603,7 @@ PaintUnfinishedBlocks=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -19987,6 +19987,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -84368,4 +84370,7 @@ Difficulty: Moderate
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

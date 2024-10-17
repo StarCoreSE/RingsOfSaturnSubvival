@@ -4,9 +4,9 @@
   <EconomyRefresh>1200</EconomyRefresh>
   <EconomyStations />
   <NoDefaultSellGrids>false</NoDefaultSellGrids>
-  <MercenariesEnabled>false</MercenariesEnabled>
+  <MercenariesEnabled>true</MercenariesEnabled>
   <MercenariesCreditCost>150000000</MercenariesCreditCost>
-  <MercenariesReputationCost>200</MercenariesReputationCost>
+  <MercenariesReputationCost>0</MercenariesReputationCost>
   <GenerateOffers>5</GenerateOffers>
   <PlanetBlacklist>Dummy;Fake;Dangerous;RealGasGiant</PlanetBlacklist>
   <ReputationOfferModifier>1</ReputationOfferModifier>
