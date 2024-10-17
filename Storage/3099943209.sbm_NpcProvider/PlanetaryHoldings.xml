@@ -7,108 +7,13 @@
       <Space>false</Space>
       <Surface>false</Surface>
     </SiegeType>
-    <SiegeType>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <Space>true</Space>
-      <Surface>true</Surface>
-    </SiegeType>
   </PlanetSieges>
   <PlanetaryOwners>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>2671854769088975014</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>7249104190597792057</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>8263615235011172880</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>8663975914586124475</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>-604249919129624045</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>-2374037726505752285</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>7017031810001225905</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>2687093118127834035</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>7855250210484038131</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>5154847214351026382</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>5253721918303354406</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>5803377973990722717</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>-2824036948706213207</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>-4835497880819590571</PlanetEntityId>
-    </PlanetaryOwner>
-    <PlanetaryOwner>
-      <PlanetGeneratorId>Moonlet</PlanetGeneratorId>
-      <FactionTag>ECO-NPC</FactionTag>
-      <Control>100</Control>
-      <PlanetEntityId>-125208969261570979</PlanetEntityId>
-    </PlanetaryOwner>
     <PlanetaryOwner>
       <PlanetGeneratorId>RealGasGiant</PlanetGeneratorId>
       <FactionTag>ECO-NPC</FactionTag>
       <Control>100</Control>
-      <PlanetEntityId>0</PlanetEntityId>
+      <PlanetEntityId>-4911161085436634825</PlanetEntityId>
     </PlanetaryOwner>
   </PlanetaryOwners>
   <PlanetBlacklist>Dummy;Fake;Hidden</PlanetBlacklist>

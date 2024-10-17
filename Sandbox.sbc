@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>592850400000</ElapsedGameTime>
+  <ElapsedGameTime>615519520000</ElapsedGameTime>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
-    <Position x="162.34613007938395" y="14.534162388285827" z="66.653143275589116" />
-    <Forward x="-0.5773503" y="-0.577350259" z="-0.577350259" />
-    <Up x="-0.408248276" y="0.8164966" z="-0.408248246" />
+    <Position x="160382.75219531509" y="58074672.484785266" z="244710.18295996095" />
+    <Forward x="0.125846088" y="-0.06377443" z="-0.989997745" />
+    <Up x="-0.07863531" y="0.994150341" z="-0.07403786" />
     <Orientation>
-      <X>-0.279848129</X>
-      <Y>0.3647052</Y>
-      <Z>0.115916893</Z>
-      <W>0.880476236</W>
+      <X>-0.0345696136</X>
+      <Y>-0.0616932549</Y>
+      <Z>0.0415905751</Z>
+      <W>0.9966289</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="8522.266" y="1" />
+  <SpectatorSpeed x="12.9746284" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>118338829513043268</CameraEntity>
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-10-16T17:16:02.6105969-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-17T18:29:24.0059286-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -33,7 +33,7 @@
         <Index>0</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinder2Item" />
+          <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
         </Data>
       </Slot>
       <Slot>
@@ -47,14 +47,14 @@
         <Index>2</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+          <DefinitionId Type="MyObjectBuilder_SafeZoneBlock" Subtype="AdminGrid_SafeZone" />
         </Data>
       </Slot>
       <Slot>
         <Index>3</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_MyProgrammableBlock" Subtype="LargeProgrammableBlock" />
+          <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="bobzone" />
         </Data>
       </Slot>
       <Slot>
@@ -76,13 +76,6 @@
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
           <DefinitionId Type="MyObjectBuilder_Reactor" Subtype="LargeBlockLargeGenerator" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>7</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="bobzone" />
         </Data>
       </Slot>
       <Slot>
@@ -123,7 +116,7 @@
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>1000000</TotalPCU>
     <PiratePCU>0</PiratePCU>
-    <GlobalEncounterPCU>25000</GlobalEncounterPCU>
+    <GlobalEncounterPCU>0</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
@@ -220,7 +213,7 @@
     <WeatherSystem>false</WeatherSystem>
     <WeatherLightingDamage>false</WeatherLightingDamage>
     <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
-    <TradeFactionsCount>15</TradeFactionsCount>
+    <TradeFactionsCount>0</TradeFactionsCount>
     <StationsDistanceInnerRadius>10000000</StationsDistanceInnerRadius>
     <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
@@ -264,20 +257,19 @@
     <TemporaryContainers>true</TemporaryContainers>
     <GlobalEncounterTimer>0</GlobalEncounterTimer>
     <GlobalEncounterCap>0</GlobalEncounterCap>
-    <GlobalEncounterEnableRemovalTimer>true</GlobalEncounterEnableRemovalTimer>
-    <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
-    <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
-    <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
-    <EncounterDensity>0.35</EncounterDensity>
+    <GlobalEncounterEnableRemovalTimer>false</GlobalEncounterEnableRemovalTimer>
+    <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
+    <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
+    <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
-    <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
-    <PlanetaryEncounterTimerMax>30</PlanetaryEncounterTimerMax>
-    <PlanetaryEncounterExistingStructuresRange>7000</PlanetaryEncounterExistingStructuresRange>
-    <PlanetaryEncounterAreaLockdownRange>10000</PlanetaryEncounterAreaLockdownRange>
-    <PlanetaryEncounterDesiredSpawnRange>6000</PlanetaryEncounterDesiredSpawnRange>
-    <PlanetaryEncounterPresenceRange>20000</PlanetaryEncounterPresenceRange>
-    <PlanetaryEncounterDespawnTimeout>120</PlanetaryEncounterDespawnTimeout>
+    <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
+    <PlanetaryEncounterTimerMax>0</PlanetaryEncounterTimerMax>
+    <PlanetaryEncounterExistingStructuresRange>0</PlanetaryEncounterExistingStructuresRange>
+    <PlanetaryEncounterAreaLockdownRange>0</PlanetaryEncounterAreaLockdownRange>
+    <PlanetaryEncounterDesiredSpawnRange>0</PlanetaryEncounterDesiredSpawnRange>
+    <PlanetaryEncounterPresenceRange>0</PlanetaryEncounterPresenceRange>
+    <PlanetaryEncounterDespawnTimeout>0</PlanetaryEncounterDespawnTimeout>
     <LimitBlocksBy>BlockPairName</LimitBlocksBy>
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
   </Settings>
@@ -1216,7 +1208,7 @@ PaintUnfinishedBlocks=False
         </item>
         <item>
           <Key>NPCProviderContracts</Key>
-          <Value xsi:type="xsd:string">982652785719639467;1006530410362043857;992563697548439742;951150276558424492;1002505861544100416;964419268201884819;1004576824415360201;962274141492715519;987323044607516317;977948211111502699;979990232796885849;938359800699451861;950362557931544388;956670560037531352;972859505660608632;990955726448927045</Value>
+          <Value xsi:type="xsd:string">943876091076101117;971175059152810580;966544813119628643;1006859463657528671;994761663781450246;989887681252358230;972158783937399554;1001034385530983255</Value>
         </item>
         <item>
           <Key>NPCProviderRepResets</Key>
@@ -15819,7 +15811,7 @@ PaintUnfinishedBlocks=False
         <FactionId1>251671393460056489</FactionId1>
         <FactionId2>284483582766654805</FactionId2>
         <Relation>Enemies</Relation>
-        <Reputation>-1186</Reputation>
+        <Reputation>-1500</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>235341129158470095</FactionId1>
@@ -15836,14 +15828,14 @@ PaintUnfinishedBlocks=False
       <MyObjectBuilder_FactionRelation>
         <FactionId1>284483582766654805</FactionId1>
         <FactionId2>217223786446837042</FactionId2>
-        <Relation>Enemies</Relation>
-        <Reputation>-1032</Reputation>
+        <Relation>Friends</Relation>
+        <Reputation>1499</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>258961289160008772</FactionId1>
         <FactionId2>284483582766654805</FactionId2>
-        <Relation>Neutral</Relation>
-        <Reputation>0</Reputation>
+        <Relation>Enemies</Relation>
+        <Reputation>-1000</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>217568721574041730</FactionId1>
@@ -15854,26 +15846,26 @@ PaintUnfinishedBlocks=False
       <MyObjectBuilder_FactionRelation>
         <FactionId1>256671340185477285</FactionId1>
         <FactionId2>251671393460056489</FactionId2>
-        <Relation>Enemies</Relation>
-        <Reputation>-1499</Reputation>
+        <Relation>Friends</Relation>
+        <Reputation>1500</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>256671340185477285</FactionId1>
         <FactionId2>284483582766654805</FactionId2>
         <Relation>Enemies</Relation>
-        <Reputation>-1499</Reputation>
+        <Reputation>-1500</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>258961289160008772</FactionId1>
         <FactionId2>256671340185477285</FactionId2>
-        <Relation>Neutral</Relation>
-        <Reputation>-380</Reputation>
+        <Relation>Enemies</Relation>
+        <Reputation>-1000</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>217223786446837042</FactionId1>
         <FactionId2>256671340185477285</FactionId2>
         <Relation>Enemies</Relation>
-        <Reputation>-865</Reputation>
+        <Reputation>-1000</Reputation>
       </MyObjectBuilder_FactionRelation>
       <MyObjectBuilder_FactionRelation>
         <FactionId1>217568721574041730</FactionId1>
@@ -17441,6 +17433,42 @@ PaintUnfinishedBlocks=False
         <Relation>Neutral</Relation>
         <Reputation>0</Reputation>
       </MyObjectBuilder_FactionRelation>
+      <MyObjectBuilder_FactionRelation>
+        <FactionId1>235341129158470095</FactionId1>
+        <FactionId2>239180431131899742</FactionId2>
+        <Relation>Enemies</Relation>
+        <Reputation>-1500</Reputation>
+      </MyObjectBuilder_FactionRelation>
+      <MyObjectBuilder_FactionRelation>
+        <FactionId1>235341129158470095</FactionId1>
+        <FactionId2>241391400220713830</FactionId2>
+        <Relation>Enemies</Relation>
+        <Reputation>-1500</Reputation>
+      </MyObjectBuilder_FactionRelation>
+      <MyObjectBuilder_FactionRelation>
+        <FactionId1>239180431131899742</FactionId1>
+        <FactionId2>256671340185477285</FactionId2>
+        <Relation>Neutral</Relation>
+        <Reputation>-500</Reputation>
+      </MyObjectBuilder_FactionRelation>
+      <MyObjectBuilder_FactionRelation>
+        <FactionId1>239180431131899742</FactionId1>
+        <FactionId2>284483582766654805</FactionId2>
+        <Relation>Neutral</Relation>
+        <Reputation>-500</Reputation>
+      </MyObjectBuilder_FactionRelation>
+      <MyObjectBuilder_FactionRelation>
+        <FactionId1>241391400220713830</FactionId1>
+        <FactionId2>256671340185477285</FactionId2>
+        <Relation>Neutral</Relation>
+        <Reputation>0</Reputation>
+      </MyObjectBuilder_FactionRelation>
+      <MyObjectBuilder_FactionRelation>
+        <FactionId1>241391400220713830</FactionId1>
+        <FactionId2>284483582766654805</FactionId2>
+        <Relation>Neutral</Relation>
+        <Reputation>0</Reputation>
+      </MyObjectBuilder_FactionRelation>
     </Relations>
     <RelationsWithPlayers>
       <MyObjectBuilder_PlayerFactionRelation>
@@ -17693,13 +17721,13 @@ PaintUnfinishedBlocks=False
         <PlayerId>144115188075855903</PlayerId>
         <FactionId>256671340185477285</FactionId>
         <Relation>Neutral</Relation>
-        <Reputation>0</Reputation>
+        <Reputation>-500</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855903</PlayerId>
         <FactionId>284483582766654805</FactionId>
         <Relation>Neutral</Relation>
-        <Reputation>0</Reputation>
+        <Reputation>-500</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
       <MyObjectBuilder_PlayerFactionRelation>
         <PlayerId>144115188075855904</PlayerId>
@@ -19212,6 +19240,48 @@ PaintUnfinishedBlocks=False
         <FactionId>284483582766654805</FactionId>
         <Relation>Neutral</Relation>
         <Reputation>0</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855900</PlayerId>
+        <FactionId>239180431131899742</FactionId>
+        <Relation>Enemies</Relation>
+        <Reputation>-1500</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855900</PlayerId>
+        <FactionId>241391400220713830</FactionId>
+        <Relation>Neutral</Relation>
+        <Reputation>0</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855903</PlayerId>
+        <FactionId>235341129158470095</FactionId>
+        <Relation>Enemies</Relation>
+        <Reputation>-1500</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855935</PlayerId>
+        <FactionId>235341129158470095</FactionId>
+        <Relation>Enemies</Relation>
+        <Reputation>-1500</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855935</PlayerId>
+        <FactionId>256671340185477285</FactionId>
+        <Relation>Neutral</Relation>
+        <Reputation>-500</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855935</PlayerId>
+        <FactionId>284483582766654805</FactionId>
+        <Relation>Neutral</Relation>
+        <Reputation>-500</Reputation>
+      </MyObjectBuilder_PlayerFactionRelation>
+      <MyObjectBuilder_PlayerFactionRelation>
+        <PlayerId>144115188075855937</PlayerId>
+        <FactionId>235341129158470095</FactionId>
+        <Relation>Enemies</Relation>
+        <Reputation>-1500</Reputation>
       </MyObjectBuilder_PlayerFactionRelation>
     </RelationsWithPlayers>
     <Requests>
@@ -19589,7 +19659,6 @@ PaintUnfinishedBlocks=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -19598,7 +19667,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>John Enceladus</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:39.0974239-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:07.4987907-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19614,11 +19683,11 @@ PaintUnfinishedBlocks=False
       <Model>Astronaut M (2xAccel)</Model>
       <ColorMask x="0.05" y="0.199999988" z="0.388345033" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:39.1014252-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:07.4992899-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-10-16T17:16:02.6105969-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-10-17T18:29:24.0059286-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -19630,7 +19699,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:53.8384238-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:40.162288-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -19644,7 +19713,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:39.1014252-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:07.4987907-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19658,7 +19727,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:39.1014252-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:07.4992899-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19672,7 +19741,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:39.1014252-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:07.4992899-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19686,7 +19755,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:39.1014252-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:07.4992899-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19700,7 +19769,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-16T16:51:39.1014252-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T18:24:07.4992899-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19732,7 +19801,7 @@ PaintUnfinishedBlocks=False
                 <Index>0</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinder2Item" />
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
                 </Data>
               </Slot>
               <Slot>
@@ -19746,14 +19815,14 @@ PaintUnfinishedBlocks=False
                 <Index>2</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+                  <DefinitionId Type="MyObjectBuilder_SafeZoneBlock" Subtype="AdminGrid_SafeZone" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>3</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_MyProgrammableBlock" Subtype="LargeProgrammableBlock" />
+                  <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="bobzone" />
                 </Data>
               </Slot>
               <Slot>
@@ -19778,13 +19847,6 @@ PaintUnfinishedBlocks=False
                 </Data>
               </Slot>
               <Slot>
-                <Index>7</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_UpgradeModule" Subtype="bobzone" />
-                </Data>
-              </Slot>
-              <Slot>
                 <Index>8</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
@@ -19796,9 +19858,9 @@ PaintUnfinishedBlocks=False
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="118338829513043268">
-              <IsFirstPerson>true</IsFirstPerson>
+              <IsFirstPerson>false</IsFirstPerson>
               <Distance>2.5</Distance>
-              <HeadAngle x="0" y="0" />
+              <HeadAngle x="-13.4315977" y="0" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="120851408019639633">
               <IsFirstPerson>true</IsFirstPerson>
@@ -19973,8 +20035,6 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -20020,7 +20080,447 @@ PaintUnfinishedBlocks=False
     <long>144115188075855937</long>
   </NonPlayerIdentities>
   <Gps>
-    <dictionary />
+    <dictionary>
+      <item>
+        <Key>144115188075855895</Key>
+        <Value>
+          <Entries>
+            <Entry>
+              <name>Moonlet 1</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>85712304.001055226</X>
+                <Y>-7127330.1467954563</Y>
+                <Z>-28854441.566201329</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 2</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>71089829.801790312</X>
+                <Y>-3431433.3859950705</Y>
+                <Z>-73527428.383679226</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 3</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>98096311.6697013</X>
+                <Y>-9836851.0329886284</Y>
+                <Z>567960.8203700172</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 4</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>95442854.263730884</X>
+                <Y>-6173053.7502852976</Y>
+                <Z>-67401070.021755844</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 5</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>-40589893.797355115</X>
+                <Y>55838.416366685065</Y>
+                <Z>80086582.767376512</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 6</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>32632680.441250551</X>
+                <Y>-9172319.527192384</Y>
+                <Z>118204593.16134658</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 7</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>-53604697.26279442</X>
+                <Y>9079655.8981143236</Y>
+                <Z>-74360159.9366976</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 8</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>-76774019.7291779</X>
+                <Y>3750994.6656894297</Y>
+                <Z>78551709.644567251</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 9</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>62797999.6401545</X>
+                <Y>-9172731.3802602328</Y>
+                <Z>57882191.824895613</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 10</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>144887532.91700378</X>
+                <Y>-13855726.131430063</Y>
+                <Z>-12636979.705406267</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 11</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>52993390.9601523</X>
+                <Y>-2763431.2531688879</Y>
+                <Z>-50694593.356926836</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 12</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>47683805.943910427</X>
+                <Y>-8606020.8217131011</Y>
+                <Z>76776368.046441212</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 13</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>22919532.013663348</X>
+                <Y>1633059.2563273364</Y>
+                <Z>-78476685.653873429</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 14</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>103370688.30681044</X>
+                <Y>-8165964.6653189957</Y>
+                <Z>-43398519.80724097</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 15</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>-23932678.564136464</X>
+                <Y>7179368.40222041</Y>
+                <Z>-95698447.416135281</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+            <Entry>
+              <name>Moonlet 16</name>
+              <description>Moonlet location</description>
+              <coords>
+                <X>-73379349.2380999</X>
+                <Y>12664295.225609457</Y>
+                <Z>-106503642.53598934</Z>
+              </coords>
+              <isFinal>true</isFinal>
+              <showOnHud>true</showOnHud>
+              <alwaysVisible>false</alwaysVisible>
+              <color>
+                <PackedValue>4294035829</PackedValue>
+                <X>117</X>
+                <Y>201</Y>
+                <Z>241</Z>
+                <R>117</R>
+                <G>201</G>
+                <B>241</B>
+                <A>255</A>
+              </color>
+              <entityId>0</entityId>
+              <isObjective>false</isObjective>
+              <contractId>0</contractId>
+              <IsGlobalEncounterGPS>false</IsGlobalEncounterGPS>
+              <DisplayName />
+            </Entry>
+          </Entries>
+        </Value>
+      </item>
+    </dictionary>
   </Gps>
   <ContainerGridIds>
     <dictionary />
@@ -20140,11 +20640,11 @@ PaintUnfinishedBlocks=False
         <dictionary>
           <item>
             <Key>121891778082087523</Key>
-            <Value>137220</Value>
+            <Value>279120</Value>
           </item>
           <item>
             <Key>132948456757758991</Key>
-            <Value>137220</Value>
+            <Value>279120</Value>
           </item>
         </dictionary>
       </NPCGrids>
@@ -20166,7 +20666,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.8378087" y="0.07109323" z="-0.5413154" />
+      <SunDirectionNormalized x="-0.05867924" y="-0.6765805" z="0.734026968" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -20174,162 +20674,82 @@ PaintUnfinishedBlocks=False
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>8263615235011172880</PlanetId>
+          <PlanetId>4111922261962160278</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>2687093118127834035</PlanetId>
+          <PlanetId>-4988778591372963440</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>7017031810001225905</PlanetId>
+          <PlanetId>-6867809433423417836</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>7855250210484038131</PlanetId>
+          <PlanetId>-3706498348359949180</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>8663975914586124475</PlanetId>
+          <PlanetId>6395532171649174314</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>7249104190597792057</PlanetId>
+          <PlanetId>3725280167858534169</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-604249919129624045</PlanetId>
+          <PlanetId>8310813454052639014</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-2374037726505752285</PlanetId>
+          <PlanetId>4928880285289760819</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>2671854769088975014</PlanetId>
+          <PlanetId>-7974964598473808684</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>5253721918303354406</PlanetId>
+          <PlanetId>5326702460653360504</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>5154847214351026382</PlanetId>
+          <PlanetId>-5397245954775982703</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-125208969261570979</PlanetId>
+          <PlanetId>2765773094208422425</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-2824036948706213207</PlanetId>
+          <PlanetId>5545219415669746229</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>5803377973990722717</PlanetId>
+          <PlanetId>-2329959026057879795</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>7585061207355772894</PlanetId>
+          <PlanetId>2784367927330526386</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-4835497880819590571</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>7521879847894048566</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-2674105697002571766</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>4175020287138896627</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-7904116683492215813</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-7918499923291173616</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>1749069747009498284</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-6490388304168652482</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-6184811154754798644</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-8167017838249314117</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>2970828922486529717</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>6045442090085819519</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-6353976481706194279</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>8009633368398401886</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>8900234606802375118</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>4117622944835564414</PlanetId>
-          <NextWeather>0</NextWeather>
-          <Weathers />
-        </MyObjectBuilder_WeatherPlanetData>
-        <MyObjectBuilder_WeatherPlanetData>
-          <PlanetId>-4286287140310794459</PlanetId>
+          <PlanetId>-3162232058538230097</PlanetId>
           <NextWeather>0</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
@@ -20364,7 +20784,7 @@ PaintUnfinishedBlocks=False
       <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
       <InactiveContracts>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>982652785719639467</Id>
+          <Id>966544813119628643</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20375,32 +20795,103 @@ PaintUnfinishedBlocks=False
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>73430540981178282</StartBlock>
-          <Creation>15223440000</Creation>
+          <Creation>47840470000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1012461928080850481</Id>
+            <Id>1070956247303474293</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>982652785719639467</ContractId>
+            <ContractId>966544813119628643</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
             <BlockEndId>73430540981178282</BlockEndId>
           </ContractCondition>
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
+          <ContractName>Rescue &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Raid hostile trade convoy in space.
-Patrol designated position in space and watch for enemies.
+Find lost ship at designated location in space.
+Rescue ship at designated position in space.
 REWARD:
-Money: 130000 SC,
+Money: 540000 SC,
+Reputation: 24,
+Difficulty: Hard
+(closest to: Moonlet, dist. to center: 129933km)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>1006859463657528671</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>142852154432041540</StartBlock>
+          <Creation>47840470000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1011462935346192731</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>1006859463657528671</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>142852154432041540</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
+          <ContractName>Rescue &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Find lost ship at designated location in space.
+Rescue ship at designated position in space.
+REWARD:
+Money: 540000 SC,
+Reputation: 24,
+Difficulty: Hard
+(closest to: Moonlet, dist. to center: 129933km)
+</ContractDescription>
+        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
+        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
+          <Id>994761663781450246</Id>
+          <IsPlayerMade>true</IsPlayerMade>
+          <State>Inactive</State>
+          <Owners />
+          <RewardMoney>0</RewardMoney>
+          <RewardReputation>0</RewardReputation>
+          <StartingDeposit>0</StartingDeposit>
+          <FailReputationPrice>0</FailReputationPrice>
+          <StartFaction>0</StartFaction>
+          <StartStation>0</StartStation>
+          <StartBlock>73430540981178282</StartBlock>
+          <Creation>48440630000</Creation>
+          <TicksToDiscard xsi:nil="true" />
+          <RemainingTimeInS>72000</RemainingTimeInS>
+          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
+            <Id>1061343928896462285</Id>
+            <IsFinished>false</IsFinished>
+            <ContractId>994761663781450246</ContractId>
+            <SubId>0</SubId>
+            <StationEndId>0</StationEndId>
+            <FactionEndId>0</FactionEndId>
+            <BlockEndId>73430540981178282</BlockEndId>
+          </ContractCondition>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Transport Mission (Planet) (GLF-NPC)</ContractName>
+          <ContractDescription>OBJECTIVES:
+Deliver consumables to designated position on the planet.
+REWARD:
+Money: 50000 SC,
 Reputation: 10,
 Difficulty: Easy
-(closest to: Moonlet)
+(planet: Moonlet, dist. to center: 112416km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1006530410362043857</Id>
+          <Id>989887681252358230</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20411,67 +20902,31 @@ Difficulty: Easy
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>142852154432041540</StartBlock>
-          <Creation>15223440000</Creation>
+          <Creation>48440630000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1078249151296226136</Id>
+            <Id>1021184538862131625</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>1006530410362043857</ContractId>
+            <ContractId>989887681252358230</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
             <BlockEndId>142852154432041540</BlockEndId>
           </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
+          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
+          <ContractName>Transport Mission (Planet) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Raid hostile trade convoy in space.
-Patrol designated position in space and watch for enemies.
+Deliver consumables to designated position on the planet.
 REWARD:
-Money: 130000 SC,
+Money: 50000 SC,
 Reputation: 10,
 Difficulty: Easy
-(closest to: Moonlet)
+(planet: Moonlet, dist. to center: 112416km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>992563697548439742</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>15823600000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1057488181288999867</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>992563697548439742</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-REWARD:
-Money: 90000 SC,
-Reputation: 6,
-Difficulty: Easy
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>951150276558424492</Id>
+          <Id>971175059152810580</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20482,31 +20937,31 @@ Difficulty: Easy
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>142852154432041540</StartBlock>
-          <Creation>15823600000</Creation>
+          <Creation>47240300000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1024854918265501128</Id>
+            <Id>1067765920985133180</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>951150276558424492</ContractId>
+            <ContractId>971175059152810580</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
             <BlockEndId>142852154432041540</BlockEndId>
           </ContractCondition>
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
+          <ContractName>Combat Mission (Space) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
+Patrol designated position in space and watch for enemies.
 REWARD:
-Money: 90000 SC,
-Reputation: 6,
+Money: 50000 SC,
+Reputation: 4,
 Difficulty: Easy
-(closest to: Moonlet)
+(closest to: Moonlet, dist. to center: 98888km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1002505861544100416</Id>
+          <Id>943876091076101117</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20517,70 +20972,31 @@ Difficulty: Easy
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>73430540981178282</StartBlock>
-          <Creation>16423760000</Creation>
+          <Creation>47240300000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1051665098398987763</Id>
+            <Id>1063461791223119734</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>1002505861544100416</ContractId>
+            <ContractId>943876091076101117</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
             <BlockEndId>73430540981178282</BlockEndId>
           </ContractCondition>
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
+          <ContractName>Combat Mission (Space) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Transport the given cargo to it's destination in space.
-Deliver consumables to designated position in space.
-Deliver coded message to a trade station.
+Patrol designated position in space and watch for enemies.
 REWARD:
-Money: 220000 SC,
-Reputation: 28,
-Difficulty: Moderate
-(closest to: Moonlet)
+Money: 50000 SC,
+Reputation: 4,
+Difficulty: Easy
+(closest to: Moonlet, dist. to center: 98888km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>964419268201884819</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>16423760000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1057683008030102183</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>964419268201884819</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Transport the given cargo to it's destination in space.
-Deliver consumables to designated position in space.
-Deliver coded message to a trade station.
-REWARD:
-Money: 220000 SC,
-Reputation: 28,
-Difficulty: Moderate
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1004576824415360201</Id>
+          <Id>972158783937399554</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20591,13 +21007,13 @@ Difficulty: Moderate
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>73430540981178282</StartBlock>
-          <Creation>17624090000</Creation>
+          <Creation>49040800000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1016758142110722755</Id>
+            <Id>1029779655786989558</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>1004576824415360201</ContractId>
+            <ContractId>972158783937399554</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -20607,15 +21023,18 @@ Difficulty: Moderate
           <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
 Deliver supplies to designated position in space.
+Deliver consumables to designated position in space.
+Transport the given cargo to it's destination in space.
+Deliver coded message to a trade station.
 REWARD:
-Money: 100000 SC,
-Reputation: 4,
+Money: 320000 SC,
+Reputation: 32,
 Difficulty: Moderate
-(closest to: Moonlet)
+(closest to: Moonlet, dist. to center: 109904km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>962274141492715519</Id>
+          <Id>1001034385530983255</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20626,13 +21045,13 @@ Difficulty: Moderate
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>142852154432041540</StartBlock>
-          <Creation>17624090000</Creation>
+          <Creation>49040800000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1079364743185742609</Id>
+            <Id>1051143003404361941</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>962274141492715519</ContractId>
+            <ContractId>1001034385530983255</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -20642,299 +21061,14 @@ Difficulty: Moderate
           <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
 Deliver supplies to designated position in space.
-REWARD:
-Money: 100000 SC,
-Reputation: 4,
-Difficulty: Moderate
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>987323044607516317</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>18224260000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1038650487903660890</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>987323044607516317</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our atmospheric ship at designated position.
-REWARD:
-Money: 90000 SC,
-Reputation: 6,
-Difficulty: Easy
-(planet: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>977948211111502699</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>18224260000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1067957296538274736</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>977948211111502699</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our atmospheric ship at designated position.
-REWARD:
-Money: 90000 SC,
-Reputation: 6,
-Difficulty: Easy
-(planet: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>979990232796885849</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>18824420000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1041319559141929018</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>979990232796885849</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
+Deliver consumables to designated position in space.
 Transport the given cargo to it's destination in space.
-Escort our trade ship to designated position in space.
+Deliver coded message to a trade station.
 REWARD:
-Money: 220000 SC,
-Reputation: 8,
+Money: 320000 SC,
+Reputation: 32,
 Difficulty: Moderate
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>938359800699451861</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>18824420000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1046441847481909463</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>938359800699451861</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Transport the given cargo to it's destination in space.
-Escort our trade ship to designated position in space.
-REWARD:
-Money: 220000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>950362557931544388</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>19424580000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1056665414255571990</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>950362557931544388</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Destroy space ships on designated position.
-Raid hostile trade convoy in space.
-REWARD:
-Money: 270000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>956670560037531352</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>19424580000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1050663392845796694</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>956670560037531352</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Destroy space ships on designated position.
-Raid hostile trade convoy in space.
-REWARD:
-Money: 270000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>972859505660608632</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>20624910000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1033621256932204067</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>972859505660608632</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Rescue &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Find lost ship at designated location in space.
-Rescue escape pod at designated position in space.
-REWARD:
-Money: 340000 SC,
-Reputation: 16,
-Difficulty: Moderate
-(closest to: Moonlet)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>990955726448927045</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>20624910000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1059954444329346054</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>990955726448927045</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Rescue &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Find lost ship at designated location in space.
-Rescue escape pod at designated position in space.
-REWARD:
-Money: 340000 SC,
-Reputation: 16,
-Difficulty: Moderate
-(closest to: Moonlet)
+(closest to: Moonlet, dist. to center: 109904km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
       </InactiveContracts>
@@ -83306,12 +83440,12 @@ Difficulty: Moderate
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>78333</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>39400</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
       <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
-      <LastCoordSysId>32</LastCoordSysId>
+      <LastCoordSysId>33</LastCoordSysId>
       <CoordSystems>
         <CoordSysInfo>
           <Id>18</Id>
@@ -83406,7 +83540,7 @@ Difficulty: Moderate
           <OwnerIdentifier>235341129158470095</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>235341129158470095</OwnerIdentifier>
-            <Balance>51000000000</Balance>
+            <Balance>101000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -83414,7 +83548,7 @@ Difficulty: Moderate
           <OwnerIdentifier>144115188075855900</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855900</OwnerIdentifier>
-            <Balance>51000010000</Balance>
+            <Balance>101000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -83422,7 +83556,7 @@ Difficulty: Moderate
           <OwnerIdentifier>256671340185477285</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>256671340185477285</OwnerIdentifier>
-            <Balance>51000000000</Balance>
+            <Balance>101000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -83430,7 +83564,7 @@ Difficulty: Moderate
           <OwnerIdentifier>284483582766654805</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>284483582766654805</OwnerIdentifier>
-            <Balance>101000000000</Balance>
+            <Balance>51000000000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -83438,7 +83572,7 @@ Difficulty: Moderate
           <OwnerIdentifier>144115188075855902</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855902</OwnerIdentifier>
-            <Balance>50000010000</Balance>
+            <Balance>100000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -83446,7 +83580,7 @@ Difficulty: Moderate
           <OwnerIdentifier>144115188075855901</OwnerIdentifier>
           <Account>
             <OwnerIdentifier>144115188075855901</OwnerIdentifier>
-            <Balance>50000010000</Balance>
+            <Balance>100000010000</Balance>
             <Log />
           </Account>
         </MyObjectBuilder_AccountEntry>
@@ -83875,7 +84009,7 @@ Difficulty: Moderate
           </Account>
         </MyObjectBuilder_AccountEntry>
       </Accounts>
-      <OverallBalance>752742477000</OverallBalance>
+      <OverallBalance>952742477000</OverallBalance>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_NeutralShipSpawner">
       <ShipsInProgress />
@@ -83891,263 +84025,135 @@ Difficulty: Moderate
       <MarkedAreas>
         <EmptyArea>
           <Position>
-            <X>52681053.584255859</X>
-            <Y>4952849.4491436025</Y>
-            <Z>91981310.848616213</Z>
+            <X>98112696.1697013</X>
+            <Y>-9820466.5329886284</Y>
+            <Z>584345.3203700172</Z>
           </Position>
-          <Radius>14693.4531</Radius>
+          <Radius>14872.6289</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>281928717.51767939</X>
-            <Y>-11299561.416450074</Y>
-            <Z>-41465799.706357375</Z>
+            <X>22935916.513663348</X>
+            <Y>1649443.7563273364</Y>
+            <Z>-78460301.153873429</Z>
           </Position>
-          <Radius>14778.1855</Radius>
+          <Radius>15470.043</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>98954103.653974563</X>
-            <Y>2235225.0490447795</Y>
-            <Z>53787698.7111553</Z>
+            <X>95459238.763730884</X>
+            <Y>-6156669.2502852976</Y>
+            <Z>-67384685.521755844</Z>
           </Position>
-          <Radius>11377.5137</Radius>
+          <Radius>11462.4434</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>202142264.24263805</X>
-            <Y>1497525.9248879964</Y>
-            <Z>-137834639.983036</Z>
+            <X>62814384.1401545</X>
+            <Y>-9156346.8802602328</Y>
+            <Z>57898576.324895613</Z>
           </Position>
-          <Radius>11145.0879</Radius>
+          <Radius>8327.896</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>43106012.748828471</X>
-            <Y>14873096.079999659</Y>
-            <Z>-87273540.097650126</Z>
+            <X>103387072.80681044</X>
+            <Y>-8149580.1653189957</Y>
+            <Z>-43382135.30724097</Z>
           </Position>
-          <Radius>14919.1338</Radius>
+          <Radius>10701.4844</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>159279015.72315872</X>
-            <Y>3117752.6068893396</Y>
-            <Z>-84512676.5841042</Z>
+            <X>53009775.4601523</X>
+            <Y>-2747046.7531688879</Y>
+            <Z>-50678208.856926836</Z>
           </Position>
-          <Radius>13211.4141</Radius>
+          <Radius>11548.748</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>69949678.391336113</X>
-            <Y>7282454.0616612965</Y>
-            <Z>10851968.984101849</Z>
+            <X>-40581701.297355115</X>
+            <Y>64030.916366685065</Y>
+            <Z>80094775.267376512</Z>
           </Position>
-          <Radius>12850.917</Radius>
+          <Radius>5122.18262</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>86684260.268817991</X>
-            <Y>2339502.4041681434</Y>
-            <Z>76241838.379001126</Z>
+            <X>32640872.941250551</X>
+            <Y>-9164127.027192384</Y>
+            <Z>118212785.66134658</Z>
           </Position>
-          <Radius>12233.9141</Radius>
+          <Radius>4311.28</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>28910285.325463012</X>
-            <Y>14363684.282161899</Y>
-            <Z>-48693849.29416395</Z>
+            <X>47700190.443910427</X>
+            <Y>-8589636.3217131011</Y>
+            <Z>76792752.546441212</Z>
           </Position>
-          <Radius>15421.3613</Radius>
+          <Radius>15565.9814</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>67574684.949051321</X>
-            <Y>14338578.782007407</Y>
-            <Z>-125520538.53825074</Z>
+            <X>-73362964.7380999</X>
+            <Y>12680679.725609457</Y>
+            <Z>-106487258.03598934</Z>
           </Position>
-          <Radius>8552.417</Radius>
+          <Radius>13397.2646</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>209650387.84686679</X>
-            <Y>481187.91677057877</Y>
-            <Z>-132712543.0291452</Z>
+            <X>144903917.41700378</X>
+            <Y>-13839341.631430063</Y>
+            <Z>-12620595.205406267</Z>
           </Position>
-          <Radius>6164.888</Radius>
+          <Radius>8486.368</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>94859237.917040229</X>
-            <Y>11410077.211547118</Y>
-            <Z>-121708029.06502283</Z>
+            <X>-53596504.76279442</X>
+            <Y>9087848.3981143236</Y>
+            <Z>-74351967.4366976</Z>
           </Position>
-          <Radius>5267.996</Radius>
+          <Radius>6680.987</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>254255133.049078</X>
-            <Y>-14307369.958736703</Y>
-            <Z>74037540.076578081</Z>
+            <X>85728688.501055226</X>
+            <Y>-7110945.6467954563</Y>
+            <Z>-28838057.066201329</Z>
           </Position>
-          <Radius>9279.723</Radius>
+          <Radius>15200.68</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>252005679.46785039</X>
-            <Y>-13614727.484261962</Y>
-            <Z>64495181.749538526</Z>
+            <X>71098022.301790312</X>
+            <Y>-3423240.8859950705</Y>
+            <Z>-73519235.883679226</Z>
           </Position>
-          <Radius>4770.27637</Radius>
+          <Radius>7229.674</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>251257816.08539948</X>
-            <Y>-13776185.516860289</Y>
-            <Z>69408485.1664068</Z>
+            <X>-23916294.064136464</X>
+            <Y>7195752.90222041</Y>
+            <Z>-95682062.916135281</Z>
           </Position>
-          <Radius>15528.0313</Radius>
+          <Radius>13765.0713</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>38163315.531890929</X>
-            <Y>8347486.6810505381</Y>
-            <Z>52935626.315207392</Z>
+            <X>-76757635.2291779</X>
+            <Y>3767379.1656894297</Y>
+            <Z>78568094.144567251</Z>
           </Position>
-          <Radius>5632.262</Radius>
+          <Radius>11086.127</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>228897747.29832518</X>
-            <Y>-11614831.1958012</Y>
-            <Z>70901536.319373652</Z>
-          </Position>
-          <Radius>11302.8242</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>11376565.564137489</X>
-            <Y>11018289.367391745</Y>
-            <Z>53281488.523890108</Z>
-          </Position>
-          <Radius>9103.555</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>234797915.71524617</X>
-            <Y>-7020948.4413277349</Y>
-            <Z>-32776455.603937652</Z>
-          </Position>
-          <Radius>8549.582</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>205901292.24414366</X>
-            <Y>848266.8508145404</Y>
-            <Z>-132367514.5045781</Z>
-          </Position>
-          <Radius>11922.7334</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>168145697.60496745</X>
-            <Y>-6990545.4719399065</Y>
-            <Z>99919921.228863254</Z>
-          </Position>
-          <Radius>12176.9443</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>47372872.451698467</X>
-            <Y>5765992.4537711637</Y>
-            <Z>86334813.021179825</Z>
-          </Position>
-          <Radius>9277.719</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>75984184.610181227</X>
-            <Y>2567139.7897621277</Y>
-            <Z>92900825.984394982</Z>
-          </Position>
-          <Radius>5787.55127</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>51528623.907733053</X>
-            <Y>10131022.508432005</Y>
-            <Z>-9277290.9841061812</Z>
-          </Position>
-          <Radius>8950.635</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>70870369.971246019</X>
-            <Y>6750346.09443956</Y>
-            <Z>19652745.168716785</Z>
-          </Position>
-          <Radius>11416.5332</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>22408935.171665922</X>
-            <Y>15306837.844994351</Y>
-            <Z>-54742636.243218847</Z>
-          </Position>
-          <Radius>8060.8623</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>293340664.38203669</X>
-            <Y>-15887644.09096841</Y>
-            <Z>27471960.055294812</Z>
-          </Position>
-          <Radius>15497.0615</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>185112246.71663687</X>
-            <Y>-6881265.9713750752</Y>
-            <Z>63612816.994227752</Z>
-          </Position>
-          <Radius>7793.52</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>2544993.5801486969</X>
-            <Y>14628432.765057718</Y>
-            <Z>-1446651.4614517351</Z>
-          </Position>
-          <Radius>5403.74756</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>52564997.689757496</X>
-            <Y>14273196.969425557</Y>
-            <Z>-94193527.768026158</Z>
-          </Position>
-          <Radius>14922.6338</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>144165573.36593196</X>
-            <Y>7665341.8752675746</Y>
-            <Z>-145237577.2372154</Z>
-          </Position>
-          <Radius>15654.8389</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>191089922.79681984</X>
-            <Y>-1345709.3197378227</Y>
-            <Z>-59053668.198883235</Z>
-          </Position>
-          <Radius>4856.876</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>148001024.5</X>
+            <X>1024.5</X>
             <Y>1024.5</Y>
             <Z>1024.5</Z>
           </Position>
@@ -84169,194 +84175,170 @@ Difficulty: Moderate
   <CustomSkybox />
   <RequiresDX>11</RequiresDX>
   <VicinityModelsCache>
-    <string>Models\Cubes\Large\WindowEdge.mwm</string>
-    <string>Models\Cubes\Large\GirderStraight.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalkStraight.mwm</string>
-    <string>Models\Cubes\Large\GirderSlope2x1Tip.mwm</string>
-    <string>Models\Cubes\Large\GirderSlope2x1Base.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\1864380341\Models\Cubes\Large\AQD_LG_ConveyorJunction.mwm</string>
-    <string>Models\Cubes\Large\PipeSeamless.mwm</string>
-    <string>Models\Cubes\Large\PipeJunction.mwm</string>
-    <string>Models\Cubes\Large\BridgeWindow1x1Slope.mwm</string>
-    <string>Models\Cubes\Large\HatchDoor.mwm</string>
-    <string>Models\Cubes\Large\Connector.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3013053286\Models\ShipyardConveyorMount_Large.mwm</string>
-    <string>Models\Cubes\Large\LightArmorPanel.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3013053286\Models\ShipyardCorner_Large.mwm</string>
-    <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
-    <string>Models\Cubes\Large\GirderStraightHalf.mwm</string>
-    <string>Models\Cubes\Large\GirderSlopeHalf.mwm</string>
-    <string>Models\Cubes\Large\light.mwm</string>
-    <string>Models\Cubes\Large\BridgeWindow1x1Face.mwm</string>
-    <string>Models\Cubes\Large\ArmorCorner.mwm</string>
-    <string>Models\Cubes\Large\HydrogenTankIndustrial.mwm</string>
-    <string>Models\Cubes\Large\GirderRound.mwm</string>
-    <string>Models\Cubes\Large\OpenCockpitLarge.mwm</string>
-    <string>Models\Cubes\Large\PipeEnd.mwm</string>
-    <string>Models\Cubes\Large\ConveyorSorter.mwm</string>
-    <string>Models\Cubes\Large\ReactorReskinLarge.mwm</string>
-    <string>Models\Cubes\Large\InteriorLight.mwm</string>
-    <string>Models\Cubes\large\Ladder.mwm</string>
-    <string>Models\Cubes\Large\GratedStairs.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalkWall.mwm</string>
-    <string>Models\Cubes\Large\Gate.mwm</string>
-    <string>Models\Cubes\Large\PipeCorner.mwm</string>
-    <string>Models\Cubes\Large\PipeFlange.mwm</string>
-    <string>Models\Cubes\Large\Window1x1Flat.mwm</string>
-    <string>Models\Cubes\Large\NeonTubesBendDown.mwm</string>
-    <string>Models\Cubes\Large\RailingDiagonal.mwm</string>
-    <string>Models\Cubes\Large\PistonTop.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalkCorner.mwm</string>
-    <string>Models\Cubes\Large\OffsetDoor.mwm</string>
-    <string>Models\Cubes\Large\Window1x1FlatInv.mwm</string>
-    <string>Models\Cubes\Large\ArmorInvCorner.mwm</string>
-    <string>Models\Cubes\Large\LockerRoomCorner.mwm</string>
-    <string>Models\Cubes\Large\GirderStraightEnd.mwm</string>
-    <string>Models\Cubes\Large\UpgradeProductivity.mwm</string>
-    <string>Models\Cubes\Large\AdvancedAssemblerIndustrial.mwm</string>
-    <string>Models\Cubes\Large\ArmorSide.mwm</string>
-    <string>Models\Cubes\Large\HangarDoorWarfareA_Base.mwm</string>
-    <string>Models\Cubes\Large\RailingStraight.mwm</string>
-    <string>Models\Cubes\Large\HangarDoorWarfareB_Base.mwm</string>
-    <string>Models\Cubes\Large\CylindricalColumn.mwm</string>
-    <string>Models\Cubes\Large\HangarDoorWarfareC_Base.mwm</string>
-    <string>Models\Cubes\Large\CargoContainer.mwm</string>
-    <string>Models\Cubes\Large\ConveyorSorterReskin.mwm</string>
-    <string>Models\Cubes\Large\GirderSlope.mwm</string>
-    <string>Models\Cubes\Large\PipeNode.mwm</string>
-    <string>Models\Cubes\Large\Shower.mwm</string>
-    <string>Models\Cubes\Large\Bathroom.mwm</string>
+    <string>Models\Cubes\Large\HangarDoor_base.mwm</string>
     <string>Models\Cubes\Large\ConveyorDuct.mwm</string>
-    <string>Models\Cubes\Large\Stairs.mwm</string>
-    <string>Models\Cubes\Large\HeatVent.mwm</string>
-    <string>Models\Cubes\Large\Symbol_6.mwm</string>
-    <string>Models\Cubes\Large\Symbol_5.mwm</string>
-    <string>Models\Cubes\Large\Symbol_3.mwm</string>
-    <string>Models\Cubes\Large\Symbol_4.mwm</string>
-    <string>Models\Cubes\Large\ButtonPanel_SciFi.mwm</string>
-    <string>Models\Cubes\Large\VerticalButtonPanel.mwm</string>
-    <string>Models\Cubes\Large\Ramp.mwm</string>
-    <string>Models\Cubes\Large\Symbol_B.mwm</string>
-    <string>Models\Cubes\Large\ExhaustPipe_Racing.mwm</string>
-    <string>Models\Cubes\Large\WindowSquare.mwm</string>
-    <string>Models\Cubes\Large\Symbol_A.mwm</string>
-    <string>Models\Cubes\Large\LightArmorHalfPanel.mwm</string>
-    <string>Models\Cubes\Large\LightPanel.mwm</string>
-    <string>Models\Cubes\Large\HalfWindowInv.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\1864380341\Models\Cubes\Large\AQD_LG_ConveyorJunction.mwm</string>
+    <string>Models\Cubes\Large\GatlingTurret.mwm</string>
     <string>Models\Cubes\Large\ConveyorDuctCurved.mwm</string>
-    <string>Models\Cubes\Large\MotorStator.mwm</string>
-    <string>Models\Cubes\Large\SoundBlock.mwm</string>
-    <string>Models\Cubes\Large\RotatingLight.mwm</string>
-    <string>Models\Cubes\Large\Lockers.mwm</string>
-    <string>Models\Cubes\Large\OxygenPressurizer.mwm</string>
-    <string>Models\Cubes\Large\NeonTubesStraightEnd2.mwm</string>
-    <string>Models\Cubes\Large\GratedHalfStairs.mwm</string>
-    <string>Models\Cubes\Large\Desk.mwm</string>
-    <string>Models\Cubes\Large\DeskCorner.mwm</string>
+    <string>Models\Cubes\Large\ConveyorDuctT.mwm</string>
+    <string>Models\Cubes\Large\OffsetDoor.mwm</string>
+    <string>Models\Cubes\Large\LightPanel.mwm</string>
+    <string>Models\Cubes\Large\LightArmorPanel.mwm</string>
+    <string>Models\Cubes\Large\HalfGratedCatwalk.mwm</string>
+    <string>Models\Cubes\Large\LightArmorSlopedSidePanel.mwm</string>
+    <string>Models\Cubes\Large\Connector.mwm</string>
+    <string>Models\Cubes\Large\SlideDoor.mwm</string>
+    <string>Models\Cubes\Large\PipeEnd.mwm</string>
+    <string>Models\Cubes\Large\AngledInteriorWallA.mwm</string>
+    <string>Models\Cubes\Large\EventController.mwm</string>
+    <string>Models\Cubes\Large\RemoteControl.mwm</string>
+    <string>Models\Cubes\Large\GirderSlope.mwm</string>
+    <string>Models\Cubes\Large\WallFanVent.mwm</string>
+    <string>Models\Cubes\Large\PipeSeamless.mwm</string>
+    <string>Models\Cubes\Large\PipeworkBlock_Airtight.mwm</string>
+    <string>Models\Cubes\Large\PipeworkBlock.mwm</string>
     <string>Models\Cubes\Large\SciFiWall.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalk.mwm</string>
-    <string>Models\Cubes\Large\WindowWallRight.mwm</string>
-    <string>Models\Cubes\Large\WindowWallLeft.mwm</string>
-    <string>Models\Cubes\Large\WindowWallCenter.mwm</string>
-    <string>Models\Cubes\Large\FoodDispenser.mwm</string>
-    <string>Models\Cubes\Large\Bed.mwm</string>
-    <string>Models\Cubes\Large\CouchCorner.mwm</string>
-    <string>Models\Cubes\Large\PassageStraight.mwm</string>
-    <string>Models\Cubes\Large\GravityGenerator.mwm</string>
-    <string>Models\Cubes\Large\HydrogenEngine.mwm</string>
-    <string>Models\Cubes\Large\MedicalRoom.mwm</string>
-    <string>Models\Cubes\Large\CurvedLCD.mwm</string>
-    <string>Models\Cubes\Large\Viewport2_Racing.mwm</string>
-    <string>Models\Cubes\large\Light_1corner.mwm</string>
-    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
-    <string>Models\Cubes\Large\Planters.mwm</string>
-    <string>Models\Cubes\Large\Viewport_Racing.mwm</string>
-    <string>Models\Cubes\Large\Symbol_1.mwm</string>
-    <string>Models\Cubes\Large\NeonTubesStraightDown.mwm</string>
-    <string>Models\Cubes\Large\NeonTubesStraight1.mwm</string>
-    <string>Models\Cubes\Large\ButtonPanel.mwm</string>
-    <string>Models\Cubes\Large\LCDPanel.mwm</string>
-    <string>Models\Cubes\Large\Symbol_C.mwm</string>
-    <string>Models\Cubes\Large\beacon.mwm</string>
-    <string>Models\Cubes\Large\antenna.mwm</string>
-    <string>Models\Cubes\Large\LaserComBase.mwm</string>
-    <string>Models\Cubes\Large\SolarHydroponics.mwm</string>
-    <string>Models\Cubes\Large\AntennaDish.mwm</string>
-    <string>Models\Cubes\Large\Symbol_2.mwm</string>
-    <string>Models\Cubes\Large\PassageSciFiGate.mwm</string>
-    <string>Models\Cubes\Large\Shelf_1.mwm</string>
-    <string>Models\Cubes\Large\Shelf_2.mwm</string>
-    <string>Models\Cubes\Large\Shelf_3.mwm</string>
-    <string>Models\Cubes\Large\MedicalStation.mwm</string>
+    <string>Models\Cubes\Large\OxygenPressurizerFull.mwm</string>
+    <string>Models\Cubes\Large\RailingStraight.mwm</string>
+    <string>Models\Cubes\Large\Window1x2Flat.mwm</string>
+    <string>Models\Cubes\Large\Window1x1Flat.mwm</string>
+    <string>Models\Cubes\Large\LightArmorHalfPanel.mwm</string>
     <string>Models\Cubes\Large\LabEquipment.mwm</string>
+    <string>Models\Cubes\Large\SimpleMagneticPlate.mwm</string>
+    <string>Models\Cubes\Large\ButtonPanel.mwm</string>
     <string>Models\Cubes\Large\Freight_III.mwm</string>
     <string>Models\Cubes\Large\Freight_II.mwm</string>
-    <string>Models\Cubes\Large\Freight_I.mwm</string>
-    <string>Models\Cubes\Large\Couch.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalkRailingEnd.mwm</string>
+    <string>Models\Cubes\Large\Lockers.mwm</string>
+    <string>Models\Cubes\Large\Shelf_1.mwm</string>
+    <string>Models\Cubes\Large\Planters.mwm</string>
+    <string>Models\Cubes\Large\Crate01.mwm</string>
+    <string>Models\Cubes\Large\InvertedChairlessCornerDesk.mwm</string>
+    <string>Models\Cubes\Large\ProgrammingBlock.mwm</string>
+    <string>Models\Cubes\Large\Barrel01Stack.mwm</string>
+    <string>Models\Cubes\Large\Barrel01Three.mwm</string>
+    <string>Models\Cubes\Large\Barrel01_Large.mwm</string>
+    <string>Models\Cubes\Large\NeonTubesStraightDown.mwm</string>
+    <string>Models\Cubes\Large\NeonTubesStraightEnd1.mwm</string>
     <string>Models\Cubes\Large\OxygenStorage.mwm</string>
     <string>Models\Cubes\Large\OxygenGenerator.mwm</string>
-    <string>Models\Cubes\Large\LightArmorHalfSlopedPanel.mwm</string>
-    <string>Models\Cubes\Large\ATM.mwm</string>
-    <string>O:\SteamLibrary\steamapps\workshop\content\244850\3099943209\Models\ContractsBlock.mwm</string>
-    <string>Models\Cubes\Large\BarCounterCorner_SciFi.mwm</string>
-    <string>Models\Cubes\Large\WeaponRack.mwm</string>
-    <string>Models\Cubes\Large\BarCounter_SciFi.mwm</string>
-    <string>Models\Cubes\Large\Kitchen.mwm</string>
-    <string>Models\Cubes\Large\Jukebox.mwm</string>
-    <string>Models\Cubes\large\Corner_LCD_Flat_2.mwm</string>
-    <string>Models\Cubes\large\Corner_LCD_1.mwm</string>
-    <string>Models\Cubes\Large\ProgrammingBlock.mwm</string>
-    <string>Models\Cubes\Large\NeonTubesStraightEnd1.mwm</string>
-    <string>Models\Cubes\Large\TextPanel.mwm</string>
-    <string>Models\Cubes\Large\TurretControlBlock.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalkRailingHalfLeft.mwm</string>
-    <string>Models\Cubes\Large\GratedCatwalkRailingHalfRight.mwm</string>
-    <string>Models\Cubes\Large\GatlingTurret.mwm</string>
+    <string>Models\Cubes\Large\ReactorReskinSmall.mwm</string>
+    <string>Models\Cubes\Large\HydrogenTankSmall.mwm</string>
+    <string>Models\Cubes\Large\CouchCorner.mwm</string>
+    <string>Models\Cubes\Large\Inset_Aquarium.mwm</string>
+    <string>Models\Cubes\Large\InteriorKitchen.mwm</string>
+    <string>Models\Cubes\Large\Inset_PlantCouch.mwm</string>
+    <string>Models\Cubes\Large\Bed.mwm</string>
+    <string>Models\Cubes\Large\GratedCatwalk.mwm</string>
+    <string>Models\Cubes\Large\PassageSciFi.mwm</string>
+    <string>Models\Cubes\Large\PassageSciFiGate.mwm</string>
+    <string>Models\Cubes\Large\InteriorBookshelf.mwm</string>
+    <string>Models\Cubes\Large\LockerRoom.mwm</string>
+    <string>Models\Cubes\Large\HalfWindow.mwm</string>
+    <string>Models\Cubes\Large\InsetLightBlock.mwm</string>
+    <string>Models\Cubes\Large\AngledInteriorWallB.mwm</string>
+    <string>Models\Cubes\Large\GirderStraightEnd.mwm</string>
+    <string>Models\Cubes\Large\SteelCatwalk_2Sides.mwm</string>
+    <string>Models\Cubes\Large\BridgeWindow1x1Slope.mwm</string>
+    <string>Models\Cubes\Large\HalfWindowInv.mwm</string>
+    <string>Models\Cubes\Large\Window1x1Slope.mwm</string>
+    <string>Models\Cubes\Large\MedicalStation.mwm</string>
+    <string>Models\Cubes\Large\MedicalRoomReskin.mwm</string>
+    <string>Models\Cubes\Large\FullBlockLCD.mwm</string>
+    <string>Models\Cubes\large\Light_1corner.mwm</string>
+    <string>Models\Cubes\Large\LockerRoomCorner.mwm</string>
+    <string>Models\Cubes\Large\TimerBlock.mwm</string>
+    <string>Models\Cubes\Large\VanillaVerticalButtonPanel.mwm</string>
+    <string>Models\Cubes\Large\CargoContainerLarge.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1SlopedSideBasePanel.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1SlopeSideBasePanelInv.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1SlopeSideTipPanel.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1SlopeSideTipPanelInv.mwm</string>
+    <string>Models\Cubes\Large\InteriorLight.mwm</string>
     <string>Models\Cubes\Large\InteriorPillar.mwm</string>
+    <string>Models\Cubes\Large\CylindricalColumn.mwm</string>
+    <string>Models\Cubes\Large\GirderSlope2x1Base.mwm</string>
+    <string>Models\Cubes\Large\GirderStraightHalf.mwm</string>
+    <string>Models\Cubes\Large\GirderSlope2x1Tip.mwm</string>
+    <string>Models\Cubes\Large\antenna.mwm</string>
+    <string>Models\Cubes\Large\ArmorSide.mwm</string>
+    <string>Models\Cubes\Large\OreDetector.mwm</string>
+    <string>Models\Cubes\Large\ExhaustPipe_Racing.mwm</string>
+    <string>Models\Cubes\Large\LaserComBase.mwm</string>
+    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
+    <string>Models\Cubes\Large\BeaconReskin.mwm</string>
+    <string>Models\Cubes\Large\DeskChairless.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1SlopedPanel.mwm</string>
+    <string>Models\Cubes\Large\ArmorCorner.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1HalfSlopedPanelInv.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1HalfSlopedTipPanel.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1HalfSlopedPanel.mwm</string>
+    <string>Models\Cubes\Large\LightArmor2x1HalfSlopedTipPanelInv.mwm</string>
+    <string>Models\Cubes\Large\SolarPanelReskin.mwm</string>
+    <string>Models\Cubes\Large\SolarPanelReskinCorner.mwm</string>
+    <string>Models\Cubes\Large\SolarPanelReskinCornerInverted.mwm</string>
+    <string>Models\Cubes\Large\GirderStraight.mwm</string>
     <string>Models\Cubes\Large\SafeZoneBlock.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2TipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionMirroredTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerSquareINVLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseTriangle.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCorner2BaseBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionBaseMirroredTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipLeft_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlateCorner2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTipRight_OtherBones.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleFront.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
+    <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\LightArmorSlopeTransitionTipMirroredTriangleTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeCornerTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopeRoundPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopedCornerTop.mwm</string>
   </VicinityArmorModelsCache>
-  <VicinityVoxelCache />
+  <VicinityVoxelCache>
+    <string>GasGiantSurface</string>
+  </VicinityVoxelCache>
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

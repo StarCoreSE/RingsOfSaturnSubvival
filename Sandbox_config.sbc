@@ -16,7 +16,7 @@
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>1000000</TotalPCU>
     <PiratePCU>0</PiratePCU>
-    <GlobalEncounterPCU>25000</GlobalEncounterPCU>
+    <GlobalEncounterPCU>0</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
@@ -113,7 +113,7 @@
     <WeatherSystem>false</WeatherSystem>
     <WeatherLightingDamage>false</WeatherLightingDamage>
     <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
-    <TradeFactionsCount>15</TradeFactionsCount>
+    <TradeFactionsCount>0</TradeFactionsCount>
     <StationsDistanceInnerRadius>10000000</StationsDistanceInnerRadius>
     <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
@@ -157,20 +157,19 @@
     <TemporaryContainers>true</TemporaryContainers>
     <GlobalEncounterTimer>0</GlobalEncounterTimer>
     <GlobalEncounterCap>0</GlobalEncounterCap>
-    <GlobalEncounterEnableRemovalTimer>true</GlobalEncounterEnableRemovalTimer>
-    <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
-    <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
-    <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
-    <EncounterDensity>0.35</EncounterDensity>
+    <GlobalEncounterEnableRemovalTimer>false</GlobalEncounterEnableRemovalTimer>
+    <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
+    <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
+    <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
-    <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
-    <PlanetaryEncounterTimerMax>30</PlanetaryEncounterTimerMax>
-    <PlanetaryEncounterExistingStructuresRange>7000</PlanetaryEncounterExistingStructuresRange>
-    <PlanetaryEncounterAreaLockdownRange>10000</PlanetaryEncounterAreaLockdownRange>
-    <PlanetaryEncounterDesiredSpawnRange>6000</PlanetaryEncounterDesiredSpawnRange>
-    <PlanetaryEncounterPresenceRange>20000</PlanetaryEncounterPresenceRange>
-    <PlanetaryEncounterDespawnTimeout>120</PlanetaryEncounterDespawnTimeout>
+    <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
+    <PlanetaryEncounterTimerMax>0</PlanetaryEncounterTimerMax>
+    <PlanetaryEncounterExistingStructuresRange>0</PlanetaryEncounterExistingStructuresRange>
+    <PlanetaryEncounterAreaLockdownRange>0</PlanetaryEncounterAreaLockdownRange>
+    <PlanetaryEncounterDesiredSpawnRange>0</PlanetaryEncounterDesiredSpawnRange>
+    <PlanetaryEncounterPresenceRange>0</PlanetaryEncounterPresenceRange>
+    <PlanetaryEncounterDespawnTimeout>0</PlanetaryEncounterDespawnTimeout>
     <LimitBlocksBy>BlockPairName</LimitBlocksBy>
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
   </Settings>
@@ -492,5 +491,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-16T17:16:02.6105969-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-17T18:29:24.0059286-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
