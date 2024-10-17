@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
@@ -315,6 +315,11 @@
       <PublishedFileId>3347790874</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="DeltaVNebulousRadarAddon">
+      <Name>3350427063.sbm</Name>
+      <PublishedFileId>3350427063</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="DirectionalFoamDispensers">
       <Name>3261299216.sbm</Name>
       <PublishedFileId>3261299216</PublishedFileId>
@@ -358,11 +363,6 @@
     <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
       <Name>3032417765.sbm</Name>
       <PublishedFileId>3032417765</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Nebulous Radar">
-      <Name>3244679803.sbm</Name>
-      <PublishedFileId>3244679803</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Nebulous Radar Framework">
