@@ -1,5 +1,5 @@
-[16:51:52.887] [T1] [DS=False] DEBUG | Log Started
-[16:51:52.960] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[17:36:33.366] [T1] [DS=False] DEBUG | Log Started
+[17:36:33.424] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -908,9 +908,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_SoundBlock/ChetsMagicMusicBox
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/FSDriveSmall
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/FSDriveLarge
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Collector/ShipyardCorner_Large
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Collector/Quantum_Tether
@@ -938,13 +938,13 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/bobzone
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/SC_Display_Table_DS_HOLO
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_TextPanel/SC_Small_Display_Table_DS_HOLO
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_TerminalBlock/SC_Radar_DS_RADAR
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_TerminalBlock/SC_Small_Radar_DS_RADAR
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Decoy/LargeDecoy_MetalFoam
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_CameraBlock/DeepSpaceScannerL
@@ -960,9 +960,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_SmallMissileLauncher/FixedRailgun
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_OxygenGenerator/CP_ProprietaryOxygenGeneratorLarge
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_OxygenGenerator/CP_ProprietaryOxygenGeneratorSmall
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/AQD_LG_GyroBooster
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/AQD_SG_GyroBooster
@@ -1136,6 +1136,20 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_BatteryBlock/SmallBlockPrototechBattery
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Drill/LargeBlockPrototechDrill
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_InteriorTurret/Nerd_JammingBlock
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_TextPanel/Nerd_Radar
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_TextPanel/Nerd_Radar_SG
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_TextPanel/Nerd_Radar_Basic
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_TextPanel/EyeOfSauron
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Beacon/LargeBlockIFFBeacon
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/SmallBlockIFFBeacon
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
