@@ -3,7 +3,7 @@
   <SpaceSpawn>true</SpaceSpawn>
   <SpaceSpawnTimer>900</SpaceSpawnTimer>
   <SpaceSpawnCount>6</SpaceSpawnCount>
-  <SpaceSpawnRadius>8000</SpaceSpawnRadius>
+  <SpaceSpawnRadius>80000</SpaceSpawnRadius>
   <SpaceSpawnPathDistance>4500</SpaceSpawnPathDistance>
   <PlanetSpawn>true</PlanetSpawn>
   <PlanetSpawnTimer>900</PlanetSpawnTimer>
@@ -12,7 +12,7 @@
   <PlanetSpawnRadius>9000</PlanetSpawnRadius>
   <UnknownSpawn>true</UnknownSpawn>
   <UnknownSpawnTimer>1800</UnknownSpawnTimer>
-  <UnknownSpawnRadius>100000</UnknownSpawnRadius>
+  <UnknownSpawnRadius>1000000</UnknownSpawnRadius>
   <SpaceTradeShipRatio>20</SpaceTradeShipRatio>
   <PlanetTradeShipRatio>20</PlanetTradeShipRatio>
   <PlanetBlacklist>Dummy;Fake;Dangerous;RealGasGiant</PlanetBlacklist>

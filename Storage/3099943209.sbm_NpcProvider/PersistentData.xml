@@ -31,4 +31,5 @@
   <Salt>TN4Nwb4H6tjDIfDa</Salt>
   <Export>true</Export>
   <ExportIntervalSeconds>900</ExportIntervalSeconds>
+  <ForceWorldConfig>true</ForceWorldConfig>
 </Persistence>
