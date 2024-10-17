@@ -155,13 +155,13 @@
     <ScrapEnabled>false</ScrapEnabled>
     <BroadcastControllerMaxOfflineTransmitDistance>200</BroadcastControllerMaxOfflineTransmitDistance>
     <TemporaryContainers>true</TemporaryContainers>
-    <GlobalEncounterTimer>15</GlobalEncounterTimer>
-    <GlobalEncounterCap>1</GlobalEncounterCap>
+    <GlobalEncounterTimer>0</GlobalEncounterTimer>
+    <GlobalEncounterCap>0</GlobalEncounterCap>
     <GlobalEncounterEnableRemovalTimer>true</GlobalEncounterEnableRemovalTimer>
     <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
-    <EncounterDensity>0.35</EncounterDensity>
+    <EncounterDensity>0</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
