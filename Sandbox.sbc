@@ -19528,11 +19528,6 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>3013053286</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SiegableSafeZones">
-      <Name>3130441012.sbm</Name>
-      <PublishedFileId>3130441012</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Slipspace Engine">
       <Name>3260158135.sbm</Name>
       <PublishedFileId>3260158135</PublishedFileId>
@@ -19596,6 +19591,11 @@ PaintUnfinishedBlocks=False
     <ModItem FriendlyName="TSTSSESTweaks">
       <Name>3348670359.sbm</Name>
       <PublishedFileId>3348670359</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TSTSSESUnderSiege">
+      <Name>3350080558.sbm</Name>
+      <PublishedFileId>3350080558</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
