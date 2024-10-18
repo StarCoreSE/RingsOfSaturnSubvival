@@ -19526,11 +19526,6 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>2425204399</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Reaction Control System">
-      <Name>2973091771.sbm</Name>
-      <PublishedFileId>2973091771</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - Magellanic">
       <Name>3251198297.sbm</Name>
       <PublishedFileId>3251198297</PublishedFileId>
