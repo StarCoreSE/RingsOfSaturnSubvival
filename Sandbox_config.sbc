@@ -15,7 +15,7 @@
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>0</TotalPCU>
-    <PiratePCU>0</PiratePCU>
+    <PiratePCU>1000000</PiratePCU>
     <GlobalEncounterPCU>0</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>NONE</BlockLimitsEnabled>
