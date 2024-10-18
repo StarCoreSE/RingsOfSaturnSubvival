@@ -240,6 +240,11 @@
       <PublishedFileId>2492809392</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="AQD - Small Grid Expansion">
+      <Name>2678657382.sbm</Name>
+      <PublishedFileId>2678657382</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
       <Name>2621169600.sbm</Name>
       <PublishedFileId>2621169600</PublishedFileId>
