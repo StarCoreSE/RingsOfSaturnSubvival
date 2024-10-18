@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>636528960000</ElapsedGameTime>
+  <ElapsedGameTime>637646240000</ElapsedGameTime>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <SpectatorPosition>
-    <Position x="148000141.80726829" y="-101.97686978988357" z="-57.782107897102868" />
-    <Forward x="-0.9867426" y="-0.09025777" z="-0.13487944" />
-    <Up x="-0.08209835" y="0.9945095" z="-0.06488963" />
+    <Position x="148000141.80726835" y="-101.97686978429559" z="-57.782107871025815" />
+    <Forward x="-0.9867427" y="-0.09025777" z="-0.13487944" />
+    <Up x="-0.08209834" y="0.9945095" z="-0.06488963" />
     <Orientation>
-      <X>-0.0514944568</X>
+      <X>-0.0514944531</X>
       <Y>0.65567416</Y>
-      <Z>0.009672542</Z>
+      <Z>0.009672539</Z>
       <W>0.753223836</W>
     </Orientation>
   </SpectatorPosition>
@@ -21,7 +21,7 @@
   <ControlledObject>118338829513043268</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-10-17T19:08:51.0303482-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-17T19:30:34.424977-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -226,7 +226,6 @@
     <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
-    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
@@ -1174,7 +1173,7 @@ PaintUnfinishedBlocks=False
         </item>
         <item>
           <Key>NPCProviderContracts</Key>
-          <Value xsi:type="xsd:string">964706502694392392;948079317161390446;997500314961447311;969988843477719469;956574787799957213;937262100240118121;977547275299952005;943544897724634718;944055742142196747;986817066217460303;947209296324289546;976598789128438010;946489256301521976;958417263956202148;965306895013223413;953016508585840023;955864417201657132;961920260097944507;991432405922772710;971808681961783517;974674452283697905;983952126606747724;980994197929934898;977934001994758113;966281244093365768;955759144737627871;956351420690819178;939054599098608677;1005648529900517016;979853013932050943;959553787097261275;940865990981837616;950253172325020625;972213767144234936;945849792517922811;956376028350849540;939137232599281801;1007966254543510973;941473009787833294;941958229072764226;1007146966710701376;946739025726925510;982189975073252930;954306061593658142;980608610763494205;963230812207425659;990007299860734004;970179094040463187;987281605803627093;981492457838849524;974564609192536928;949240260683004629;954666654265959488;960454352039708529;945279149883560959;954573538435444665;944843336634926450;956875829168960716;971404920658212897;1006608091539027359</Value>
+          <Value xsi:type="xsd:string">999038809225032466;946004651509274184;966971763690039574;1005438912552220856</Value>
         </item>
         <item>
           <Key>NPCProviderRepResets</Key>
@@ -19625,7 +19624,6 @@ PaintUnfinishedBlocks=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -19634,7 +19632,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>John Enceladus</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:14.3926474-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:24.297319-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19650,11 +19648,11 @@ PaintUnfinishedBlocks=False
       <Model>Astronaut M (2xAccel)</Model>
       <ColorMask x="0.05" y="0.199999988" z="0.388345033" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:14.3926474-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:24.320819-05:00</LastLoginTime>
       <SavedCharacters>
         <long>118338829513043268</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-10-17T19:08:51.0303482-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-10-17T19:30:34.424977-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -19666,7 +19664,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:53.6146451-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:32.4243187-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -19680,7 +19678,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ENC NPC2183</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:14.3926474-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:24.3078189-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:28:38.3656074-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19694,7 +19692,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>GLF NPC8850</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:14.3926474-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:24.3083188-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-01T22:39:00.8826858-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19708,7 +19706,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>ADM NPC1717</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:14.3926474-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:24.3083188-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-02T06:23:11.1914996-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19722,7 +19720,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Dangerous Encounter</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:14.3926474-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:24.3083188-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-07-21T18:43:43.8860693-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19736,7 +19734,7 @@ PaintUnfinishedBlocks=False
       <DisplayName>Great Leader</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-17T18:50:14.3926474-05:00</LastLoginTime>
+      <LastLoginTime>2024-10-17T19:28:24.3083188-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2024-09-03T21:28:39.1026926-05:00</LastLogoutTime>
       <RespawnShips />
@@ -19790,7 +19788,7 @@ PaintUnfinishedBlocks=False
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="118338829513043268">
-              <IsFirstPerson>false</IsFirstPerson>
+              <IsFirstPerson>true</IsFirstPerson>
               <Distance>2.5</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
@@ -19967,8 +19965,6 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -20134,11 +20130,11 @@ PaintUnfinishedBlocks=False
         <dictionary>
           <item>
             <Key>121891778082087523</Key>
-            <Value>410460</Value>
+            <Value>417480</Value>
           </item>
           <item>
             <Key>132948456757758991</Key>
-            <Value>410460</Value>
+            <Value>417480</Value>
           </item>
         </dictionary>
       </NPCGrids>
@@ -20160,7 +20156,7 @@ PaintUnfinishedBlocks=False
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="0.9209204" y="0.38288182" z="0.072850585" />
+      <SunDirectionNormalized x="0.898360431" y="0.4392461" z="-0.00339606917" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-4911161085436634825</PlanetId>
@@ -20278,44 +20274,7 @@ PaintUnfinishedBlocks=False
       <Definition Type="MyObjectBuilder_SessionComponentContractSystemDefinition" Subtype="Default" />
       <InactiveContracts>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>945279149883560959</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>69291210000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1021030061787383738</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>945279149883560959</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 220000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 85917km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>954573538435444665</Id>
+          <Id>1005438912552220856</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -20326,1700 +20285,13 @@ Difficulty: Easy
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>142852154432041540</StartBlock>
-          <Creation>69291210000</Creation>
+          <Creation>599990000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1071050340356275088</Id>
+            <Id>1009544043945100242</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>954573538435444665</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 220000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 85917km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>944843336634926450</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>69891380000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1053312277400477366</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>944843336634926450</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 240000 SC,
-Reputation: 18,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>956875829168960716</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>69891380000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1016980717736496786</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>956875829168960716</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 240000 SC,
-Reputation: 18,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>954666654265959488</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>69291210000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1014203121944425829</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>954666654265959488</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 220000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 85917km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>960454352039708529</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>69291210000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1016596258116870423</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>960454352039708529</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space ships at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 220000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 85917km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>971404920658212897</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>69891380000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1042507867735530864</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>971404920658212897</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 240000 SC,
-Reputation: 18,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1006608091539027359</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>69891380000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1031609809526764734</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>1006608091539027359</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 240000 SC,
-Reputation: 18,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>949240260683004629</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>68691050000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1034510568738210099</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>949240260683004629</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver consumables to designated position in space.
-Escort our trade ship to designated position in space.
-REWARD:
-Money: 110000 SC,
-Reputation: 12,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>974564609192536928</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>68691050000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1047051057235279986</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>974564609192536928</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver consumables to designated position in space.
-Escort our trade ship to designated position in space.
-REWARD:
-Money: 110000 SC,
-Reputation: 12,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>981492457838849524</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>68691050000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1053014755849456824</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>981492457838849524</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver consumables to designated position in space.
-Escort our trade ship to designated position in space.
-REWARD:
-Money: 110000 SC,
-Reputation: 12,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>987281605803627093</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>68691050000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1056092324185274837</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>987281605803627093</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver consumables to designated position in space.
-Escort our trade ship to designated position in space.
-REWARD:
-Money: 110000 SC,
-Reputation: 12,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>970179094040463187</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>68090890000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1015885194474501109</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>970179094040463187</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-Protect our space station at designated position.
-REWARD:
-Money: 620000 SC,
-Reputation: 32,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>990007299860734004</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>68090890000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1065268125498695686</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>990007299860734004</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-Protect our space station at designated position.
-REWARD:
-Money: 620000 SC,
-Reputation: 32,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>963230812207425659</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>68090890000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1063455203189039305</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>963230812207425659</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-Protect our space station at designated position.
-REWARD:
-Money: 620000 SC,
-Reputation: 32,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>980608610763494205</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>68090890000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1080679124750229269</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>980608610763494205</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-Protect our space station at designated position.
-REWARD:
-Money: 620000 SC,
-Reputation: 32,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>954306061593658142</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>67490720000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1028205502260751913</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>954306061593658142</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 80000 SC,
-Reputation: 6,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>982189975073252930</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>67490720000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1026837657029857169</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>982189975073252930</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 80000 SC,
-Reputation: 6,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>946739025726925510</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>67490720000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1044246445578120488</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>946739025726925510</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 80000 SC,
-Reputation: 6,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1007146966710701376</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>67490720000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1052458482333305290</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>1007146966710701376</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 80000 SC,
-Reputation: 6,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>941958229072764226</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>66890560000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1070242162771679602</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>941958229072764226</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our atmospheric ship at designated position.
-Destroy atmospheric ships on designated position.
-REWARD:
-Money: 380000 SC,
-Reputation: 20,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>941473009787833294</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>66890560000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1028604480796086505</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>941473009787833294</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our atmospheric ship at designated position.
-Destroy atmospheric ships on designated position.
-REWARD:
-Money: 380000 SC,
-Reputation: 20,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1007966254543510973</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>66890560000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1037529828471388082</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>1007966254543510973</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our atmospheric ship at designated position.
-Destroy atmospheric ships on designated position.
-REWARD:
-Money: 380000 SC,
-Reputation: 20,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>939137232599281801</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>66890560000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1061746550731925125</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>939137232599281801</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our atmospheric ship at designated position.
-Destroy atmospheric ships on designated position.
-REWARD:
-Money: 380000 SC,
-Reputation: 20,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>956376028350849540</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>66290390000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1044087139057779830</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>956376028350849540</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Escort our trade ship to designated position in space.
-Deliver supplies to designated position in space.
-REWARD:
-Money: 480000 SC,
-Reputation: 24,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 92105km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>945849792517922811</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>66290390000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1072936908356858080</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>945849792517922811</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Escort our trade ship to designated position in space.
-Deliver supplies to designated position in space.
-REWARD:
-Money: 480000 SC,
-Reputation: 24,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 92105km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>972213767144234936</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>66290390000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1065096565250759335</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>972213767144234936</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Escort our trade ship to designated position in space.
-Deliver supplies to designated position in space.
-REWARD:
-Money: 480000 SC,
-Reputation: 24,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 92105km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>950253172325020625</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>66290390000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1042408377383477626</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>950253172325020625</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-Escort our trade ship to designated position in space.
-Deliver supplies to designated position in space.
-REWARD:
-Money: 480000 SC,
-Reputation: 24,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 92105km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>940865990981837616</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>65690230000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1020870704724525724</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>940865990981837616</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our planetary base at designated position.
-REWARD:
-Money: 540000 SC,
-Reputation: 18,
-Difficulty: Hard
-(planet: Moonlet, dist. to center: 98605km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>959553787097261275</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>65690230000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1024088436603562555</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>959553787097261275</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our planetary base at designated position.
-REWARD:
-Money: 540000 SC,
-Reputation: 18,
-Difficulty: Hard
-(planet: Moonlet, dist. to center: 98605km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>979853013932050943</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>65690230000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1035476109619674572</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>979853013932050943</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our planetary base at designated position.
-REWARD:
-Money: 540000 SC,
-Reputation: 18,
-Difficulty: Hard
-(planet: Moonlet, dist. to center: 98605km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>1005648529900517016</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>65690230000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1029857188476832349</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>1005648529900517016</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat &amp; Assistance Mission (Planet) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our planetary base at designated position.
-REWARD:
-Money: 540000 SC,
-Reputation: 18,
-Difficulty: Hard
-(planet: Moonlet, dist. to center: 98605km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>939054599098608677</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>65090060000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1036848840719213946</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>939054599098608677</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space station at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 310000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 129933km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>956351420690819178</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>65090060000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1064158222711083248</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>956351420690819178</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space station at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 310000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 129933km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>955759144737627871</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>65090060000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1032245073118804011</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>955759144737627871</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space station at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 310000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 129933km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>966281244093365768</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>65090060000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1076925476508184505</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>966281244093365768</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Protect our space station at designated position.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 310000 SC,
-Reputation: 16,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 129933km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>977934001994758113</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>64489900000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1069626196306067715</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>977934001994758113</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-REWARD:
-Money: 100000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>980994197929934898</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>64489900000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1043688275114285912</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>980994197929934898</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-REWARD:
-Money: 100000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>983952126606747724</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>64489900000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1015780902973833165</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>983952126606747724</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-REWARD:
-Money: 100000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>974674452283697905</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>64489900000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1017778572130418718</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>974674452283697905</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Patrol designated position in space and watch for enemies.
-REWARD:
-Money: 100000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 109904km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>971808681961783517</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>63889740000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1018354051590933051</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>971808681961783517</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Transport the given cargo to it's destination in space.
-REWARD:
-Money: 200000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 90728km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>991432405922772710</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>63889740000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1049722567902421084</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>991432405922772710</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Transport the given cargo to it's destination in space.
-REWARD:
-Money: 200000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 90728km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>961920260097944507</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>63889740000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1048104658885432279</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>961920260097944507</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Transport the given cargo to it's destination in space.
-REWARD:
-Money: 200000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 90728km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>955864417201657132</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>63889740000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1043198624549461301</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>955864417201657132</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Transport Mission (Space) (ECO-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Transport the given cargo to it's destination in space.
-REWARD:
-Money: 200000 SC,
-Reputation: 8,
-Difficulty: Moderate
-(closest to: Moonlet, dist. to center: 90728km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>953016508585840023</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>63289570000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1039448071161365024</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>953016508585840023</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat Mission (Planet) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position on the planet.
-REWARD:
-Money: 160000 SC,
-Reputation: 12,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 117009km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>965306895013223413</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>63289570000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1062904169523637168</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>965306895013223413</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat Mission (Planet) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position on the planet.
-REWARD:
-Money: 160000 SC,
-Reputation: 12,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 117009km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>958417263956202148</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>63289570000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1050382180936024504</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>958417263956202148</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat Mission (Planet) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position on the planet.
-REWARD:
-Money: 160000 SC,
-Reputation: 12,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 117009km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>946489256301521976</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>63289570000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1009465089932768646</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>946489256301521976</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="PlanetContract" />
-          <ContractName>Combat Mission (Planet) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Assassinate your targets at the designated position on the planet.
-REWARD:
-Money: 160000 SC,
-Reputation: 12,
-Difficulty: Moderate
-(planet: Moonlet, dist. to center: 117009km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>976598789128438010</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>62689410000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1068556000904760827</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>976598789128438010</ContractId>
+            <ContractId>1005438912552220856</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -22028,17 +20300,18 @@ Difficulty: Moderate
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
           <ContractName>Rescue &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Find requested materials in local asteroids.
+Find lost ship at designated location in space.
+Rescue escape pod at designated position in space.
 Rescue ship at designated position in space.
 REWARD:
-Money: 320000 SC,
-Reputation: 16,
-Difficulty: Moderate
+Money: 230000 SC,
+Reputation: 14,
+Difficulty: Easy
 (closest to: Moonlet, dist. to center: 146109km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>947209296324289546</Id>
+          <Id>966971763690039574</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -22049,13 +20322,13 @@ Difficulty: Moderate
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>73430540981178282</StartBlock>
-          <Creation>62689410000</Creation>
+          <Creation>599990000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1024627351788546093</Id>
+            <Id>1042396961053453496</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>947209296324289546</ContractId>
+            <ContractId>966971763690039574</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -22064,17 +20337,18 @@ Difficulty: Moderate
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
           <ContractName>Rescue &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Find requested materials in local asteroids.
+Find lost ship at designated location in space.
+Rescue escape pod at designated position in space.
 Rescue ship at designated position in space.
 REWARD:
-Money: 320000 SC,
-Reputation: 16,
-Difficulty: Moderate
+Money: 230000 SC,
+Reputation: 14,
+Difficulty: Easy
 (closest to: Moonlet, dist. to center: 146109km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>986817066217460303</Id>
+          <Id>946004651509274184</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -22085,13 +20359,13 @@ Difficulty: Moderate
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>96207911883839758</StartBlock>
-          <Creation>62689410000</Creation>
+          <Creation>599990000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1040612146346474124</Id>
+            <Id>1034430405997491334</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>986817066217460303</ContractId>
+            <ContractId>946004651509274184</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -22100,17 +20374,18 @@ Difficulty: Moderate
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
           <ContractName>Rescue &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Find requested materials in local asteroids.
+Find lost ship at designated location in space.
+Rescue escape pod at designated position in space.
 Rescue ship at designated position in space.
 REWARD:
-Money: 320000 SC,
-Reputation: 16,
-Difficulty: Moderate
+Money: 230000 SC,
+Reputation: 14,
+Difficulty: Easy
 (closest to: Moonlet, dist. to center: 146109km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
         <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>944055742142196747</Id>
+          <Id>999038809225032466</Id>
           <IsPlayerMade>true</IsPlayerMade>
           <State>Inactive</State>
           <Owners />
@@ -22121,13 +20396,13 @@ Difficulty: Moderate
           <StartFaction>0</StartFaction>
           <StartStation>0</StartStation>
           <StartBlock>89542080863802434</StartBlock>
-          <Creation>62689410000</Creation>
+          <Creation>599990000</Creation>
           <TicksToDiscard xsi:nil="true" />
           <RemainingTimeInS>72000</RemainingTimeInS>
           <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1044667408029831237</Id>
+            <Id>1044021789415770330</Id>
             <IsFinished>false</IsFinished>
-            <ContractId>944055742142196747</ContractId>
+            <ContractId>999038809225032466</ContractId>
             <SubId>0</SubId>
             <StationEndId>0</StationEndId>
             <FactionEndId>0</FactionEndId>
@@ -22136,317 +20411,14 @@ Difficulty: Moderate
           <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
           <ContractName>Rescue &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
           <ContractDescription>OBJECTIVES:
-Find requested materials in local asteroids.
+Find lost ship at designated location in space.
+Rescue escape pod at designated position in space.
 Rescue ship at designated position in space.
 REWARD:
-Money: 320000 SC,
-Reputation: 16,
-Difficulty: Moderate
+Money: 230000 SC,
+Reputation: 14,
+Difficulty: Easy
 (closest to: Moonlet, dist. to center: 146109km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>943544897724634718</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>62089240000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1076117703446510140</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>943544897724634718</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Assistance &amp; Transport Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Deliver consumables to designated position in space.
-Transport the given cargo to it's destination in space.
-Recover black box at designated position in space (enemies may arrive if you are not fast enough).
-REWARD:
-Money: 630000 SC,
-Reputation: 48,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>977547275299952005</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>62089240000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1018165184847246788</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>977547275299952005</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Assistance &amp; Transport Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Deliver consumables to designated position in space.
-Transport the given cargo to it's destination in space.
-Recover black box at designated position in space (enemies may arrive if you are not fast enough).
-REWARD:
-Money: 630000 SC,
-Reputation: 48,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>937262100240118121</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>62089240000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1028000203842922523</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>937262100240118121</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Assistance &amp; Transport Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Deliver consumables to designated position in space.
-Transport the given cargo to it's destination in space.
-Recover black box at designated position in space (enemies may arrive if you are not fast enough).
-REWARD:
-Money: 630000 SC,
-Reputation: 48,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>956574787799957213</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>62089240000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1053532933298283162</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>956574787799957213</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Assistance &amp; Transport Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Deliver supplies to designated position in space.
-Deliver consumables to designated position in space.
-Transport the given cargo to it's destination in space.
-Recover black box at designated position in space (enemies may arrive if you are not fast enough).
-REWARD:
-Money: 630000 SC,
-Reputation: 48,
-Difficulty: Hard
-(closest to: Moonlet, dist. to center: 81761km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>969988843477719469</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>142852154432041540</StartBlock>
-          <Creation>61489080000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1069349328112125609</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>969988843477719469</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>142852154432041540</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Rescue ship at designated position in space.
-Escort our trade ship to designated position in space.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 250000 SC,
-Reputation: 18,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 117009km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>997500314961447311</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>73430540981178282</StartBlock>
-          <Creation>61489080000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1074740111573667501</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>997500314961447311</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>73430540981178282</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Rescue ship at designated position in space.
-Escort our trade ship to designated position in space.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 250000 SC,
-Reputation: 18,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 117009km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>948079317161390446</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>96207911883839758</StartBlock>
-          <Creation>61489080000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1057863507271686152</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>948079317161390446</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>96207911883839758</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Rescue ship at designated position in space.
-Escort our trade ship to designated position in space.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 250000 SC,
-Reputation: 18,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 117009km)
-</ContractDescription>
-        </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
-        <MyAbstractXmlSerializerOfMyObjectBuilder_Contract xsi:type="MyObjectBuilder_ContractCustom">
-          <Id>964706502694392392</Id>
-          <IsPlayerMade>true</IsPlayerMade>
-          <State>Inactive</State>
-          <Owners />
-          <RewardMoney>0</RewardMoney>
-          <RewardReputation>0</RewardReputation>
-          <StartingDeposit>0</StartingDeposit>
-          <FailReputationPrice>0</FailReputationPrice>
-          <StartFaction>0</StartFaction>
-          <StartStation>0</StartStation>
-          <StartBlock>89542080863802434</StartBlock>
-          <Creation>61489080000</Creation>
-          <TicksToDiscard xsi:nil="true" />
-          <RemainingTimeInS>72000</RemainingTimeInS>
-          <ContractCondition xsi:type="MyObjectBuilder_ContractConditionCustom">
-            <Id>1079137269405705754</Id>
-            <IsFinished>false</IsFinished>
-            <ContractId>964706502694392392</ContractId>
-            <SubId>0</SubId>
-            <StationEndId>0</StationEndId>
-            <FactionEndId>0</FactionEndId>
-            <BlockEndId>89542080863802434</BlockEndId>
-          </ContractCondition>
-          <DefinitionId Type="MyObjectBuilder_ContractTypeDefinition" Subtype="SpaceContract" />
-          <ContractName>Combat &amp; Assistance Mission (Space) (GLF-NPC)</ContractName>
-          <ContractDescription>OBJECTIVES:
-Rescue ship at designated position in space.
-Escort our trade ship to designated position in space.
-Patrol designated position in space and watch for enemies.
-Assassinate your targets at the designated position in space.
-REWARD:
-Money: 250000 SC,
-Reputation: 18,
-Difficulty: Easy
-(closest to: Moonlet, dist. to center: 117009km)
 </ContractDescription>
         </MyAbstractXmlSerializerOfMyObjectBuilder_Contract>
       </InactiveContracts>
@@ -84818,7 +82790,7 @@ Difficulty: Easy
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>67633</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>63983</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -85409,6 +83381,14 @@ Difficulty: Easy
       <MarkedAreas>
         <EmptyArea>
           <Position>
+            <X>95459238.763730884</X>
+            <Y>-6156669.2502852976</Y>
+            <Z>-67384685.521755844</Z>
+          </Position>
+          <Radius>11462.4434</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
             <X>22935916.513663348</X>
             <Y>1649443.7563273364</Y>
             <Z>-78460301.153873429</Z>
@@ -85425,19 +83405,11 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>95459238.763730884</X>
-            <Y>-6156669.2502852976</Y>
-            <Z>-67384685.521755844</Z>
+            <X>144903917.41700378</X>
+            <Y>-13839341.631430063</Y>
+            <Z>-12620595.205406267</Z>
           </Position>
-          <Radius>11462.4434</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>98112696.1697013</X>
-            <Y>-9820466.5329886284</Y>
-            <Z>584345.3203700172</Z>
-          </Position>
-          <Radius>14872.6289</Radius>
+          <Radius>8486.368</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -85449,19 +83421,11 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>144903917.41700378</X>
-            <Y>-13839341.631430063</Y>
-            <Z>-12620595.205406267</Z>
+            <X>98112696.1697013</X>
+            <Y>-9820466.5329886284</Y>
+            <Z>584345.3203700172</Z>
           </Position>
-          <Radius>8486.368</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
-            <X>62814384.1401545</X>
-            <Y>-9156346.8802602328</Y>
-            <Z>57898576.324895613</Z>
-          </Position>
-          <Radius>8327.896</Radius>
+          <Radius>14872.6289</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -85470,6 +83434,14 @@ Difficulty: Easy
             <Z>-50678208.856926836</Z>
           </Position>
           <Radius>11548.748</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>62814384.1401545</X>
+            <Y>-9156346.8802602328</Y>
+            <Z>57898576.324895613</Z>
+          </Position>
+          <Radius>8327.896</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -85505,14 +83477,6 @@ Difficulty: Easy
         </EmptyArea>
         <EmptyArea>
           <Position>
-            <X>-40581701.297355115</X>
-            <Y>64030.916366685065</Y>
-            <Z>80094775.267376512</Z>
-          </Position>
-          <Radius>5122.18262</Radius>
-        </EmptyArea>
-        <EmptyArea>
-          <Position>
             <X>103387072.80681044</X>
             <Y>-8149580.1653189957</Y>
             <Z>-43382135.30724097</Z>
@@ -85526,6 +83490,14 @@ Difficulty: Easy
             <Z>78568094.144567251</Z>
           </Position>
           <Radius>11086.127</Radius>
+        </EmptyArea>
+        <EmptyArea>
+          <Position>
+            <X>-40581701.297355115</X>
+            <Y>64030.916366685065</Y>
+            <Z>80094775.267376512</Z>
+          </Position>
+          <Radius>5122.18262</Radius>
         </EmptyArea>
         <EmptyArea>
           <Position>
@@ -85709,44 +83681,41 @@ Difficulty: Easy
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2BaseBottom.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Base.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateInvCorner2TipBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlateInvCorner2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateInvCorner2TipRight.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateInvCorner2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopeRoundPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerRoundTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\FaceRoundTrianglePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerRoundTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopedCornerBaseTriangle.mwm</string>
+    <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
