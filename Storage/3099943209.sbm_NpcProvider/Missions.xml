@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-16"?>
+<NpcMissionConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MissionsEnabled>true</MissionsEnabled>
+  <SpaceMissionRatio>70</SpaceMissionRatio>
+  <MaxMissionCount>15</MaxMissionCount>
+  <MissionSpawnRate>3600</MissionSpawnRate>
+  <MissionDistanceFromEntitiesMin>1000</MissionDistanceFromEntitiesMin>
+  <MissionDistanceFromEntitiesMax>2000</MissionDistanceFromEntitiesMax>
+  <CargoContainers>
+    <string>(NPC-CIV) Cargo Module A</string>
+    <string>(NPC-CIV) Cargo Module B</string>
+  </CargoContainers>
+  <EscapePods>
+    <string>(NPC-CIV) Escape Pod A</string>
+    <string>(NPC-CIV) Escape Pod B</string>
+  </EscapePods>
+  <BlackBoxes>
+    <string>(NPC-CIV) Black Box A</string>
+    <string>(NPC-CIV) Black Box B</string>
+  </BlackBoxes>
+  <DisabledShips>
+    <string>(NPC-CIV) Disabled Ship</string>
+  </DisabledShips>
+  <SpaceCombatStations>
+    <string>(NPC-CIV) Space Station</string>
+  </SpaceCombatStations>
+  <SpaceDeliveryStations>
+    <string>(NPC-CIV) Space Station</string>
+  </SpaceDeliveryStations>
+  <PlanetaryDeliveryStations>
+    <string>(NPC-CIV) Planetary Station</string>
+  </PlanetaryDeliveryStations>
+  <PlanetaryRecoveryStations>
+    <string>(NPC-CIV) Planetary Station</string>
+  </PlanetaryRecoveryStations>
+  <DeliveryMaterialsList>
+    <string>Ingot;Cobalt;3000</string>
+    <string>Ingot;Gold;44000</string>
+    <string>Ingot;Iron;300</string>
+    <string>Ingot;Platinum;230000</string>
+    <string>Ingot;Silver;4900</string>
+    <string>Ingot;Uranium;150000</string>
+    <string>Ingot;Magnesium;64000</string>
+    <string>Component;Construction;1500</string>
+    <string>Component;Detector;8000</string>
+    <string>Component;Explosives;100000</string>
+    <string>Component;Girder;1100</string>
+    <string>Component;GravityGenerator;1200000</string>
+    <string>Component;InteriorPlate;550</string>
+    <string>Component;LargeTube;6000</string>
+    <string>Component;Medical;130000</string>
+    <string>Component;MetalGrid;10500</string>
+    <string>Component;Motor;6500</string>
+    <string>Component;PowerCell;3200</string>
+    <string>Component;Reactor;26000</string>
+    <string>Component;SmallTube;900</string>
+    <string>Component;SolarCell;1200</string>
+    <string>Component;Superconductor;79600</string>
+    <string>Component;Thrust;135300</string>
+  </DeliveryMaterialsList>
+  <DeliverySuppliesList>
+    <string>Consumable;ClangCola;100</string>
+    <string>Consumable;CosmicCoffee;100</string>
+    <string>Consumable;Powerkit;1000</string>
+    <string>Consumable;Medkit;750</string>
+  </DeliverySuppliesList>
+  <DestroyShipReward>100000;4</DestroyShipReward>
+  <DestroyStationReward>200000;4</DestroyStationReward>
+  <CombatPatrolReward>50000;4</CombatPatrolReward>
+  <AssassinateReward>80000;6</AssassinateReward>
+  <RescuePodReward>50000;6</RescuePodReward>
+  <RescueShipReward>60000;6</RescueShipReward>
+  <RescueBlackBoxReward>60000;2</RescueBlackBoxReward>
+  <DeliveryReward>50000;2</DeliveryReward>
+  <FoodDeliveryReward>50000;10</FoodDeliveryReward>
+  <TransportReward>50000;2</TransportReward>
+  <FindGridReward>120000;2</FindGridReward>
+  <FindMaterialReward>100000;2</FindMaterialReward>
+  <ProtectShipReward>90000;6</ProtectShipReward>
+  <ProtectStationReward>180000;6</ProtectStationReward>
+  <EscortReward>60000;2</EscortReward>
+  <ExploreAbandonedReward>50000;4</ExploreAbandonedReward>
+  <TradeStationContactReward>10000;2</TradeStationContactReward>
+  <LootRewardsPerSc>0</LootRewardsPerSc>
+  <LootRewardsList />
+  <PlanetBlacklist>Dummy;Fake;Hidden</PlanetBlacklist>
+  <IdleLifetime>1800</IdleLifetime>
+  <GlobalMissionPositions>true</GlobalMissionPositions>
+</NpcMissionConfig>

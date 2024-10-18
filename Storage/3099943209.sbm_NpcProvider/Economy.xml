@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<EconomyConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EconomyEnabled>true</EconomyEnabled>
+  <EconomyRefresh>1200</EconomyRefresh>
+  <EconomyStations />
+  <NoDefaultSellGrids>false</NoDefaultSellGrids>
+  <MercenariesEnabled>false</MercenariesEnabled>
+  <MercenariesCreditCost>150000000</MercenariesCreditCost>
+  <MercenariesReputationCost>200</MercenariesReputationCost>
+  <GenerateOffers>5</GenerateOffers>
+  <PlanetBlacklist>Dummy;Fake;Dangerous</PlanetBlacklist>
+  <ReputationOfferModifier>1</ReputationOfferModifier>
+  <WreckageOfferModifier>1</WreckageOfferModifier>
+  <InvestmentEconomyOfferModifier>1</InvestmentEconomyOfferModifier>
+  <InvestmentMilitaryOfferModifier>1</InvestmentMilitaryOfferModifier>
+  <FreePortOfferModifier>1</FreePortOfferModifier>
+  <FreePortPercentage>0.2</FreePortPercentage>
+</EconomyConfiguration>

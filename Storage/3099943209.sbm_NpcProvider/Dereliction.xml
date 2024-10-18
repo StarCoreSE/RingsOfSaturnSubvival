@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Dereliction xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NpcDerelictionEnabled>false</NpcDerelictionEnabled>
+  <DerelictToWreckageRatio>30</DerelictToWreckageRatio>
+  <BlockDamagedChance>80</BlockDamagedChance>
+  <BlockDestroyedChance>30</BlockDestroyedChance>
+  <DangerousDerelicts>false</DangerousDerelicts>
+  <DangerousDerelictsRatio>5</DangerousDerelictsRatio>
+  <DerelictOnDeathBlocksMissing>false</DerelictOnDeathBlocksMissing>
+  <DerelictOnDeathNoPowerBlocksMissing>false</DerelictOnDeathNoPowerBlocksMissing>
+  <DerelictOnDeathNoPower>false</DerelictOnDeathNoPower>
+  <DerelictLarge>true</DerelictLarge>
+  <DerelictSmall>false</DerelictSmall>
+  <DerelictStatic>false</DerelictStatic>
+</Dereliction>
