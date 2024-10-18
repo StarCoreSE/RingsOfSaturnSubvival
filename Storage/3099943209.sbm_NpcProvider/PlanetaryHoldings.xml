@@ -3,5 +3,5 @@
   <DynamicConquests>false</DynamicConquests>
   <PlanetSieges />
   <PlanetaryOwners />
-  <PlanetBlacklist>Dummy;Fake;Hidden</PlanetBlacklist>
+  <PlanetBlacklist>Dummy;Fake;Hidden;RealGasGiant</PlanetBlacklist>
 </PlanetaryHoldings>

@@ -4,11 +4,11 @@
   <EconomyRefresh>1200</EconomyRefresh>
   <EconomyStations />
   <NoDefaultSellGrids>false</NoDefaultSellGrids>
-  <MercenariesEnabled>false</MercenariesEnabled>
+  <MercenariesEnabled>true</MercenariesEnabled>
   <MercenariesCreditCost>150000000</MercenariesCreditCost>
   <MercenariesReputationCost>200</MercenariesReputationCost>
   <GenerateOffers>5</GenerateOffers>
-  <PlanetBlacklist>Dummy;Fake;Dangerous</PlanetBlacklist>
+  <PlanetBlacklist>Dummy;Fake;Dangerous;RealGasGiant</PlanetBlacklist>
   <ReputationOfferModifier>1</ReputationOfferModifier>
   <WreckageOfferModifier>1</WreckageOfferModifier>
   <InvestmentEconomyOfferModifier>1</InvestmentEconomyOfferModifier>
