@@ -8,17 +8,17 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
-    <TotalPCU>1000000</TotalPCU>
+    <TotalPCU>0</TotalPCU>
     <PiratePCU>0</PiratePCU>
     <GlobalEncounterPCU>0</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
-    <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
+    <BlockLimitsEnabled>NONE</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
@@ -161,6 +161,7 @@
     <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
+    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
@@ -491,5 +492,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-17T18:49:17.2761436-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-17T19:08:51.0303482-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
