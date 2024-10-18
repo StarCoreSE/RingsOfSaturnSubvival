@@ -73,7 +73,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -226,6 +226,7 @@
     <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
+    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
@@ -19420,9 +19421,9 @@ PaintUnfinishedBlocks=False
       <PublishedFileId>806331071</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Cast Spectator">
-      <Name>2968491433.sbm</Name>
-      <PublishedFileId>2968491433</PublishedFileId>
+    <ModItem FriendlyName="Cast Spectator - StarCore">
+      <Name>3299682578.sbm</Name>
+      <PublishedFileId>3299682578</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="CharacterCollisionDamageDisabler">
@@ -19636,6 +19637,7 @@ PaintUnfinishedBlocks=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -19977,6 +19979,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -84282,4 +84286,7 @@ Difficulty: Moderate
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
