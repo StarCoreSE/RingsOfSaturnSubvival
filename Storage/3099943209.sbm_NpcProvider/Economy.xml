@@ -2,7 +2,53 @@
 <EconomyConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <EconomyEnabled>true</EconomyEnabled>
   <EconomyRefresh>1200</EconomyRefresh>
-  <EconomyStations />
+  <EconomyStations>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_1</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>148000064</X>
+        <Y>-121.513985</Y>
+        <Z>-93.7056656</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>GLFStarterTradeStation</StationName>
+      <TradePrefabs>
+        <string>GLF Fighter</string>
+        <string>GLF Frigate</string>
+        <string>GLF Miner</string>
+        <string>GLF Fighter</string>
+        <string>GLF Frigate</string>
+        <string>GLF Miner</string>
+      </TradePrefabs>
+      <HeadquartersFactionTag>GLF-NPC</HeadquartersFactionTag>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_2</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-148000048</X>
+        <Y>775.4771</Y>
+        <Z>31.63636</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>ECOStarterTradeStation</StationName>
+      <TradePrefabs>
+        <string>ECO Fighter</string>
+        <string>ECO Frigate</string>
+        <string>ECO Miner</string>
+      </TradePrefabs>
+      <HeadquartersFactionTag>ECO-NPC</HeadquartersFactionTag>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+  </EconomyStations>
   <NoDefaultSellGrids>false</NoDefaultSellGrids>
   <MercenariesEnabled>true</MercenariesEnabled>
   <MercenariesCreditCost>150000000</MercenariesCreditCost>
