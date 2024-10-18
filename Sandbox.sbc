@@ -15444,43 +15444,6 @@ PaintUnfinishedBlocks=False
         </DamageInflicted>
       </MyObjectBuilder_Faction>
       <MyObjectBuilder_Faction>
-        <FactionId>239180431131899742</FactionId>
-        <Tag>FCTM</Tag>
-        <Name>The Factorum</Name>
-        <Description>The creators of Prototech. They’ve returned from the edge of known space to seek revenge.</Description>
-        <PrivateInfo />
-        <Members>
-          <MyObjectBuilder_FactionMember>
-            <PlayerId>144115188075855903</PlayerId>
-            <IsLeader>true</IsLeader>
-            <IsFounder>true</IsFounder>
-          </MyObjectBuilder_FactionMember>
-          <MyObjectBuilder_FactionMember>
-            <PlayerId>144115188075855935</PlayerId>
-            <IsLeader>false</IsLeader>
-            <IsFounder>false</IsFounder>
-          </MyObjectBuilder_FactionMember>
-        </Members>
-        <JoinRequests />
-        <AutoAcceptMember>false</AutoAcceptMember>
-        <AutoAcceptPeace>false</AutoAcceptPeace>
-        <AcceptHumans>false</AcceptHumans>
-        <EnableFriendlyFire>false</EnableFriendlyFire>
-        <FactionType>None</FactionType>
-        <FactionTypeString>None</FactionTypeString>
-        <Stations />
-        <CustomColor x="0" y="-0.8" z="-0.450000018" />
-        <IconColor x="0" y="-0.8" z="0.55" />
-        <FactionIcon>Textures/FactionLogo/FCTM.png</FactionIcon>
-        <TransferedPCUDelta>0</TransferedPCUDelta>
-        <Score>0</Score>
-        <ObjectivePercentageCompleted>0</ObjectivePercentageCompleted>
-        <FactionIconWorkshopId xsi:nil="true" />
-        <DamageInflicted>
-          <dictionary />
-        </DamageInflicted>
-      </MyObjectBuilder_Faction>
-      <MyObjectBuilder_Faction>
         <FactionId>241391400220713830</FactionId>
         <Tag>UNKN</Tag>
         <Name>Unknown</Name>
