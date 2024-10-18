@@ -6,11 +6,11 @@
   <SpectatorPosition>
     <Position x="-147999960.93014529" y="828.11522877961374" z="93.898341752588735" />
     <Forward x="-0.478132457" y="-0.566891432" z="-0.6708379" />
-    <Up x="-0.407552749" y="0.819795251" z="-0.402289033" />
+    <Up x="-0.407552779" y="0.819795251" z="-0.402289033" />
     <Orientation>
       <X>-0.268034875</X>
       <Y>0.304529756</Y>
-      <Z>0.135128349</Z>
+      <Z>0.135128364</Z>
       <W>0.903968632</W>
     </Orientation>
   </SpectatorPosition>
@@ -76,7 +76,7 @@
     <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
-    <MaxBackupSaves>5</MaxBackupSaves>
+    <MaxBackupSaves>0</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>0</TotalPCU>
@@ -226,6 +226,7 @@
     <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
+    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
@@ -19624,6 +19625,7 @@ PaintUnfinishedBlocks=False
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -19965,6 +19967,8 @@ PaintUnfinishedBlocks=False
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -83948,4 +83952,7 @@ Shield: No.
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
