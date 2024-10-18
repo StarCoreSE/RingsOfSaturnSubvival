@@ -161,9 +161,8 @@
     <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
-    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
-    <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
+    <EnablePlanetaryEncounters>false</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
     <PlanetaryEncounterTimerMax>0</PlanetaryEncounterTimerMax>
     <PlanetaryEncounterExistingStructuresRange>0</PlanetaryEncounterExistingStructuresRange>
@@ -492,5 +491,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-17T21:38:51.7217575-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-18T04:03:20.8527765-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
