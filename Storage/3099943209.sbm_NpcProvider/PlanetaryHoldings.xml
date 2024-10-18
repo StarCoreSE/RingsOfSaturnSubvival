@@ -16,5 +16,5 @@
       <PlanetEntityId>-4911161085436634825</PlanetEntityId>
     </PlanetaryOwner>
   </PlanetaryOwners>
-  <PlanetBlacklist>Dummy;Fake;Hidden</PlanetBlacklist>
+  <PlanetBlacklist>Dummy;Fake;Hidden;RealGasGiant</PlanetBlacklist>
 </PlanetaryHoldings>
