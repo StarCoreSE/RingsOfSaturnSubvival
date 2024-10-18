@@ -8,10 +8,10 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
-    <MaxBackupSaves>5</MaxBackupSaves>
+    <MaxBackupSaves>0</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>0</TotalPCU>
@@ -491,5 +491,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-17T19:38:56.4741309-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-17T20:57:33.2252398-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
