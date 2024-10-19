@@ -29,7 +29,7 @@
     </MilitaryStats>
   </MilitaryModifiers>
   <Salt>1upm1RzvPkzZv6VC</Salt>
-  <Export>false</Export>
+  <Export>true</Export>
   <ExportIntervalSeconds>900</ExportIntervalSeconds>
   <ForceWorldConfig>true</ForceWorldConfig>
 </Persistence>
