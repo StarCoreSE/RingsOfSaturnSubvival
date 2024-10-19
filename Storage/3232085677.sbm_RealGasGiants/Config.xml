@@ -20,7 +20,7 @@
         <HasRing>true</HasRing>
         <RingSkin>Default2</RingSkin>
         <RingNormal X="1" Y="10" Z="0.5" />
-        <RingColor X="50" Y="50" Z="50" />
+        <RingColor X="10" Y="10" Z="10" />
         <RingLightMult>0.1</RingLightMult>
         <RingShadowMult>0.1</RingShadowMult>
         <RingInnerScale>1.2</RingInnerScale>
