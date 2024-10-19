@@ -40,12 +40,12 @@
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>false</EnableContainerDrops>
-    <SpawnShipTimeMultiplier>2</SpawnShipTimeMultiplier>
+    <SpawnShipTimeMultiplier>1</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
-    <ViewDistance>20000</ViewDistance>
+    <ViewDistance>50000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
     <EnableOxygen>true</EnableOxygen>
@@ -161,6 +161,7 @@
     <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
+    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>false</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
@@ -481,5 +482,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-19T01:24:11.6748951-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-19T01:57:30.3967268-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
