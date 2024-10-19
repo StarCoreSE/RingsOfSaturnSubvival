@@ -1,5 +1,5 @@
-[20:36:31.421] [T1] [DS=False] DEBUG | Log Started
-[20:36:31.474] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[21:37:46.640] [T1] [DS=False] DEBUG | Log Started
+[21:37:46.680] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1130,6 +1130,8 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ShipConnector/AQD_SG_ConnectorSmall
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/SlipspaceCoreSmall
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/SlipspaceCoreLarge
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
