@@ -2,7 +2,534 @@
 <EconomyConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <EconomyEnabled>true</EconomyEnabled>
   <EconomyRefresh>1200</EconomyRefresh>
-  <EconomyStations />
+  <EconomyStations>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_4</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-6.886348E+07</X>
+        <Y>-18172734</Y>
+        <Z>-19673292</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>ECO-NPC Space Base</StationName>
+      <TradePrefabs>
+        <string>ECO Fighter</string>
+        <string>ECO Frigate</string>
+        <string>ECO Miner</string>
+      </TradePrefabs>
+      <HeadquartersFactionTag>ECO-NPC</HeadquartersFactionTag>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_OrbitalStation_5</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>25182094</X>
+        <Y>15556277</Y>
+        <Z>9.930859E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>GLF-NPC Space Outpost</StationName>
+      <TradePrefabs>
+        <string>GLF Fighter</string>
+        <string>GLF Frigate</string>
+        <string>GLF Miner</string>
+      </TradePrefabs>
+      <HeadquartersFactionTag>GLF-NPC</HeadquartersFactionTag>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>6.28191E+07</X>
+        <Y>-9161121</Y>
+        <Z>57884204</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Complex 1</StationName>
+      <TradePrefabs>
+        <string>B-60 Bulk Freighter</string>
+        <string>Ion Constructor</string>
+        <string>MinerSmallShip</string>
+        <string>LCC-3 Freighter</string>
+        <string>H-01 Sapper</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_2</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>1.448936E+08</X>
+        <Y>-13833505</Y>
+        <Z>-12609606</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Facility 1</StationName>
+      <TradePrefabs>
+        <string>MinerSmallShip</string>
+        <string>Burstfire Bomber</string>
+        <string>Red Cruiser</string>
+        <string>Ion Constructor</string>
+        <string>Ion Tug Ship</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-7.334437E+07</X>
+        <Y>12684392</Y>
+        <Z>-106470176</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Depot 1</StationName>
+      <TradePrefabs>
+        <string>T-Ion Fade</string>
+        <string>Ion Constructor</string>
+        <string>H-01 Sapper</string>
+        <string>Gerbil Miner</string>
+        <string>LCC-3 Freighter</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_OrbitalStation_4</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-73378056</X>
+        <Y>12691735</Y>
+        <Z>-1.064699E+08</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Terminal 2</StationName>
+      <TradePrefabs>
+        <string>MiniMerchant</string>
+        <string>Scout Miner</string>
+        <string>Ion Light Scout</string>
+        <string>B-980 Hauler</string>
+        <string>TT-420 Freighter</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_OrbitalStation_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-5.359195E+07</X>
+        <Y>9097461</Y>
+        <Z>-7.435895E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Outpost 1</StationName>
+      <TradePrefabs>
+        <string>Blue Ambassador Explorer</string>
+        <string>TT-420 Freighter</string>
+        <string>LCC-3 Freighter</string>
+        <string>Cargo Shuttle</string>
+        <string>Cursor</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_OrbitalStation_5</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>9.808507E+07</X>
+        <Y>-9815174</Y>
+        <Z>587700.3</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Outpost 1</StationName>
+      <TradePrefabs>
+        <string>Red Cruiser</string>
+        <string>Gerbil Miner</string>
+        <string>Burstfire Bomber</string>
+        <string>Kite Miner</string>
+        <string>Scout Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>9.810359E+07</X>
+        <Y>-9822982</Y>
+        <Z>557636.75</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Hub 2</StationName>
+      <TradePrefabs>
+        <string>Blue Ambassador Explorer</string>
+        <string>TT-420 Freighter</string>
+        <string>B-60 Bulk Freighter</string>
+        <string>Scout Miner</string>
+        <string>B-980 Hauler</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>53001916</X>
+        <Y>-2728208.5</Y>
+        <Z>-5.067001E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Spaceport 1</StationName>
+      <TradePrefabs>
+        <string>T-Ion Fade</string>
+        <string>H-01 Prospector</string>
+        <string>Burstfire Bomber</string>
+        <string>Red Cruiser</string>
+        <string>Ion Tug Ship</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_OrbitalStation_6</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-4.059099E+07</X>
+        <Y>61505.3242</Y>
+        <Z>8.009636E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Station 1</StationName>
+      <TradePrefabs>
+        <string>Scout Miner</string>
+        <string>MinerSmallShip</string>
+        <string>Ion Light Scout</string>
+        <string>H-01 Sapper</string>
+        <string>Turtle Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_OrbitalStation_7</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>7.11077E+07</X>
+        <Y>-3415349.25</Y>
+        <Z>-7.352505E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Complex 1</StationName>
+      <TradePrefabs>
+        <string>Fighter2</string>
+        <string>B-60 Bulk Freighter</string>
+        <string>Gerbil Miner</string>
+        <string>Burstfire Bomber</string>
+        <string>Scout Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_5</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-23917794</X>
+        <Y>7174183</Y>
+        <Z>-9.56969E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Habitat 1</StationName>
+      <TradePrefabs>
+        <string>Burstfire Bomber</string>
+        <string>T-Ion Fade</string>
+        <string>Ion Constructor</string>
+        <string>Cargo Shuttle</string>
+        <string>H-01 Prospector</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>true</Planetary>
+      <Prefab>Economy_Outpost_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-23924886</X>
+        <Y>7204975.5</Y>
+        <Z>-9.5687E+07</Z>
+      </Position>
+      <VerticalOffset>22</VerticalOffset>
+      <StationName>Moonlet Complex 2</StationName>
+      <TradePrefabs>
+        <string>U-92 Patrol Craft</string>
+        <string>Hydro Scout Rover</string>
+        <string>Cursor</string>
+        <string>Lunar Scout mk.2</string>
+        <string>Lunar Scout mk.4</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_MiningStation_1</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>103390760</X>
+        <Y>-8159956</Y>
+        <Z>-4.339929E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Installation 1</StationName>
+      <TradePrefabs>
+        <string>Fighter2</string>
+        <string>Kite Miner</string>
+        <string>MinerSmallShip</string>
+        <string>Scout Miner</string>
+        <string>Gerbil Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_4</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>-76743976</X>
+        <Y>3781139.5</Y>
+        <Z>7.855973E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Complex 1</StationName>
+      <TradePrefabs>
+        <string>H-01 Sapper</string>
+        <string>Kite Miner</string>
+        <string>Cursor</string>
+        <string>Red Cruiser</string>
+        <string>Blue Ambassador Explorer</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_OrbitalStation_4</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>22962414</X>
+        <Y>1661891.38</Y>
+        <Z>-7.846365E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Spaceport 1</StationName>
+      <TradePrefabs>
+        <string>MinerSmallShip</string>
+        <string>Kite Miner</string>
+        <string>Scout Miner</string>
+        <string>Burstfire Bomber</string>
+        <string>Ion Constructor</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>true</Planetary>
+      <Prefab>Economy_Outpost_2</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>2.292763E+07</X>
+        <Y>1641049.25</Y>
+        <Z>-78469944</Z>
+      </Position>
+      <VerticalOffset>60</VerticalOffset>
+      <StationName>Moonlet Outpost 2</StationName>
+      <TradePrefabs>
+        <string>Burstfire Bomber</string>
+        <string>Hydro Scout Rover</string>
+        <string>Lunar Scout mk.4</string>
+        <string>PV-4 Buggy</string>
+        <string>Gerbil Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_1</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>9.545342E+07</X>
+        <Y>-6175627.5</Y>
+        <Z>-6.737555E+07</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Base 1</StationName>
+      <TradePrefabs>
+        <string>Burstfire Bomber</string>
+        <string>Turtle Miner</string>
+        <string>MinerSmallShip</string>
+        <string>TT-420 Freighter</string>
+        <string>Gerbil Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_MiningStation_2</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>8.574553E+07</X>
+        <Y>-7126898</Y>
+        <Z>-28855384</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Terminal 1</StationName>
+      <TradePrefabs>
+        <string>MinerSmallShip</string>
+        <string>Blue Ambassador Explorer</string>
+        <string>TT-420 Freighter</string>
+        <string>Kite Miner</string>
+        <string>Burstfire Bomber</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_SpaceStation_2</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>8.572902E+07</X>
+        <Y>-7091661</Y>
+        <Z>-28859652</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Terminal 2</StationName>
+      <TradePrefabs>
+        <string>Scout Miner</string>
+        <string>Turtle Miner</string>
+        <string>Burstfire Bomber</string>
+        <string>Cargo Shuttle</string>
+        <string>Ion Tug Ship</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_MiningStation_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>32645646</X>
+        <Y>-9169599</Y>
+        <Z>118208952</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Complex 1</StationName>
+      <TradePrefabs>
+        <string>Ion Constructor</string>
+        <string>LCC-3 Freighter</string>
+        <string>Fighter2</string>
+        <string>MinerSmallShip</string>
+        <string>Turtle Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>false</Planetary>
+      <Prefab>Economy_MiningStation_3</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>4.767908E+07</X>
+        <Y>-8570170</Y>
+        <Z>76800136</Z>
+      </Position>
+      <VerticalOffset>0</VerticalOffset>
+      <StationName>Moonlet Space Station 1</StationName>
+      <TradePrefabs>
+        <string>Kite Miner</string>
+        <string>Gerbil Miner</string>
+        <string>J-Class Courier</string>
+        <string>Ion Constructor</string>
+        <string>MinerSmallShip</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+    <EconomyStation>
+      <Planetary>true</Planetary>
+      <Prefab>Economy_Outpost_6</Prefab>
+      <HasSafeZone>true</HasSafeZone>
+      <Position>
+        <X>4.768962E+07</X>
+        <Y>-8588053</Y>
+        <Z>7.680369E+07</Z>
+      </Position>
+      <VerticalOffset>32</VerticalOffset>
+      <StationName>Moonlet Station 2</StationName>
+      <TradePrefabs>
+        <string>U-92 Patrol Craft</string>
+        <string>Rescue Rover 1</string>
+        <string>PV-4 Buggy</string>
+        <string>TT-420 Freighter</string>
+        <string>Buddy Miner</string>
+      </TradePrefabs>
+      <FreePort>false</FreePort>
+      <SiegedTimes>0</SiegedTimes>
+      <FreePortKey>0</FreePortKey>
+    </EconomyStation>
+  </EconomyStations>
   <NoDefaultSellGrids>false</NoDefaultSellGrids>
   <MercenariesEnabled>true</MercenariesEnabled>
   <MercenariesCreditCost>150000000</MercenariesCreditCost>
