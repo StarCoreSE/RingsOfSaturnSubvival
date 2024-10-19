@@ -1,5 +1,5 @@
-[16:15:11.162] [T1] [DS=False] DEBUG | Log Started
-[16:15:11.222] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[20:36:31.421] [T1] [DS=False] DEBUG | Log Started
+[20:36:31.474] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1106,7 +1106,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Collector/ShipyardCorner_Large
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/SlipspaceDriveLarge
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Collector/SC_RCS_Computer
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Collector/SC_RCS_Computer_small
@@ -1116,6 +1116,20 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_OxygenGenerator/AdminGrid_OxygenGenerator
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_SafeZoneBlock/AdminGrid_SafeZone
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Assembler/AQD_SG_BasicAssembler
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Refinery/AQD_SG_BasicRefinery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_GravityGenerator/AQD_SG_GravityGenerator
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_JumpDrive/AQD_SG_Jumpdrive
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_CryoChamber/AQD_SG_OpenBed
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ShipConnector/AQD_SG_ConnectorSmall
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_UpgradeModule/SlipspaceCoreSmall
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
