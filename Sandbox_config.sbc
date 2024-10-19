@@ -40,7 +40,7 @@
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>false</EnableContainerDrops>
-    <SpawnShipTimeMultiplier>0</SpawnShipTimeMultiplier>
+    <SpawnShipTimeMultiplier>2</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
