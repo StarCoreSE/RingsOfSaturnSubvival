@@ -5,6 +5,7 @@
   <SetGlobalNoAsteroids>true</SetGlobalNoAsteroids>
   <CanSpawnOnGasGiants>false</CanSpawnOnGasGiants>
   <UseLensFlareOccluder>true</UseLensFlareOccluder>
+  <RingParticleLevel>1</RingParticleLevel>
   <GasGiantInfoList>
     <GasGiantConfigInfo PlanetName="RealGasGiant-12345d1000--4911161085436634825">
       <PlanetCustomName>Saturn</PlanetCustomName>
@@ -26,7 +27,7 @@
         <RingInnerScale>1.2</RingInnerScale>
         <RingOuterScale>2.5</RingOuterScale>
         <RingLayerSpacingScale>0.001</RingLayerSpacingScale>
-        <RingRotationPeriodSeconds>7200</RingRotationPeriodSeconds>
+        <RingRotationPeriodSeconds>72000</RingRotationPeriodSeconds>
         <ConstrainNearbyAsteroidsToRing>true</ConstrainNearbyAsteroidsToRing>
       </RingInfo>
       <InteriorInfo>
