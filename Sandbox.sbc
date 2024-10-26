@@ -6,7 +6,7 @@
   <SpectatorPosition>
     <Position x="148000219.03256494" y="-450.7761728540064" z="-193.16206286102539" />
     <Forward x="-0.5773503" y="-0.577350259" z="-0.577350259" />
-    <Up x="-0.4082483" y="0.8164966" z="-0.408248276" />
+    <Up x="-0.408248276" y="0.8164966" z="-0.408248246" />
     <Orientation>
       <X>-0.279848129</X>
       <Y>0.3647052</Y>
@@ -211,6 +211,7 @@
     <GlobalEncounterMinRemovalTimer>0</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>0</GlobalEncounterMaxRemovalTimer>
     <GlobalEncounterRemovalTimeClock>0</GlobalEncounterRemovalTimeClock>
+    <EncounterDensity>0.35</EncounterDensity>
     <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
     <EnablePlanetaryEncounters>false</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
@@ -5537,6 +5538,11 @@ MaxStockAmount=50
       <PublishedFileId>3326052965</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="NPC.Pack.Factorum">
+      <Name>3355235773.sbm</Name>
+      <PublishedFileId>3355235773</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="NPC.Pack.GanymedeLiberationFront">
       <Name>3326053117.sbm</Name>
       <PublishedFileId>3326053117</PublishedFileId>
@@ -5653,6 +5659,7 @@ MaxStockAmount=50
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -5961,6 +5968,8 @@ MaxStockAmount=50
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -69386,4 +69395,7 @@ MaxStockAmount=50
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
