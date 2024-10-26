@@ -13,6 +13,10 @@
       <FactionTag>Danger</FactionTag>
       <Modifier>1</Modifier>
     </EconomyStats>
+    <EconomyStats>
+      <FactionTag>FCTM</FactionTag>
+      <Modifier>1</Modifier>
+    </EconomyStats>
   </EconomyModifiers>
   <MilitaryModifiers>
     <MilitaryStats>
@@ -25,6 +29,10 @@
     </MilitaryStats>
     <MilitaryStats>
       <FactionTag>Danger</FactionTag>
+      <FleetPower>100</FleetPower>
+    </MilitaryStats>
+    <MilitaryStats>
+      <FactionTag>FCTM</FactionTag>
       <FleetPower>100</FleetPower>
     </MilitaryStats>
   </MilitaryModifiers>
