@@ -1,5 +1,5 @@
-[01:54:56.469] [T1] [DS=False] DEBUG | Log Started
-[01:54:56.526] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[13:40:25.050] [T1] [DS=False] DEBUG | Log Started
+[13:40:25.144] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1132,6 +1132,10 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/SlipspaceCoreSmall
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/SlipspaceCoreLarge
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/Quantum_Tether_Small
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/Quantum_Tether_Medium
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components

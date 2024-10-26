@@ -541,5 +541,6 @@
   <InvestmentEconomyOfferModifier>1</InvestmentEconomyOfferModifier>
   <InvestmentMilitaryOfferModifier>1</InvestmentMilitaryOfferModifier>
   <FreePortOfferModifier>1</FreePortOfferModifier>
+  <ConvoyOfferModifier>1</ConvoyOfferModifier>
   <FreePortPercentage>0.2</FreePortPercentage>
 </EconomyConfiguration>

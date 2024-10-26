@@ -8,7 +8,7 @@
   <SectorEvents>
     <Events />
   </SectorEvents>
-  <AppVersion>1205024</AppVersion>
+  <AppVersion>1205026</AppVersion>
   <Environment>
     <SunAzimuth>-0.5028429</SunAzimuth>
     <SunElevation>0.7892078</SunElevation>
@@ -66,11 +66,11 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
-      <EntityId>-3706498348359949180</EntityId>
+      <EntityId>4111922261962160278</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-1131093347d12725.69--3706498348359949180</Name>
+      <Name>Moonlet-1257304096d21997.62-4111922261962160278</Name>
       <PositionAndOrientation>
-        <Position x="-53604697.26279442" y="9079655.8981143236" z="-74360159.9366976" />
+        <Position x="52993390.9601523" y="-2763431.2531688879" z="-50694593.356926836" />
         <Forward x="-0" y="-0" z="-1" />
         <Up x="0" y="1" z="0" />
         <Orientation>
@@ -103,12 +103,12 @@
       <BoulderItemId xsi:nil="true" />
       <CreatedByUser>false</CreatedByUser>
       <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-1131093347d12725.69</StorageName>
-      <Radius>6362.84473</Radius>
+      <StorageName>Moonlet-1257304096d21997.62</StorageName>
+      <Radius>10998.8076</Radius>
       <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>11134.9785</AtmosphereRadius>
-      <MinimumSurfaceRadius>6490.10156</MinimumSurfaceRadius>
-      <MaximumHillRadius>6680.987</MaximumHillRadius>
+      <AtmosphereRadius>19247.9141</AtmosphereRadius>
+      <MinimumSurfaceRadius>11218.7842</MinimumSurfaceRadius>
+      <MaximumHillRadius>11548.748</MaximumHillRadius>
       <AtmosphereWavelengths>
         <X>0.65</X>
         <Y>0.57</Y>
@@ -154,7 +154,7 @@
       <ShowGPS>false</ShowGPS>
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>1131093347</Seed>
+      <Seed>1257304096</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -250,98 +250,6 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
-      <EntityId>-4988778591372963440</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-395410119d28328.82--4988778591372963440</Name>
-      <PositionAndOrientation>
-        <Position x="98096311.6697013" y="-9836851.0329886284" z="567960.8203700172" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-395410119d28328.82</StorageName>
-      <Radius>14164.4082</Radius>
-      <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>24787.7148</AtmosphereRadius>
-      <MinimumSurfaceRadius>14447.6963</MinimumSurfaceRadius>
-      <MaximumHillRadius>14872.6289</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </RayleighScattering>
-        <MieScattering>0</MieScattering>
-        <MieColorScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </MieColorScattering>
-        <RayleighHeight>0</RayleighHeight>
-        <RayleighHeightSpace>0</RayleighHeightSpace>
-        <RayleighTransitionModifier>0</RayleighTransitionModifier>
-        <MieHeight>0</MieHeight>
-        <MieG>0.999832332</MieG>
-        <Intensity>0</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>0</SeaLevelModifier>
-        <AtmosphereTopModifier>0</AtmosphereTopModifier>
-        <Scale>0</Scale>
-        <SunColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>0.3</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>395410119</Seed>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
       <EntityId>-6867809433423417836</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>Moonlet-77971888d25518.6--6867809433423417836</Name>
@@ -434,11 +342,11 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
-      <EntityId>4111922261962160278</EntityId>
+      <EntityId>-4988778591372963440</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-1257304096d21997.62-4111922261962160278</Name>
+      <Name>Moonlet-395410119d28328.82--4988778591372963440</Name>
       <PositionAndOrientation>
-        <Position x="52993390.9601523" y="-2763431.2531688879" z="-50694593.356926836" />
+        <Position x="98096311.6697013" y="-9836851.0329886284" z="567960.8203700172" />
         <Forward x="-0" y="-0" z="-1" />
         <Up x="0" y="1" z="0" />
         <Orientation>
@@ -471,12 +379,12 @@
       <BoulderItemId xsi:nil="true" />
       <CreatedByUser>false</CreatedByUser>
       <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-1257304096d21997.62</StorageName>
-      <Radius>10998.8076</Radius>
+      <StorageName>Moonlet-395410119d28328.82</StorageName>
+      <Radius>14164.4082</Radius>
       <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>19247.9141</AtmosphereRadius>
-      <MinimumSurfaceRadius>11218.7842</MinimumSurfaceRadius>
-      <MaximumHillRadius>11548.748</MaximumHillRadius>
+      <AtmosphereRadius>24787.7148</AtmosphereRadius>
+      <MinimumSurfaceRadius>14447.6963</MinimumSurfaceRadius>
+      <MaximumHillRadius>14872.6289</MaximumHillRadius>
       <AtmosphereWavelengths>
         <X>0.65</X>
         <Y>0.57</Y>
@@ -522,262 +430,15 @@
       <ShowGPS>false</ShowGPS>
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>1257304096</Seed>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
-      <SubtypeName>Default_Astronaut</SubtypeName>
-      <EntityId>118338829513043268</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>118338829513043268</Name>
-      <PositionAndOrientation>
-        <Position x="1251055.908203017" y="171323951.49139783" z="2933155.4429063206" />
-        <Forward x="-0.03389336" y="-0.9980205" z="-0.05297443" />
-        <Up x="0.01601085" y="0.0524558425" z="-0.998494864" />
-        <Orientation>
-          <X>-0.6880892</X>
-          <Y>0.00678678835</Y>
-          <Z>-0.0174739771</Z>
-          <W>0.725383937</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyEntityStatComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
-              <Stats>
-                <MyObjectBuilder_EntityStat>
-                  <SubtypeName>SpaceCharacterHealth</SubtypeName>
-                  <Value>1</Value>
-                  <MaxValue>1</MaxValue>
-                  <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
-                  <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
-                </MyObjectBuilder_EntityStat>
-              </Stats>
-              <ScriptNames>
-                <string>SpaceStatEffect</string>
-              </ScriptNames>
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyAssetModifierComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
-              <AssetModifiers>
-                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="VeteranMarkII_Boots" />
-                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="VeteranMarkII_Helmet" />
-                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Suit" />
-                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Gloves" />
-              </AssetModifiers>
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyInventoryBase</TypeId>
-            <Component xsi:type="MyObjectBuilder_Inventory">
-              <CanPutItems>true</CanPutItems>
-              <Items>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>AngleGrinderItem</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>0</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>HandDrillItem</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>1</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>WelderItem</SubtypeName>
-                    <GunEntity xsi:type="MyObjectBuilder_Welder">
-                      <SubtypeName>Welder</SubtypeName>
-                      <EntityId>111735936740831630</EntityId>
-                      <PersistentFlags>None</PersistentFlags>
-                    </GunEntity>
-                  </PhysicalContent>
-                  <ItemId>2</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>AutomaticRifleItem</SubtypeName>
-                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                      <SubtypeName>RifleGun</SubtypeName>
-                      <EntityId>0</EntityId>
-                      <PersistentFlags>None</PersistentFlags>
-                    </GunEntity>
-                  </PhysicalContent>
-                  <ItemId>3</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>PhysicalPaintGun</SubtypeName>
-                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                      <SubtypeName>PaintGun</SubtypeName>
-                      <EntityId>117118786876551035</EntityId>
-                      <PersistentFlags>None</PersistentFlags>
-                      <GunBase>
-                        <InventoryItemId>4</InventoryItemId>
-                        <RemainingAmmo>1</RemainingAmmo>
-                        <CurrentAmmoMagazineName>PaintGunMag</CurrentAmmoMagazineName>
-                        <RemainingAmmosList />
-                        <LastShootTime>0</LastShootTime>
-                      </GunBase>
-                    </GunEntity>
-                  </PhysicalContent>
-                  <ItemId>4</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>99988</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                    <SubtypeName>PaintGunMag</SubtypeName>
-                    <ProjectilesCount>0</ProjectilesCount>
-                  </PhysicalContent>
-                  <ItemId>5</ItemId>
-                </MyObjectBuilder_InventoryItem>
-              </Items>
-              <nextItemId>6</nextItemId>
-              <Volume>0.4</Volume>
-              <Mass>9223372036854.775807</Mass>
-              <MaxItemCount>2147483647</MaxItemCount>
-              <Size xsi:nil="true" />
-              <InventoryFlags />
-              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <CharacterModel>Astronaut M (2xAccel)</CharacterModel>
-      <Inventory>
-        <CanPutItems>true</CanPutItems>
-        <Items>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>AngleGrinderItem</SubtypeName>
-            </PhysicalContent>
-            <ItemId>0</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>HandDrillItem</SubtypeName>
-            </PhysicalContent>
-            <ItemId>1</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>WelderItem</SubtypeName>
-              <GunEntity xsi:type="MyObjectBuilder_Welder">
-                <SubtypeName>Welder</SubtypeName>
-                <EntityId>111735936740831630</EntityId>
-                <PersistentFlags>None</PersistentFlags>
-              </GunEntity>
-            </PhysicalContent>
-            <ItemId>2</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>AutomaticRifleItem</SubtypeName>
-              <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                <SubtypeName>RifleGun</SubtypeName>
-                <EntityId>0</EntityId>
-                <PersistentFlags>None</PersistentFlags>
-              </GunEntity>
-            </PhysicalContent>
-            <ItemId>3</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>PhysicalPaintGun</SubtypeName>
-              <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
-                <SubtypeName>PaintGun</SubtypeName>
-                <EntityId>117118786876551035</EntityId>
-                <PersistentFlags>None</PersistentFlags>
-                <GunBase>
-                  <InventoryItemId>4</InventoryItemId>
-                  <RemainingAmmo>1</RemainingAmmo>
-                  <CurrentAmmoMagazineName>PaintGunMag</CurrentAmmoMagazineName>
-                  <RemainingAmmosList />
-                  <LastShootTime>0</LastShootTime>
-                </GunBase>
-              </GunEntity>
-            </PhysicalContent>
-            <ItemId>4</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>99988</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-              <SubtypeName>PaintGunMag</SubtypeName>
-              <ProjectilesCount>0</ProjectilesCount>
-            </PhysicalContent>
-            <ItemId>5</ItemId>
-          </MyObjectBuilder_InventoryItem>
-        </Items>
-        <nextItemId>6</nextItemId>
-        <Volume>0.4</Volume>
-        <Mass>9223372036854.775807</Mass>
-        <MaxItemCount>2147483647</MaxItemCount>
-        <Size xsi:nil="true" />
-        <InventoryFlags />
-        <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-      </Inventory>
-      <Battery>
-        <CurrentCapacity>1E-05</CurrentCapacity>
-        <RegenEffects />
-      </Battery>
-      <LightEnabled>true</LightEnabled>
-      <UsingLadder xsi:nil="true" />
-      <HeadAngle x="0" y="0" />
-      <LinearVelocity x="0" y="0" z="0" />
-      <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
-      <JetpackEnabled>true</JetpackEnabled>
-      <ColorMaskHSV x="0.05" y="0.199999988" z="0.388345033" />
-      <LootingCounter>0</LootingCounter>
-      <DisplayName>Invalid</DisplayName>
-      <IsInFirstPersonView>true</IsInFirstPersonView>
-      <EnableBroadcasting>true</EnableBroadcasting>
-      <OxygenLevel>1</OxygenLevel>
-      <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
-      <StoredGases>
-        <StoredGas>
-          <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
-          <FillLevel>1</FillLevel>
-        </StoredGas>
-        <StoredGas>
-          <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-          <FillLevel>1</FillLevel>
-        </StoredGas>
-      </StoredGases>
-      <MovementState>Flying</MovementState>
-      <EnabledComponents>
-        <string>InventorySpawnComponent</string>
-        <string>RagdollComponent</string>
-      </EnabledComponents>
-      <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
-      <OwningPlayerIdentityId>144115188075855895</OwningPlayerIdentityId>
-      <IsPersistenceCharacter>true</IsPersistenceCharacter>
-      <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
-      <RelativeDampeningEntity>0</RelativeDampeningEntity>
-      <UsingLadderInfo xsi:nil="true" />
-      <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
+      <Seed>395410119</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
-      <EntityId>2765773094208422425</EntityId>
+      <EntityId>-3706498348359949180</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-659369233d9756.538-2765773094208422425</Name>
+      <Name>Moonlet-1131093347d12725.69--3706498348359949180</Name>
       <PositionAndOrientation>
-        <Position x="-40589893.797355115" y="55838.416366685065" z="80086582.767376512" />
+        <Position x="-53604697.26279442" y="9079655.8981143236" z="-74360159.9366976" />
         <Forward x="-0" y="-0" z="-1" />
         <Up x="0" y="1" z="0" />
         <Orientation>
@@ -810,12 +471,12 @@
       <BoulderItemId xsi:nil="true" />
       <CreatedByUser>false</CreatedByUser>
       <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-659369233d9756.538</StorageName>
-      <Radius>4878.269</Radius>
+      <StorageName>Moonlet-1131093347d12725.69</StorageName>
+      <Radius>6362.84473</Radius>
       <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>8536.971</AtmosphereRadius>
-      <MinimumSurfaceRadius>4975.83447</MinimumSurfaceRadius>
-      <MaximumHillRadius>5122.18262</MaximumHillRadius>
+      <AtmosphereRadius>11134.9785</AtmosphereRadius>
+      <MinimumSurfaceRadius>6490.10156</MinimumSurfaceRadius>
+      <MaximumHillRadius>6680.987</MaximumHillRadius>
       <AtmosphereWavelengths>
         <X>0.65</X>
         <Y>0.57</Y>
@@ -861,7 +522,7 @@
       <ShowGPS>false</ShowGPS>
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>659369233</Seed>
+      <Seed>1131093347</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -1049,11 +710,11 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
-      <EntityId>-7974964598473808684</EntityId>
+      <EntityId>2765773094208422425</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-2030046641d15862.66--7974964598473808684</Name>
+      <Name>Moonlet-659369233d9756.538-2765773094208422425</Name>
       <PositionAndOrientation>
-        <Position x="62797999.6401545" y="-9172731.3802602328" z="57882191.824895613" />
+        <Position x="-40589893.797355115" y="55838.416366685065" z="80086582.767376512" />
         <Forward x="-0" y="-0" z="-1" />
         <Up x="0" y="1" z="0" />
         <Orientation>
@@ -1086,12 +747,12 @@
       <BoulderItemId xsi:nil="true" />
       <CreatedByUser>false</CreatedByUser>
       <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-2030046641d15862.66</StorageName>
-      <Radius>7931.33</Radius>
+      <StorageName>Moonlet-659369233d9756.538</StorageName>
+      <Radius>4878.269</Radius>
       <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>13879.8281</AtmosphereRadius>
-      <MinimumSurfaceRadius>8089.95654</MinimumSurfaceRadius>
-      <MaximumHillRadius>8327.896</MaximumHillRadius>
+      <AtmosphereRadius>8536.971</AtmosphereRadius>
+      <MinimumSurfaceRadius>4975.83447</MinimumSurfaceRadius>
+      <MaximumHillRadius>5122.18262</MaximumHillRadius>
       <AtmosphereWavelengths>
         <X>0.65</X>
         <Y>0.57</Y>
@@ -1137,7 +798,7 @@
       <ShowGPS>false</ShowGPS>
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>2030046641</Seed>
+      <Seed>659369233</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -1230,6 +891,98 @@
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
       <Seed>1754615986</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-7974964598473808684</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Moonlet-2030046641d15862.66--7974964598473808684</Name>
+      <PositionAndOrientation>
+        <Position x="62797999.6401545" y="-9172731.3802602328" z="57882191.824895613" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>Moonlet-2030046641d15862.66</StorageName>
+      <Radius>7931.33</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>13879.8281</AtmosphereRadius>
+      <MinimumSurfaceRadius>8089.95654</MinimumSurfaceRadius>
+      <MaximumHillRadius>8327.896</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </MieColorScattering>
+        <RayleighHeight>0</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>0</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>0</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>0</SeaLevelModifier>
+        <AtmosphereTopModifier>0</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moonlet</PlanetGenerator>
+      <Seed>2030046641</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -1417,98 +1170,6 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
-      <EntityId>8310813454052639014</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-1759353804d21833.22-8310813454052639014</Name>
-      <PositionAndOrientation>
-        <Position x="95442854.263730884" y="-6173053.7502852976" z="-67401070.021755844" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-1759353804d21833.22</StorageName>
-      <Radius>10916.6123</Radius>
-      <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>19104.0723</AtmosphereRadius>
-      <MinimumSurfaceRadius>11134.9443</MinimumSurfaceRadius>
-      <MaximumHillRadius>11462.4434</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </RayleighScattering>
-        <MieScattering>0</MieScattering>
-        <MieColorScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </MieColorScattering>
-        <RayleighHeight>0</RayleighHeight>
-        <RayleighHeightSpace>0</RayleighHeightSpace>
-        <RayleighTransitionModifier>0</RayleighTransitionModifier>
-        <MieHeight>0</MieHeight>
-        <MieG>0.999832332</MieG>
-        <Intensity>0</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>0</SeaLevelModifier>
-        <AtmosphereTopModifier>0</AtmosphereTopModifier>
-        <Scale>0</Scale>
-        <SunColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>0.3</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>1759353804</Seed>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
       <EntityId>3725280167858534169</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>Moonlet-2132448223d28953.68-3725280167858534169</Name>
@@ -1693,6 +1354,98 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
+      <EntityId>8310813454052639014</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Moonlet-1759353804d21833.22-8310813454052639014</Name>
+      <PositionAndOrientation>
+        <Position x="95442854.263730884" y="-6173053.7502852976" z="-67401070.021755844" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>Moonlet-1759353804d21833.22</StorageName>
+      <Radius>10916.6123</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>19104.0723</AtmosphereRadius>
+      <MinimumSurfaceRadius>11134.9443</MinimumSurfaceRadius>
+      <MaximumHillRadius>11462.4434</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </MieColorScattering>
+        <RayleighHeight>0</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>0</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>0</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>0</SeaLevelModifier>
+        <AtmosphereTopModifier>0</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moonlet</PlanetGenerator>
+      <Seed>1759353804</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
       <EntityId>2784367927330526386</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>Moonlet-597288757d29649.49-2784367927330526386</Name>
@@ -1782,6 +1535,358 @@
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
       <Seed>597288757</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-4911161085436634825</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
+      <PositionAndOrientation>
+        <Position x="0" y="0" z="0" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyModStorageComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
+              <Storage>
+                <dictionary>
+                  <item>
+                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
+                    <Value>2,28,6.0268E+07</Value>
+                  </item>
+                </dictionary>
+              </Storage>
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>RealGasGiant-12345d1000</StorageName>
+      <Radius>500</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>875</AtmosphereRadius>
+      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
+      <MaximumHillRadius>525</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>20</X>
+          <Y>7.5</Y>
+          <Z>10</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>50</X>
+          <Y>50</Y>
+          <Z>50</Z>
+        </MieColorScattering>
+        <RayleighHeight>10</RayleighHeight>
+        <RayleighHeightSpace>10</RayleighHeightSpace>
+        <RayleighTransitionModifier>1</RayleighTransitionModifier>
+        <MieHeight>50</MieHeight>
+        <MieG>0.9998</MieG>
+        <Intensity>1</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>1</SeaLevelModifier>
+        <AtmosphereTopModifier>1</AtmosphereTopModifier>
+        <Scale>0.5</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>RealGasGiant</PlanetGenerator>
+      <Seed>12345</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
+      <SubtypeName>Default_Astronaut</SubtypeName>
+      <EntityId>118338829513043268</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>118338829513043268</Name>
+      <PositionAndOrientation>
+        <Position x="1251055.9065896079" y="171323951.45404059" z="2933155.4401461668" />
+        <Forward x="-0.0426719449" y="-0.994650364" z="-0.094073385" />
+        <Up x="0.0177785326" y="0.0933882743" z="-0.995471" />
+        <Orientation>
+          <X>-0.672954142</X>
+          <Y>0.009797337</Y>
+          <Z>-0.0209413618</Z>
+          <W>0.7393228</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyEntityStatComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
+              <Stats>
+                <MyObjectBuilder_EntityStat>
+                  <SubtypeName>SpaceCharacterHealth</SubtypeName>
+                  <Value>1</Value>
+                  <MaxValue>1</MaxValue>
+                  <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
+                  <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
+                </MyObjectBuilder_EntityStat>
+              </Stats>
+              <ScriptNames>
+                <string>SpaceStatEffect</string>
+              </ScriptNames>
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyAssetModifierComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
+              <AssetModifiers>
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="VeteranMarkII_Boots" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="VeteranMarkII_Helmet" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Suit" />
+                <AssetModifier Type="MyObjectBuilder_AssetModifierDefinition" Subtype="Retro_Gloves" />
+              </AssetModifiers>
+            </Component>
+          </ComponentData>
+          <ComponentData>
+            <TypeId>MyInventoryBase</TypeId>
+            <Component xsi:type="MyObjectBuilder_Inventory">
+              <CanPutItems>true</CanPutItems>
+              <Items>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>AngleGrinderItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>0</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>HandDrillItem</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>1</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>WelderItem</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_Welder">
+                      <SubtypeName>Welder</SubtypeName>
+                      <EntityId>111735936740831630</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>2</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>AutomaticRifleItem</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                      <SubtypeName>RifleGun</SubtypeName>
+                      <EntityId>0</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>3</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>PhysicalPaintGun</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                      <SubtypeName>PaintGun</SubtypeName>
+                      <EntityId>117118786876551035</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                      <GunBase>
+                        <InventoryItemId>4</InventoryItemId>
+                        <RemainingAmmo>1</RemainingAmmo>
+                        <CurrentAmmoMagazineName>PaintGunMag</CurrentAmmoMagazineName>
+                        <RemainingAmmosList />
+                        <LastShootTime>0</LastShootTime>
+                      </GunBase>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>4</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>99988</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+                    <SubtypeName>PaintGunMag</SubtypeName>
+                    <ProjectilesCount>0</ProjectilesCount>
+                  </PhysicalContent>
+                  <ItemId>5</ItemId>
+                </MyObjectBuilder_InventoryItem>
+              </Items>
+              <nextItemId>6</nextItemId>
+              <Volume>0.4</Volume>
+              <Mass>9223372036854.775807</Mass>
+              <MaxItemCount>2147483647</MaxItemCount>
+              <Size xsi:nil="true" />
+              <InventoryFlags />
+              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <CharacterModel>Default_Astronaut</CharacterModel>
+      <Inventory>
+        <CanPutItems>true</CanPutItems>
+        <Items>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>AngleGrinderItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>0</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>HandDrillItem</SubtypeName>
+            </PhysicalContent>
+            <ItemId>1</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>WelderItem</SubtypeName>
+              <GunEntity xsi:type="MyObjectBuilder_Welder">
+                <SubtypeName>Welder</SubtypeName>
+                <EntityId>111735936740831630</EntityId>
+                <PersistentFlags>None</PersistentFlags>
+              </GunEntity>
+            </PhysicalContent>
+            <ItemId>2</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>AutomaticRifleItem</SubtypeName>
+              <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                <SubtypeName>RifleGun</SubtypeName>
+                <EntityId>0</EntityId>
+                <PersistentFlags>None</PersistentFlags>
+              </GunEntity>
+            </PhysicalContent>
+            <ItemId>3</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>1</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+              <SubtypeName>PhysicalPaintGun</SubtypeName>
+              <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                <SubtypeName>PaintGun</SubtypeName>
+                <EntityId>117118786876551035</EntityId>
+                <PersistentFlags>None</PersistentFlags>
+                <GunBase>
+                  <InventoryItemId>4</InventoryItemId>
+                  <RemainingAmmo>1</RemainingAmmo>
+                  <CurrentAmmoMagazineName>PaintGunMag</CurrentAmmoMagazineName>
+                  <RemainingAmmosList />
+                  <LastShootTime>0</LastShootTime>
+                </GunBase>
+              </GunEntity>
+            </PhysicalContent>
+            <ItemId>4</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>99988</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+              <SubtypeName>PaintGunMag</SubtypeName>
+              <ProjectilesCount>0</ProjectilesCount>
+            </PhysicalContent>
+            <ItemId>5</ItemId>
+          </MyObjectBuilder_InventoryItem>
+        </Items>
+        <nextItemId>6</nextItemId>
+        <Volume>0.4</Volume>
+        <Mass>9223372036854.775807</Mass>
+        <MaxItemCount>2147483647</MaxItemCount>
+        <Size xsi:nil="true" />
+        <InventoryFlags />
+        <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+      </Inventory>
+      <Battery>
+        <CurrentCapacity>1E-05</CurrentCapacity>
+        <RegenEffects />
+      </Battery>
+      <LightEnabled>true</LightEnabled>
+      <UsingLadder xsi:nil="true" />
+      <HeadAngle x="0" y="0" />
+      <LinearVelocity x="0" y="0" z="0" />
+      <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
+      <JetpackEnabled>true</JetpackEnabled>
+      <ColorMaskHSV x="0.05" y="0.199999988" z="0.388345033" />
+      <LootingCounter>0</LootingCounter>
+      <DisplayName>Invalid</DisplayName>
+      <IsInFirstPersonView>true</IsInFirstPersonView>
+      <EnableBroadcasting>true</EnableBroadcasting>
+      <OxygenLevel>1</OxygenLevel>
+      <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
+      <StoredGases>
+        <StoredGas>
+          <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
+          <FillLevel>1</FillLevel>
+        </StoredGas>
+        <StoredGas>
+          <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
+          <FillLevel>1</FillLevel>
+        </StoredGas>
+      </StoredGases>
+      <MovementState>Flying</MovementState>
+      <EnabledComponents>
+        <string>InventorySpawnComponent</string>
+        <string>RagdollComponent</string>
+      </EnabledComponents>
+      <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
+      <OwningPlayerIdentityId>144115188075855895</OwningPlayerIdentityId>
+      <IsPersistenceCharacter>true</IsPersistenceCharacter>
+      <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
+      <RelativeDampeningEntity>0</RelativeDampeningEntity>
+      <UsingLadderInfo xsi:nil="true" />
+      <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_CubeGrid">
       <SubtypeName />
@@ -6723,7 +6828,7 @@ Custom auto close time (s)=3
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -6841,7 +6946,7 @@ Custom auto close time (s)=3
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -24066,7 +24171,7 @@ Custom auto close time (s)=3
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame100</TimerType>
-                  <FramesFromLastTrigger>500</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>600</FramesFromLastTrigger>
                   <TimerTickInFrames>900</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -24826,7 +24931,7 @@ Custom auto close time (s)=3
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>60</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -28473,6 +28578,13 @@ Custom auto close time (s)=3
             <Z>35</Z>
           </StartingPosition>
         </OxygenRoom>
+        <OxygenRoom OxygenAmount="515.625">
+          <StartingPosition>
+            <X>0</X>
+            <Y>3</Y>
+            <Z>21</Z>
+          </StartingPosition>
+        </OxygenRoom>
         <OxygenRoom OxygenAmount="2812.5">
           <StartingPosition>
             <X>0</X>
@@ -28576,6 +28688,13 @@ Custom auto close time (s)=3
             <X>1</X>
             <Y>2</Y>
             <Z>22</Z>
+          </StartingPosition>
+        </OxygenRoom>
+        <OxygenRoom OxygenAmount="125">
+          <StartingPosition>
+            <X>0</X>
+            <Y>2</Y>
+            <Z>24</Z>
           </StartingPosition>
         </OxygenRoom>
         <OxygenRoom OxygenAmount="31.46331">
@@ -28688,6 +28807,13 @@ Custom auto close time (s)=3
             <X>6</X>
             <Y>3</Y>
             <Z>34</Z>
+          </StartingPosition>
+        </OxygenRoom>
+        <OxygenRoom OxygenAmount="0">
+          <StartingPosition>
+            <X>-9</X>
+            <Y>1</Y>
+            <Z>35</Z>
           </StartingPosition>
         </OxygenRoom>
         <OxygenRoom OxygenAmount="7.804886">
@@ -28816,135 +28942,9 @@ Custom auto close time (s)=3
             <Z>42</Z>
           </StartingPosition>
         </OxygenRoom>
-        <OxygenRoom OxygenAmount="515.625">
-          <StartingPosition>
-            <X>0</X>
-            <Y>3</Y>
-            <Z>21</Z>
-          </StartingPosition>
-        </OxygenRoom>
-        <OxygenRoom OxygenAmount="125">
-          <StartingPosition>
-            <X>0</X>
-            <Y>2</Y>
-            <Z>28</Z>
-          </StartingPosition>
-        </OxygenRoom>
-        <OxygenRoom OxygenAmount="0">
-          <StartingPosition>
-            <X>-9</X>
-            <Y>1</Y>
-            <Z>35</Z>
-          </StartingPosition>
-        </OxygenRoom>
       </OxygenRooms>
       <GridPresenceTier>Tier1</GridPresenceTier>
       <NPCGridClaimElapsed xsi:nil="true" />
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>-4911161085436634825</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>RealGasGiant-12345d1000--4911161085436634825</Name>
-      <PositionAndOrientation>
-        <Position x="0" y="0" z="0" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyModStorageComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_ModStorageComponent">
-              <Storage>
-                <dictionary>
-                  <item>
-                    <Key>d34ff10e-461d-4511-be49-043bae9b7701</Key>
-                    <Value>2,28,6.0268E+07</Value>
-                  </item>
-                </dictionary>
-              </Storage>
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>RealGasGiant-12345d1000</StorageName>
-      <Radius>500</Radius>
-      <HasAtmosphere>true</HasAtmosphere>
-      <AtmosphereRadius>875</AtmosphereRadius>
-      <MinimumSurfaceRadius>475</MinimumSurfaceRadius>
-      <MaximumHillRadius>525</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>20</X>
-          <Y>7.5</Y>
-          <Z>10</Z>
-        </RayleighScattering>
-        <MieScattering>50</MieScattering>
-        <MieColorScattering>
-          <X>50</X>
-          <Y>50</Y>
-          <Z>50</Z>
-        </MieColorScattering>
-        <RayleighHeight>10</RayleighHeight>
-        <RayleighHeightSpace>10</RayleighHeightSpace>
-        <RayleighTransitionModifier>1</RayleighTransitionModifier>
-        <MieHeight>50</MieHeight>
-        <MieG>0.9998</MieG>
-        <Intensity>1</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>1</SeaLevelModifier>
-        <AtmosphereTopModifier>1</AtmosphereTopModifier>
-        <Scale>0.5</Scale>
-        <SunColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>1</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>RealGasGiant</PlanetGenerator>
-      <Seed>12345</Seed>
     </MyObjectBuilder_EntityBase>
   </SectorObjects>
 </MyObjectBuilder_Sector>
