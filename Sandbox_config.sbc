@@ -319,11 +319,6 @@
       <PublishedFileId>3347790874</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="DeltaVNebulousRadarAddon">
-      <Name>3350427063.sbm</Name>
-      <PublishedFileId>3350427063</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Disposable Worklights">
       <Name>3031257615.sbm</Name>
       <PublishedFileId>3031257615</PublishedFileId>
@@ -352,11 +347,6 @@
     <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
       <Name>3032417765.sbm</Name>
       <PublishedFileId>3032417765</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Nebulous Radar Framework">
-      <Name>3290983434.sbm</Name>
-      <PublishedFileId>3290983434</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC Provider (BB)">
