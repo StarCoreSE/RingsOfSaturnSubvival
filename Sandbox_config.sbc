@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>10</MaxBackupSaves>
@@ -338,11 +338,6 @@
       <PublishedFileId>3188989720</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Faction Hangar - Beta">
-      <Name>3110146798.sbm</Name>
-      <PublishedFileId>3110146798</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Flight Vector">
       <Name>2950011596.sbm</Name>
       <PublishedFileId>2950011596</PublishedFileId>
@@ -463,6 +458,11 @@
       <PublishedFileId>3346579680</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="TSTSSESHangar">
+      <Name>3355214579.sbm</Name>
+      <PublishedFileId>3355214579</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="TSTSSESLinkUtility">
       <Name>3351631376.sbm</Name>
       <PublishedFileId>3351631376</PublishedFileId>
@@ -485,5 +485,5 @@
     </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
-  <LastSaveTime>2024-10-26T13:40:47.8946272-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-26T15:02:35.0378278-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
