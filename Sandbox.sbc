@@ -1367,70 +1367,6 @@ MaxStockAmount=50
           <dictionary />
         </DamageInflicted>
       </MyObjectBuilder_Faction>
-      <MyObjectBuilder_Faction>
-        <FactionId>239168363629720672</FactionId>
-        <Tag>ECO-NPC</Tag>
-        <Name>Enceladus Corporation</Name>
-        <Description>The combined assets of several wealthy CEOs and government entities with the goal of harvesting the rings of Saturn for its riches.</Description>
-        <PrivateInfo />
-        <Members>
-          <MyObjectBuilder_FactionMember>
-            <PlayerId>144115188075855902</PlayerId>
-            <IsLeader>true</IsLeader>
-            <IsFounder>true</IsFounder>
-          </MyObjectBuilder_FactionMember>
-        </Members>
-        <JoinRequests />
-        <AutoAcceptMember>false</AutoAcceptMember>
-        <AutoAcceptPeace>false</AutoAcceptPeace>
-        <AcceptHumans>true</AcceptHumans>
-        <EnableFriendlyFire>false</EnableFriendlyFire>
-        <FactionType>Trader</FactionType>
-        <FactionTypeString>Trader</FactionTypeString>
-        <Stations />
-        <CustomColor x="0" y="-0.8" z="-0.450000018" />
-        <IconColor x="0" y="-0.8" z="-0.450000018" />
-        <FactionIcon>Textures/FactionLogo/ECO-NPC.png</FactionIcon>
-        <TransferedPCUDelta>0</TransferedPCUDelta>
-        <Score>0</Score>
-        <ObjectivePercentageCompleted>0</ObjectivePercentageCompleted>
-        <FactionIconWorkshopId xsi:nil="true" />
-        <DamageInflicted>
-          <dictionary />
-        </DamageInflicted>
-      </MyObjectBuilder_Faction>
-      <MyObjectBuilder_Faction>
-        <FactionId>256594880637664963</FactionId>
-        <Tag>GLF-NPC</Tag>
-        <Name>Ganymede Liberation Front</Name>
-        <Description>The Ganymede Liberation Front (GLF) emerged from a workers' revolt against the Enceladus Corporation (ECO) after years of labor exploitation.</Description>
-        <PrivateInfo />
-        <Members>
-          <MyObjectBuilder_FactionMember>
-            <PlayerId>144115188075855903</PlayerId>
-            <IsLeader>true</IsLeader>
-            <IsFounder>true</IsFounder>
-          </MyObjectBuilder_FactionMember>
-        </Members>
-        <JoinRequests />
-        <AutoAcceptMember>false</AutoAcceptMember>
-        <AutoAcceptPeace>false</AutoAcceptPeace>
-        <AcceptHumans>true</AcceptHumans>
-        <EnableFriendlyFire>false</EnableFriendlyFire>
-        <FactionType>Trader</FactionType>
-        <FactionTypeString>Trader</FactionTypeString>
-        <Stations />
-        <CustomColor x="0" y="-0.8" z="-0.450000018" />
-        <IconColor x="0" y="-0.8" z="-0.450000018" />
-        <FactionIcon>Textures/FactionLogo/GLF-NPC.png</FactionIcon>
-        <TransferedPCUDelta>0</TransferedPCUDelta>
-        <Score>0</Score>
-        <ObjectivePercentageCompleted>0</ObjectivePercentageCompleted>
-        <FactionIconWorkshopId xsi:nil="true" />
-        <DamageInflicted>
-          <dictionary />
-        </DamageInflicted>
-      </MyObjectBuilder_Faction>
     </Factions>
     <Players>
       <dictionary>
@@ -5653,34 +5589,6 @@ MaxStockAmount=50
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855902</IdentityId>
-      <DisplayName>John Enceladus</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-26T15:02:22.1384713-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-18T16:07:52.0711852-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
-    <MyObjectBuilder_Identity>
-      <IdentityId>144115188075855903</IdentityId>
-      <DisplayName>Great Leader</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
-      <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-10-26T15:02:22.1384713-05:00</LastLoginTime>
-      <SavedCharacters />
-      <LastLogoutTime>2024-10-18T16:07:52.0711852-05:00</LastLogoutTime>
-      <RespawnShips />
-      <LastDeathPosition xsi:nil="true" />
-      <ActiveContracts />
-      <TransferedPCUDelta>0</TransferedPCUDelta>
-      <IsGlobalEncounterSpawner>false</IsGlobalEncounterSpawner>
-    </MyObjectBuilder_Identity>
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855895</IdentityId>
       <DisplayName>Invalid</DisplayName>
