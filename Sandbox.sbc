@@ -59,7 +59,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>10</MaxBackupSaves>
@@ -5279,6 +5279,11 @@ MaxStockAmount=50
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Shipyards Revival">
+      <Name>3013053286.sbm</Name>
+      <PublishedFileId>3013053286</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="[QoL] Radio Spectrometry">
       <Name>2687324923.sbm</Name>
       <PublishedFileId>2687324923</PublishedFileId>
@@ -5484,6 +5489,11 @@ MaxStockAmount=50
       <PublishedFileId>3326053117</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="NPC.Pack.Pirates">
+      <Name>3217765752.sbm</Name>
+      <PublishedFileId>3217765752</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
       <Name>500818376.sbm</Name>
       <PublishedFileId>500818376</PublishedFileId>
@@ -5512,11 +5522,6 @@ MaxStockAmount=50
     <ModItem FriendlyName="SC_RelativeTopSpeed_Logarithmic_Angular">
       <Name>3206802244.sbm</Name>
       <PublishedFileId>3206802244</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Shipyards Revival">
-      <Name>3013053286.sbm</Name>
-      <PublishedFileId>3013053286</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Slipspace Engine">
