@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <RealGasGiantsSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OverrideFromConfig>false</OverrideFromConfig>
   <GasGiantBlocksSun>true</GasGiantBlocksSun>
   <GasGiantsHaveAtmoGlobal>true</GasGiantsHaveAtmoGlobal>
   <SetGlobalNoAsteroids>true</SetGlobalNoAsteroids>
@@ -7,7 +8,7 @@
   <UseLensFlareOccluder>true</UseLensFlareOccluder>
   <RingParticleLevel>1</RingParticleLevel>
   <GasGiantInfoList>
-    <GasGiantConfigInfo PlanetName="RealGasGiant-12345d1000--4911161085436634825">
+    <GasGiantConfigInfo PlanetName="RealGasGiant-12345d1000">
       <PlanetCustomName>Saturn</PlanetCustomName>
       <Radius>60268</Radius>
       <PlanetColor X="201" Y="144" Z="57" />
@@ -29,6 +30,7 @@
         <RingLayerSpacingScale>0.001</RingLayerSpacingScale>
         <RingRotationPeriodSeconds>72000</RingRotationPeriodSeconds>
         <ConstrainNearbyAsteroidsToRing>true</ConstrainNearbyAsteroidsToRing>
+        <ShadowOnRingEnabled>true</ShadowOnRingEnabled>
       </RingInfo>
       <InteriorInfo>
         <AsteroidRemoval>true</AsteroidRemoval>

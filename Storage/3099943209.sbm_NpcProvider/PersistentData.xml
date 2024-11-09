@@ -17,6 +17,10 @@
       <FactionTag>FCTM</FactionTag>
       <Modifier>1</Modifier>
     </EconomyStats>
+    <EconomyStats>
+      <FactionTag>SPRT</FactionTag>
+      <Modifier>1</Modifier>
+    </EconomyStats>
   </EconomyModifiers>
   <MilitaryModifiers>
     <MilitaryStats>
@@ -33,6 +37,10 @@
     </MilitaryStats>
     <MilitaryStats>
       <FactionTag>FCTM</FactionTag>
+      <FleetPower>100</FleetPower>
+    </MilitaryStats>
+    <MilitaryStats>
+      <FactionTag>SPRT</FactionTag>
       <FleetPower>100</FleetPower>
     </MilitaryStats>
   </MilitaryModifiers>

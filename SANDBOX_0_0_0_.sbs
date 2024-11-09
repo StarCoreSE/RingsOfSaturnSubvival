@@ -66,190 +66,6 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
-      <EntityId>-4988778591372963440</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-395410119d28328.82--4988778591372963440</Name>
-      <PositionAndOrientation>
-        <Position x="98096311.6697013" y="-9836851.0329886284" z="567960.8203700172" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-395410119d28328.82</StorageName>
-      <Radius>14164.4082</Radius>
-      <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>24787.7148</AtmosphereRadius>
-      <MinimumSurfaceRadius>14447.6963</MinimumSurfaceRadius>
-      <MaximumHillRadius>14872.6289</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </RayleighScattering>
-        <MieScattering>0</MieScattering>
-        <MieColorScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </MieColorScattering>
-        <RayleighHeight>0</RayleighHeight>
-        <RayleighHeightSpace>0</RayleighHeightSpace>
-        <RayleighTransitionModifier>0</RayleighTransitionModifier>
-        <MieHeight>0</MieHeight>
-        <MieG>0.999832332</MieG>
-        <Intensity>0</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>0</SeaLevelModifier>
-        <AtmosphereTopModifier>0</AtmosphereTopModifier>
-        <Scale>0</Scale>
-        <SunColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>0.3</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>395410119</Seed>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>5545219415669746229</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-1469817635d13770.81-5545219415669746229</Name>
-      <PositionAndOrientation>
-        <Position x="71089829.801790312" y="-3431433.3859950705" z="-73527428.383679226" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-1469817635d13770.81</StorageName>
-      <Radius>6885.404</Radius>
-      <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>12049.457</AtmosphereRadius>
-      <MinimumSurfaceRadius>7023.112</MinimumSurfaceRadius>
-      <MaximumHillRadius>7229.674</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </RayleighScattering>
-        <MieScattering>0</MieScattering>
-        <MieColorScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </MieColorScattering>
-        <RayleighHeight>0</RayleighHeight>
-        <RayleighHeightSpace>0</RayleighHeightSpace>
-        <RayleighTransitionModifier>0</RayleighTransitionModifier>
-        <MieHeight>0</MieHeight>
-        <MieG>0.999832332</MieG>
-        <Intensity>0</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>0</SeaLevelModifier>
-        <AtmosphereTopModifier>0</AtmosphereTopModifier>
-        <Scale>0</Scale>
-        <SunColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>0.3</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>1469817635</Seed>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
       <EntityId>4111922261962160278</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>Moonlet-1257304096d21997.62-4111922261962160278</Name>
@@ -339,190 +155,6 @@
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
       <Seed>1257304096</Seed>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>-6867809433423417836</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-77971888d25518.6--6867809433423417836</Name>
-      <PositionAndOrientation>
-        <Position x="-73379349.2380999" y="12664295.225609457" z="-106503642.53598934" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-77971888d25518.6</StorageName>
-      <Radius>12759.3</Radius>
-      <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>22328.7754</AtmosphereRadius>
-      <MinimumSurfaceRadius>13014.4854</MinimumSurfaceRadius>
-      <MaximumHillRadius>13397.2646</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </RayleighScattering>
-        <MieScattering>0</MieScattering>
-        <MieColorScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </MieColorScattering>
-        <RayleighHeight>0</RayleighHeight>
-        <RayleighHeightSpace>0</RayleighHeightSpace>
-        <RayleighTransitionModifier>0</RayleighTransitionModifier>
-        <MieHeight>0</MieHeight>
-        <MieG>0.999832332</MieG>
-        <Intensity>0</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>0</SeaLevelModifier>
-        <AtmosphereTopModifier>0</AtmosphereTopModifier>
-        <Scale>0</Scale>
-        <SunColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>0.3</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>77971888</Seed>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>6395532171649174314</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-289064501d26219.18-6395532171649174314</Name>
-      <PositionAndOrientation>
-        <Position x="-23932678.564136464" y="7179368.40222041" z="-95698447.416135281" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-289064501d26219.18</StorageName>
-      <Radius>13109.5918</Radius>
-      <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>22941.7852</AtmosphereRadius>
-      <MinimumSurfaceRadius>13371.7832</MinimumSurfaceRadius>
-      <MaximumHillRadius>13765.0713</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </RayleighScattering>
-        <MieScattering>0</MieScattering>
-        <MieColorScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </MieColorScattering>
-        <RayleighHeight>0</RayleighHeight>
-        <RayleighHeightSpace>0</RayleighHeightSpace>
-        <RayleighTransitionModifier>0</RayleighTransitionModifier>
-        <MieHeight>0</MieHeight>
-        <MieG>0.999832332</MieG>
-        <Intensity>0</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>0</SeaLevelModifier>
-        <AtmosphereTopModifier>0</AtmosphereTopModifier>
-        <Scale>0</Scale>
-        <SunColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>0.3</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>289064501</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -710,6 +342,98 @@
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
+      <EntityId>-6867809433423417836</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Moonlet-77971888d25518.6--6867809433423417836</Name>
+      <PositionAndOrientation>
+        <Position x="-73379349.2380999" y="12664295.225609457" z="-106503642.53598934" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>Moonlet-77971888d25518.6</StorageName>
+      <Radius>12759.3</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>22328.7754</AtmosphereRadius>
+      <MinimumSurfaceRadius>13014.4854</MinimumSurfaceRadius>
+      <MaximumHillRadius>13397.2646</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </MieColorScattering>
+        <RayleighHeight>0</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>0</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>0</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>0</SeaLevelModifier>
+        <AtmosphereTopModifier>0</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moonlet</PlanetGenerator>
+      <Seed>77971888</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
       <EntityId>-7974964598473808684</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>Moonlet-2030046641d15862.66--7974964598473808684</Name>
@@ -799,6 +523,282 @@
       <SpherizeWithDistance>true</SpherizeWithDistance>
       <PlanetGenerator>Moonlet</PlanetGenerator>
       <Seed>2030046641</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-4988778591372963440</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Moonlet-395410119d28328.82--4988778591372963440</Name>
+      <PositionAndOrientation>
+        <Position x="98096311.6697013" y="-9836851.0329886284" z="567960.8203700172" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>Moonlet-395410119d28328.82</StorageName>
+      <Radius>14164.4082</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>24787.7148</AtmosphereRadius>
+      <MinimumSurfaceRadius>14447.6963</MinimumSurfaceRadius>
+      <MaximumHillRadius>14872.6289</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </MieColorScattering>
+        <RayleighHeight>0</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>0</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>0</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>0</SeaLevelModifier>
+        <AtmosphereTopModifier>0</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moonlet</PlanetGenerator>
+      <Seed>395410119</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>5545219415669746229</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Moonlet-1469817635d13770.81-5545219415669746229</Name>
+      <PositionAndOrientation>
+        <Position x="71089829.801790312" y="-3431433.3859950705" z="-73527428.383679226" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>Moonlet-1469817635d13770.81</StorageName>
+      <Radius>6885.404</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>12049.457</AtmosphereRadius>
+      <MinimumSurfaceRadius>7023.112</MinimumSurfaceRadius>
+      <MaximumHillRadius>7229.674</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </MieColorScattering>
+        <RayleighHeight>0</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>0</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>0</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>0</SeaLevelModifier>
+        <AtmosphereTopModifier>0</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moonlet</PlanetGenerator>
+      <Seed>1469817635</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>6395532171649174314</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Moonlet-289064501d26219.18-6395532171649174314</Name>
+      <PositionAndOrientation>
+        <Position x="-23932678.564136464" y="7179368.40222041" z="-95698447.416135281" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>Moonlet-289064501d26219.18</StorageName>
+      <Radius>13109.5918</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>22941.7852</AtmosphereRadius>
+      <MinimumSurfaceRadius>13371.7832</MinimumSurfaceRadius>
+      <MaximumHillRadius>13765.0713</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </MieColorScattering>
+        <RayleighHeight>0</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>0</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>0</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>0</SeaLevelModifier>
+        <AtmosphereTopModifier>0</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moonlet</PlanetGenerator>
+      <Seed>289064501</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -1352,112 +1352,20 @@
       <PlanetGenerator>Moonlet</PlanetGenerator>
       <Seed>1759353804</Seed>
     </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
-      <SubtypeName />
-      <EntityId>-2329959026057879795</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>Moonlet-1316638684d8211.962--2329959026057879795</Name>
-      <PositionAndOrientation>
-        <Position x="32632680.441250551" y="-9172319.527192384" z="118204593.16134658" />
-        <Forward x="-0" y="-0" z="-1" />
-        <Up x="0" y="1" z="0" />
-        <Orientation>
-          <X>0</X>
-          <Y>0</Y>
-          <Z>0</Z>
-          <W>1</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyPlanetEnvironmentComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
-              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
-              <SectorObstructions />
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <ContentChanged>false</ContentChanged>
-      <BoulderPlanetId xsi:nil="true" />
-      <BoulderSectorId xsi:nil="true" />
-      <BoulderItemId xsi:nil="true" />
-      <CreatedByUser>false</CreatedByUser>
-      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
-      <StorageName>Moonlet-1316638684d8211.962</StorageName>
-      <Radius>4105.981</Radius>
-      <HasAtmosphere>false</HasAtmosphere>
-      <AtmosphereRadius>7185.467</AtmosphereRadius>
-      <MinimumSurfaceRadius>4188.10059</MinimumSurfaceRadius>
-      <MaximumHillRadius>4311.28</MaximumHillRadius>
-      <AtmosphereWavelengths>
-        <X>0.65</X>
-        <Y>0.57</Y>
-        <Z>0.475</Z>
-      </AtmosphereWavelengths>
-      <GravityFalloff>7</GravityFalloff>
-      <MarkAreaEmpty>true</MarkAreaEmpty>
-      <AtmosphereSettings>
-        <RayleighScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </RayleighScattering>
-        <MieScattering>0</MieScattering>
-        <MieColorScattering>
-          <X>1</X>
-          <Y>1</Y>
-          <Z>1</Z>
-        </MieColorScattering>
-        <RayleighHeight>0</RayleighHeight>
-        <RayleighHeightSpace>0</RayleighHeightSpace>
-        <RayleighTransitionModifier>0</RayleighTransitionModifier>
-        <MieHeight>0</MieHeight>
-        <MieG>0.999832332</MieG>
-        <Intensity>0</Intensity>
-        <FogIntensity>0</FogIntensity>
-        <SeaLevelModifier>0</SeaLevelModifier>
-        <AtmosphereTopModifier>0</AtmosphereTopModifier>
-        <Scale>0</Scale>
-        <SunColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunColor>
-        <SunSpecularColor>
-          <X>2</X>
-          <Y>2</Y>
-          <Z>2</Z>
-        </SunSpecularColor>
-      </AtmosphereSettings>
-      <SurfaceGravity>0.3</SurfaceGravity>
-      <SpawnsFlora>false</SpawnsFlora>
-      <ShowGPS>false</ShowGPS>
-      <SpherizeWithDistance>true</SpherizeWithDistance>
-      <PlanetGenerator>Moonlet</PlanetGenerator>
-      <Seed>1316638684</Seed>
-    </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
       <SubtypeName>Default_Astronaut</SubtypeName>
       <EntityId>118338829513043268</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>118338829513043268</Name>
       <PositionAndOrientation>
-        <Position x="1251055.9065896079" y="171323951.45404059" z="2933155.4401461668" />
-        <Forward x="-0.0426719449" y="-0.994650364" z="-0.094073385" />
-        <Up x="0.0177785326" y="0.0933882743" z="-0.995471" />
+        <Position x="1251055.9225168563" y="171323951.56653792" z="2933155.4438767978" />
+        <Forward x="0.0112840682" y="-0.9994953" z="0.0296947528" />
+        <Up x="0.00032927806" y="-0.0296929274" z="-0.999559" />
         <Orientation>
-          <X>-0.672954142</X>
-          <Y>0.009797337</Y>
-          <Z>-0.0209413618</Z>
-          <W>0.7393228</W>
+          <X>-0.7175172</X>
+          <Y>-0.004048038</Y>
+          <Z>0.00393370772</Z>
+          <W>0.6965179</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -1690,6 +1598,98 @@
       <RelativeDampeningEntity>0</RelativeDampeningEntity>
       <UsingLadderInfo xsi:nil="true" />
       <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-2329959026057879795</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Moonlet-1316638684d8211.962--2329959026057879795</Name>
+      <PositionAndOrientation>
+        <Position x="32632680.441250551" y="-9172319.527192384" z="118204593.16134658" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <IsGlobalEncounterAsteroid>false</IsGlobalEncounterAsteroid>
+      <StorageName>Moonlet-1316638684d8211.962</StorageName>
+      <Radius>4105.981</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>7185.467</AtmosphereRadius>
+      <MinimumSurfaceRadius>4188.10059</MinimumSurfaceRadius>
+      <MaximumHillRadius>4311.28</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </MieColorScattering>
+        <RayleighHeight>0</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>0</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>0</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>0</SeaLevelModifier>
+        <AtmosphereTopModifier>0</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>2</X>
+          <Y>2</Y>
+          <Z>2</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moonlet</PlanetGenerator>
+      <Seed>1316638684</Seed>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -6723,7 +6723,7 @@ Custom auto close time (s)=3
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -6841,7 +6841,7 @@ Custom auto close time (s)=3
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -24826,7 +24826,7 @@ Custom auto close time (s)=3
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>

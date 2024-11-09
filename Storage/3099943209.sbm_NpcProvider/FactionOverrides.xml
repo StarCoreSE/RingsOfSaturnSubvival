@@ -20,6 +20,12 @@
       <CanSpawnMissions>true</CanSpawnMissions>
     </FactionDefOverride>
     <FactionDefOverride>
+      <Tag>SPRT</Tag>
+      <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
+      <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
+      <CanSpawnMissions>true</CanSpawnMissions>
+    </FactionDefOverride>
+    <FactionDefOverride>
       <Tag>Danger</Tag>
       <CanSpawnCombatShipsInMissions>false</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>false</CanSpawnInRandomEncounters>
