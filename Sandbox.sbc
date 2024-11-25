@@ -59,7 +59,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>10</MaxBackupSaves>
@@ -5547,11 +5547,6 @@ MaxStockAmount=50
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
-    <ModItem FriendlyName="[bugged]Shipyards Revival">
-      <Name>3013053286.sbm</Name>
-      <PublishedFileId>3013053286</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="[QoL] Production Quota">
       <Name>2304715504.sbm</Name>
       <PublishedFileId>2304715504</PublishedFileId>
@@ -5697,6 +5692,11 @@ MaxStockAmount=50
       <PublishedFileId>2756894170</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="DeltaVBaR">
+      <Name>3366634953.sbm</Name>
+      <PublishedFileId>3366634953</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="DeltaVMoonlets">
       <Name>3347790874.sbm</Name>
       <PublishedFileId>3347790874</PublishedFileId>
@@ -5705,6 +5705,11 @@ MaxStockAmount=50
     <ModItem FriendlyName="DeltaVNebulousRadarAddon">
       <Name>3350427063.sbm</Name>
       <PublishedFileId>3350427063</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="DeltaVShipyards">
+      <Name>3367780558.sbm</Name>
+      <PublishedFileId>3367780558</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Disposable Worklights">
