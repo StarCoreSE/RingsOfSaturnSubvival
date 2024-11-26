@@ -5812,6 +5812,11 @@ MaxStockAmount=50
       <PublishedFileId>3260158135</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Sneaky Sounds - Quieter Tools">
+      <Name>1662953858.sbm</Name>
+      <PublishedFileId>1662953858</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Spectator Turbo">
       <Name>3169862712.sbm</Name>
       <PublishedFileId>3169862712</PublishedFileId>
