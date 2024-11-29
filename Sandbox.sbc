@@ -5897,6 +5897,11 @@ MaxStockAmount=50
       <PublishedFileId>2360788836</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="WelderWall">
+      <Name>3370792625.sbm</Name>
+      <PublishedFileId>3370792625</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />

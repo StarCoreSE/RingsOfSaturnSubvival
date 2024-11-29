@@ -524,6 +524,11 @@
       <PublishedFileId>2360788836</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="WelderWall">
+      <Name>3370792625.sbm</Name>
+      <PublishedFileId>3370792625</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>RingsOfSaturnSubvival</SessionName>
   <LastSaveTime>2024-11-09T07:23:28.3924161-06:00</LastSaveTime>
