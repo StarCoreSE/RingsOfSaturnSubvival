@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>10</MaxBackupSaves>
@@ -329,6 +329,11 @@
       <PublishedFileId>3366634953</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="DeltaVFactionQuestLog">
+      <Name>3373765186.sbm</Name>
+      <PublishedFileId>3373765186</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="DeltaVMoonlets">
       <Name>3347790874.sbm</Name>
       <PublishedFileId>3347790874</PublishedFileId>
@@ -507,11 +512,6 @@
     <ModItem FriendlyName="TSTSSESTweaks">
       <Name>3348670359.sbm</Name>
       <PublishedFileId>3348670359</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="TSTSSESUnderSiege">
-      <Name>3350080558.sbm</Name>
-      <PublishedFileId>3350080558</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Visual Overrides API">
