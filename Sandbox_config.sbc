@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
-    <GameMode>Survival</GameMode>
+    <GameMode>Creative</GameMode>
     <InventorySizeMultiplier>10</InventorySizeMultiplier>
     <BlocksInventorySizeMultiplier>1</BlocksInventorySizeMultiplier>
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>50</MaxPlayers>
+    <OnlineMode>OFFLINE</OnlineMode>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>1024</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>10</MaxBackupSaves>
@@ -22,7 +22,7 @@
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
-    <EnableCopyPaste>false</EnableCopyPaste>
+    <EnableCopyPaste>true</EnableCopyPaste>
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
@@ -165,6 +165,7 @@
     <EnablePlanetaryEncounters>false</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>0</PlanetaryEncounterTimerMin>
     <PlanetaryEncounterTimerMax>0</PlanetaryEncounterTimerMax>
+    <PlanetaryEncounterTimerFirst>5</PlanetaryEncounterTimerFirst>
     <PlanetaryEncounterExistingStructuresRange>0</PlanetaryEncounterExistingStructuresRange>
     <PlanetaryEncounterAreaLockdownRange>0</PlanetaryEncounterAreaLockdownRange>
     <PlanetaryEncounterDesiredSpawnRange>0</PlanetaryEncounterDesiredSpawnRange>
@@ -172,6 +173,9 @@
     <PlanetaryEncounterDespawnTimeout>0</PlanetaryEncounterDespawnTimeout>
     <LimitBlocksBy>BlockPairName</LimitBlocksBy>
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
+    <EnableShareInertiaTensor>false</EnableShareInertiaTensor>
+    <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
+    <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
   </Settings>
   <Mods>
     <ModItem FriendlyName="[QoL] Production Quota">
@@ -187,11 +191,6 @@
     <ModItem FriendlyName="[SpraysAddon]Hazzard signs">
       <Name>2804100557.sbm</Name>
       <PublishedFileId>2804100557</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[SpraysAddon]Pinniped's Maratime Flags">
-      <Name>2858915727.sbm</Name>
-      <PublishedFileId>2858915727</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
