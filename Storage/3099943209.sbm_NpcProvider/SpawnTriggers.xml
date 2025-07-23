@@ -10,9 +10,14 @@
   <PlanetSpawnCount>2</PlanetSpawnCount>
   <PlanetTownChance>10</PlanetTownChance>
   <PlanetSpawnRadius>9000</PlanetSpawnRadius>
+  <AtmosphericSpawn>true</AtmosphericSpawn>
+  <AtmosphericSpawnTimer>1800</AtmosphericSpawnTimer>
+  <AtmosphericSpawnCount>2</AtmosphericSpawnCount>
+  <AtmosphericSpawnRadius>8000</AtmosphericSpawnRadius>
   <UnknownSpawn>true</UnknownSpawn>
   <UnknownSpawnTimer>1800</UnknownSpawnTimer>
   <UnknownSpawnRadius>1000000</UnknownSpawnRadius>
+  <UnknownSpawnLifetime>1200</UnknownSpawnLifetime>
   <SpaceTradeShipRatio>20</SpaceTradeShipRatio>
   <PlanetTradeShipRatio>20</PlanetTradeShipRatio>
   <PlanetBlacklist>Dummy;Fake;Dangerous;RealGasGiant</PlanetBlacklist>

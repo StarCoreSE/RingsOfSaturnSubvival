@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <RealGasGiantsSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <OverrideFromConfig>true</OverrideFromConfig>
+  <OverrideFromConfig>false</OverrideFromConfig>
   <GasGiantBlocksSun>true</GasGiantBlocksSun>
   <GasGiantsHaveAtmoGlobal>true</GasGiantsHaveAtmoGlobal>
   <SetGlobalNoAsteroids>true</SetGlobalNoAsteroids>
@@ -31,6 +31,8 @@
         <RingRotationPeriodSeconds>72000</RingRotationPeriodSeconds>
         <ConstrainNearbyAsteroidsToRing>true</ConstrainNearbyAsteroidsToRing>
         <ShadowOnRingEnabled>true</ShadowOnRingEnabled>
+        <EnabledDraw>true</EnabledDraw>
+        <EnabledParticle>true</EnabledParticle>
       </RingInfo>
       <InteriorInfo>
         <AsteroidRemoval>true</AsteroidRemoval>
@@ -53,4 +55,5 @@
       <SpinCounterClockwise>true</SpinCounterClockwise>
     </GasGiantConfigInfo>
   </GasGiantInfoList>
+  <PlanetRingInfoList />
 </RealGasGiantsSettingsConfig>

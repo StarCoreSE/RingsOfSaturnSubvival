@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<EconomyOfferDemand xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DynamicPricingEnabled>false</DynamicPricingEnabled>
+  <ModifierMin>0.01</ModifierMin>
+  <ModifierMax>5</ModifierMax>
+  <DefaultAmount>10000</DefaultAmount>
+  <BlackList />
+  <BuySellData />
+</EconomyOfferDemand>

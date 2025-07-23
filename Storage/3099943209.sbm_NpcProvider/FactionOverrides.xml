@@ -6,30 +6,45 @@
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>
+      <AdditionalCombatShips />
+      <AdditionalMilitaryBuildings />
+      <AdditionalCivilianBuildings />
     </FactionDefOverride>
     <FactionDefOverride>
       <Tag>FCTM</Tag>
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>
+      <AdditionalCombatShips />
+      <AdditionalMilitaryBuildings />
+      <AdditionalCivilianBuildings />
     </FactionDefOverride>
     <FactionDefOverride>
       <Tag>GLF-NPC</Tag>
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>
+      <AdditionalCombatShips />
+      <AdditionalMilitaryBuildings />
+      <AdditionalCivilianBuildings />
     </FactionDefOverride>
     <FactionDefOverride>
       <Tag>SPRT</Tag>
       <CanSpawnCombatShipsInMissions>true</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>true</CanSpawnInRandomEncounters>
       <CanSpawnMissions>true</CanSpawnMissions>
+      <AdditionalCombatShips />
+      <AdditionalMilitaryBuildings />
+      <AdditionalCivilianBuildings />
     </FactionDefOverride>
     <FactionDefOverride>
       <Tag>Danger</Tag>
       <CanSpawnCombatShipsInMissions>false</CanSpawnCombatShipsInMissions>
       <CanSpawnInRandomEncounters>false</CanSpawnInRandomEncounters>
       <CanSpawnMissions>false</CanSpawnMissions>
+      <AdditionalCombatShips />
+      <AdditionalMilitaryBuildings />
+      <AdditionalCivilianBuildings />
     </FactionDefOverride>
   </Overrides>
 </FactionDefOverrides>
